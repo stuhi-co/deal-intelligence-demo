@@ -1,0 +1,126 @@
+{
+  "snapshots": [
+    {
+      "as_of": "2020-Q2",
+      "sector": "consumer_products",
+      "metrics": {
+        "gdp_growth": -0.09,
+        "fed_funds_rate": 0.0025,
+        "cpi_yoy": 0.006,
+        "consumer_confidence": 85.9
+      },
+      "sector_kpis": {
+        "pet_food_retail_growth_yoy": 0.105,
+        "private_label_share": 0.18,
+        "premium_segment_share": 0.32,
+        "d2c_subscription_growth_yoy": 0.42,
+        "protein_cost_index": 100
+      },
+      "narrative": "COVID-driven pet adoption boom. Pet food retail spiked +10.5% YoY as new owners stocked up; D2C subscription channels accelerated. Fed funds at zero, near-deflationary CPI. Private label share stable at 18%. Protein costs benign."
+    },
+    {
+      "as_of": "2020-Q4",
+      "sector": "consumer_products",
+      "metrics": {
+        "gdp_growth": 0.03,
+        "fed_funds_rate": 0.0025,
+        "cpi_yoy": 0.012,
+        "consumer_confidence": 88.6
+      },
+      "sector_kpis": {
+        "pet_food_retail_growth_yoy": 0.12,
+        "private_label_share": 0.19,
+        "premium_segment_share": 0.33,
+        "d2c_subscription_growth_yoy": 0.55,
+        "protein_cost_index": 104
+      },
+      "narrative": "Pandemic tailwinds peak. Sustained pet ownership growth and premiumization accelerating."
+    },
+    {
+      "as_of": "2023-Q2",
+      "sector": "consumer_products",
+      "metrics": {
+        "gdp_growth": 0.022,
+        "fed_funds_rate": 0.0525,
+        "cpi_yoy": 0.040,
+        "consumer_confidence": 64.4
+      },
+      "sector_kpis": {
+        "pet_food_retail_growth_yoy": 0.045,
+        "private_label_share": 0.24,
+        "premium_segment_share": 0.34,
+        "d2c_subscription_growth_yoy": 0.08,
+        "protein_cost_index": 138
+      },
+      "narrative": "Rate-hike cycle peak. Private label share grinding higher as households trade down in mass/grocery; premium segment defended by D2C and specialty channel."
+    },
+    {
+      "as_of": "2026-Q1",
+      "sector": "consumer_products",
+      "metrics": {
+        "gdp_growth": 0.018,
+        "fed_funds_rate": 0.0375,
+        "cpi_yoy": 0.027,
+        "consumer_confidence": 72.1
+      },
+      "sector_kpis": {
+        "pet_food_retail_growth_yoy": 0.038,
+        "private_label_share": 0.27,
+        "premium_segment_share": 0.36,
+        "d2c_subscription_growth_yoy": 0.11,
+        "protein_cost_index": 142
+      },
+      "narrative": "Normalized growth (~3.8% category) with bifurcated dynamics: private label at 27% of mid-tier and still gaining; premium segment defended (36% share) by subscription and specialty channels. Fed in mid-cycle easing. Protein costs elevated vs 2020 (+42%) but stable."
+    },
+    {
+      "as_of": "2020-Q2",
+      "sector": "manufacturing",
+      "metrics": {
+        "gdp_growth": -0.09,
+        "fed_funds_rate": 0.0025,
+        "cpi_yoy": 0.006,
+        "consumer_confidence": 85.9
+      },
+      "sector_kpis": {
+        "ism_pmi": 43.1,
+        "industrial_production_yoy": -0.135,
+        "input_cost_index": 100,
+        "capex_yoy": -0.082
+      },
+      "narrative": "PMI contraction, supply shocks. Industrial production -13.5% YoY."
+    },
+    {
+      "as_of": "2026-Q1",
+      "sector": "manufacturing",
+      "metrics": {
+        "gdp_growth": 0.018,
+        "fed_funds_rate": 0.0375,
+        "cpi_yoy": 0.027,
+        "consumer_confidence": 72.1
+      },
+      "sector_kpis": {
+        "ism_pmi": 50.4,
+        "industrial_production_yoy": 0.012,
+        "input_cost_index": 128,
+        "capex_yoy": 0.034
+      },
+      "narrative": "PMI just above neutral. Reshoring-driven capex modest +3.4%. Input costs elevated."
+    },
+    {
+      "as_of": "2026-Q1",
+      "sector": "healthcare_services",
+      "metrics": {
+        "gdp_growth": 0.018,
+        "fed_funds_rate": 0.0375,
+        "cpi_yoy": 0.027,
+        "consumer_confidence": 72.1
+      },
+      "sector_kpis": {
+        "payer_consolidation_index": 0.78,
+        "labor_cost_inflation": 0.058,
+        "outcome_based_contract_share": 0.41
+      },
+      "narrative": "Payer consolidation ongoing; outcome-based contracts now 41% of clinical services revenue. Labor inflation persistent."
+    }
+  ]
+}

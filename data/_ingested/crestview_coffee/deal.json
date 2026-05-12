@@ -1,0 +1,151 @@
+{
+  "deal_id": "deal_crestview_coffee_2019",
+  "codename": "Crestview Coffee",
+  "aliases": [
+    "Crestview Coffee",
+    "Crestview Coffee Roasters"
+  ],
+  "company_canonical": "Crestview Coffee Roasters",
+  "stage_entered_at": "2019-08-07",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "consumer_products",
+  "subsector": "packaged_food",
+  "geography": "west_us",
+  "deal_type": "platform",
+  "source_documents": [
+    "doc_crestview_coffee_001",
+    "doc_crestview_coffee_002",
+    "doc_crestview_coffee_003",
+    "doc_crestview_coffee_004",
+    "doc_crestview_coffee_005",
+    "doc_crestview_coffee_006",
+    "doc_crestview_coffee_007",
+    "doc_crestview_coffee_008",
+    "doc_crestview_coffee_009",
+    "doc_crestview_coffee_010",
+    "doc_crestview_coffee_011",
+    "doc_crestview_coffee_012",
+    "doc_crestview_coffee_013",
+    "doc_crestview_coffee_014",
+    "doc_crestview_coffee_015",
+    "doc_crestview_coffee_016",
+    "doc_crestview_coffee_017",
+    "doc_crestview_coffee_018",
+    "doc_crestview_coffee_019",
+    "doc_crestview_coffee_020",
+    "doc_crestview_coffee_021",
+    "doc_crestview_coffee_022",
+    "doc_crestview_coffee_023",
+    "doc_crestview_coffee_024",
+    "doc_crestview_coffee_025",
+    "doc_crestview_coffee_026",
+    "doc_crestview_coffee_027",
+    "doc_crestview_coffee_028",
+    "doc_crestview_coffee_029",
+    "doc_crestview_coffee_030",
+    "doc_crestview_coffee_031",
+    "doc_crestview_coffee_032",
+    "doc_crestview_coffee_033",
+    "doc_crestview_coffee_034",
+    "doc_crestview_coffee_035",
+    "doc_crestview_coffee_036",
+    "doc_crestview_coffee_037",
+    "doc_crestview_coffee_038",
+    "doc_crestview_coffee_039",
+    "doc_crestview_coffee_040",
+    "doc_crestview_coffee_041",
+    "doc_crestview_coffee_042",
+    "doc_crestview_coffee_043",
+    "doc_crestview_coffee_044",
+    "doc_crestview_coffee_045",
+    "doc_crestview_coffee_046",
+    "doc_crestview_coffee_047",
+    "doc_crestview_coffee_048",
+    "doc_crestview_coffee_049",
+    "doc_crestview_coffee_050",
+    "doc_crestview_coffee_051",
+    "doc_crestview_coffee_052",
+    "doc_crestview_coffee_053",
+    "doc_crestview_coffee_054",
+    "doc_crestview_coffee_055",
+    "doc_crestview_coffee_056"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "status": "closed_held",
+  "financials": {
+    "revenue_ltm_usd": 552500000.0,
+    "ebitda_ltm_usd": 88400000.0,
+    "ebitda_margin": 0.16,
+    "revenue_cagr_3yr": null,
+    "ev_proposed_usd": null,
+    "ev_ebitda_multiple": null
+  },
+  "thesis_themes": [
+    "recurring_revenue",
+    "premiumization",
+    "operational_excellence"
+  ],
+  "risk_flags": [
+    "customer_concentration",
+    "integration_risk"
+  ],
+  "outcome": null,
+  "portco_actuals": [
+    {
+      "year": 2019,
+      "revenue_usd": 275182500.0,
+      "ebitda_usd": 37700000.0,
+      "ebitda_margin": 0.137
+    },
+    {
+      "year": 2020,
+      "revenue_usd": 317021300.0,
+      "ebitda_usd": 44700000.0,
+      "ebitda_margin": 0.141
+    },
+    {
+      "year": 2021,
+      "revenue_usd": 359027800.0,
+      "ebitda_usd": 51700000.0,
+      "ebitda_margin": 0.144
+    },
+    {
+      "year": 2022,
+      "revenue_usd": 410135100.0,
+      "ebitda_usd": 60700000.0,
+      "ebitda_margin": 0.148
+    },
+    {
+      "year": 2023,
+      "revenue_usd": 452631600.0,
+      "ebitda_usd": 68800000.0,
+      "ebitda_margin": 0.152
+    },
+    {
+      "year": 2024,
+      "revenue_usd": 496129000.0,
+      "ebitda_usd": 76900000.0,
+      "ebitda_margin": 0.155
+    },
+    {
+      "year": 2025,
+      "revenue_usd": 540251600.0,
+      "ebitda_usd": 85900000.0,
+      "ebitda_margin": 0.159
+    },
+    {
+      "year": 2026,
+      "revenue_usd": 146700000.0,
+      "ebitda_usd": 23500000.0,
+      "ebitda_margin": 0.16
+    }
+  ],
+  "_resolver_meta": {
+    "kind": "portfolio",
+    "qualifying_doc_count": 27,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 56
+  }
+}

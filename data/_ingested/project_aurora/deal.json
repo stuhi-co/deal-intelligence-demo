@@ -1,0 +1,63 @@
+{
+  "deal_id": "deal_project_aurora_2026",
+  "codename": "Project Aurora",
+  "aliases": [
+    "Project Aurora",
+    "Helix Specialty Chemicals, Inc."
+  ],
+  "company_canonical": "Helix Specialty Chemicals, Inc.",
+  "status": "active_diligence",
+  "stage_entered_at": "2026-01-16",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "specialty_chemicals",
+  "subsector": "specialty_intermediates",
+  "geography": "national",
+  "deal_type": "platform",
+  "financials": {
+    "revenue_ltm_usd": 725000000.0,
+    "ebitda_ltm_usd": 95000000.0,
+    "ebitda_margin": 0.131,
+    "revenue_cagr_3yr": 0.148,
+    "ev_proposed_usd": 1100000000.0,
+    "ev_ebitda_multiple": 11.6
+  },
+  "thesis_themes": [
+    "roll_up",
+    "founder_transition",
+    "margin_expansion",
+    "market_consolidation",
+    "recurring_revenue",
+    "operational_excellence"
+  ],
+  "risk_flags": [
+    "commodity_exposure",
+    "cyclicality",
+    "management_quality",
+    "integration_risk",
+    "regulatory_exposure",
+    "customer_concentration"
+  ],
+  "source_documents": [
+    "doc_project_aurora_001",
+    "doc_project_aurora_002",
+    "doc_project_aurora_003",
+    "doc_project_aurora_004",
+    "doc_project_aurora_005",
+    "doc_project_aurora_006",
+    "doc_project_aurora_007",
+    "doc_project_aurora_008",
+    "doc_project_aurora_009",
+    "doc_project_aurora_010",
+    "doc_project_aurora_011",
+    "doc_project_aurora_012"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "outcome": null,
+  "_resolver_meta": {
+    "qualifying_doc_count": 5,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 12
+  }
+}

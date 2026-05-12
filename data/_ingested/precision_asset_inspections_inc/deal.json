@@ -1,0 +1,102 @@
+{
+  "deal_id": "deal_precision_asset_inspections_inc_2016",
+  "codename": "Precision Asset Inspections, Inc.",
+  "aliases": [
+    "Precision Asset Inspections, Inc.",
+    "Precision Asset Inspections",
+    "Project Vantage"
+  ],
+  "company_canonical": "Precision Asset Inspections, Inc.",
+  "stage_entered_at": "2016-01-08",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "tech_enabled_services",
+  "subsector": "managed_services",
+  "geography": "national",
+  "deal_type": "platform",
+  "source_documents": [
+    "doc_precision_asset_inspections_inc_001",
+    "doc_precision_asset_inspections_inc_002",
+    "doc_precision_asset_inspections_inc_003",
+    "doc_precision_asset_inspections_inc_004",
+    "doc_precision_asset_inspections_inc_005",
+    "doc_precision_asset_inspections_inc_006",
+    "doc_precision_asset_inspections_inc_007",
+    "doc_precision_asset_inspections_inc_008",
+    "doc_precision_asset_inspections_inc_009",
+    "doc_precision_asset_inspections_inc_010",
+    "doc_precision_asset_inspections_inc_011",
+    "doc_precision_asset_inspections_inc_012",
+    "doc_precision_asset_inspections_inc_013",
+    "doc_precision_asset_inspections_inc_014",
+    "doc_precision_asset_inspections_inc_015",
+    "doc_precision_asset_inspections_inc_016",
+    "doc_precision_asset_inspections_inc_017",
+    "doc_precision_asset_inspections_inc_018",
+    "doc_precision_asset_inspections_inc_019",
+    "doc_precision_asset_inspections_inc_020"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "status": "closed_exited",
+  "financials": {
+    "revenue_ltm_usd": 52000000.0,
+    "ebitda_ltm_usd": 9400000.0,
+    "ebitda_margin": 0.181,
+    "revenue_cagr_3yr": null,
+    "ev_proposed_usd": 82000000.0,
+    "ev_ebitda_multiple": 8.7
+  },
+  "thesis_themes": [
+    "roll_up",
+    "recurring_revenue",
+    "operational_excellence",
+    "market_consolidation",
+    "margin_expansion"
+  ],
+  "risk_flags": [
+    "integration_risk",
+    "regulatory_exposure",
+    "founder_dependency",
+    "customer_concentration",
+    "cyclicality",
+    "commodity_exposure",
+    "platform_dependency"
+  ],
+  "outcome": {
+    "decision": "closed",
+    "decision_date": "2021-10-15",
+    "primary_reason": null,
+    "secondary_reasons": [],
+    "irr": 0.24,
+    "moic": 3.03,
+    "holding_period_years": 6,
+    "exit_year": 2021,
+    "exit_ev_usd": 310000000.0,
+    "exit_type": "strategic_sale",
+    "post_decision_tracking": "Exit IC memo recommending the Investment Committee approve the sale of Precision Asset Inspections, Inc. to Bureau Veritas S.A. for $310M enterprise value (10.0x LTM Adj. EBITDA of $31.0M). Atlas Crossing Partners Fund II invested $48M in equity (Jan 2016 platform + 3 bolt-ons) and generated estimated total proceeds of $171M including escrow release, yielding a 3.0x gross MOIC and ~23.8% gross IRR over a 5.9-year hold. The company grew revenue from $52M to $142M and EBITDA from $9.4M to $31.0M, completed 3 geographic bolt-ons, commercialized the Vantage IQ SaaS platform to $8.2M ARR, and expanded recurring revenue from 38% to 68%. Bureau Veritas was selected from three final bids as highest value, all-cash with fastest close, with CEO and CTO rolling 4% of EV into the BV vehicle."
+  },
+  "underwriting_case": {
+    "bear": {
+      "ev_usd": 218000000.0,
+      "moic": 1.9,
+      "irr": 0.12
+    },
+    "base": {
+      "ev_usd": 310000000.0,
+      "moic": 3.0,
+      "irr": 0.23
+    },
+    "bull": {
+      "ev_usd": 380000000.0,
+      "moic": 3.9,
+      "irr": 0.3
+    }
+  },
+  "_resolver_meta": {
+    "kind": "exited",
+    "qualifying_doc_count": 11,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 20
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "deal_id": "deal_meridian_safety_systems_2012",
+  "codename": "Meridian Safety Systems ",
+  "aliases": [
+    "Meridian Safety Systems ",
+    "Meridian Safety Systems, Inc.",
+    "Meridian Safety Systems",
+    "Project Summit"
+  ],
+  "company_canonical": "Meridian Safety Systems, Inc.",
+  "stage_entered_at": "2012-10-18",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "industrial_distribution",
+  "subsector": "specialty_distribution",
+  "geography": "midwest_us",
+  "deal_type": "platform",
+  "source_documents": [
+    "doc_meridian_safety_systems_001",
+    "doc_meridian_safety_systems_002",
+    "doc_meridian_safety_systems_003",
+    "doc_meridian_safety_systems_004",
+    "doc_meridian_safety_systems_005",
+    "doc_meridian_safety_systems_006",
+    "doc_meridian_safety_systems_007",
+    "doc_meridian_safety_systems_008",
+    "doc_meridian_safety_systems_009",
+    "doc_meridian_safety_systems_010",
+    "doc_meridian_safety_systems_011",
+    "doc_meridian_safety_systems_012",
+    "doc_meridian_safety_systems_013",
+    "doc_meridian_safety_systems_014",
+    "doc_meridian_safety_systems_015",
+    "doc_meridian_safety_systems_016",
+    "doc_meridian_safety_systems_017",
+    "doc_meridian_safety_systems_018",
+    "doc_meridian_safety_systems_019",
+    "doc_meridian_safety_systems_020"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "status": "closed_exited",
+  "financials": {
+    "revenue_ltm_usd": 72000000.0,
+    "ebitda_ltm_usd": 9000000.0,
+    "ebitda_margin": 0.125,
+    "revenue_cagr_3yr": null,
+    "ev_proposed_usd": 95000000.0,
+    "ev_ebitda_multiple": 6.6
+  },
+  "thesis_themes": [
+    "roll_up",
+    "premiumization",
+    "margin_expansion",
+    "operational_excellence",
+    "market_consolidation",
+    "recurring_revenue"
+  ],
+  "risk_flags": [
+    "customer_concentration",
+    "integration_risk",
+    "founder_dependency",
+    "cyclicality",
+    "private_label_pressure",
+    "regulatory_exposure",
+    "commodity_exposure"
+  ],
+  "outcome": {
+    "decision": "closed",
+    "decision_date": "2018-03-20",
+    "primary_reason": null,
+    "secondary_reasons": [],
+    "irr": 0.226,
+    "moic": 2.82,
+    "holding_period_years": 6,
+    "exit_year": 2018,
+    "exit_ev_usd": 268000000.0,
+    "exit_type": "strategic_sale",
+    "post_decision_tracking": "Atlas Crossing Partners Fund I exit IC memo recommending the sale of Meridian Safety Systems, Inc. to Honeywell Safety Products for $268M enterprise value (9.4x LTM Adj. EBITDA of $28.4M). The transaction is an all-cash stock purchase with a target close of April 15, 2018. ACP invested $42M total equity (Oct 2012 platform + 3 bolt-ons) and realized gross proceeds of ~$141.8M, generating 2.8x gross MOIC and ~22.4% gross IRR over a 5.5-year hold. The investment exceeded its base-case underwrite of 2.5x MOIC. Value creation was driven by organic growth (43%), bolt-on acquisitions (31%), multiple expansion from 6.6x to 9.4x (23%), and FCF/debt paydown (3%). Three bolt-ons (Central States Safety Supply, Appalachian PPE Distributors, Gulf Coast Safety Group) were fully integrated. Revenue grew from $72M to $198M and EBITDA from $9.0M to $28.4M over the hold period."
+  },
+  "underwriting_case": {
+    "bear": {
+      "ev_usd": 196000000.0,
+      "moic": 1.8,
+      "irr": 0.12
+    },
+    "base": {
+      "ev_usd": 268000000.0,
+      "moic": 2.8,
+      "irr": 0.2
+    },
+    "bull": {
+      "ev_usd": 320000000.0,
+      "moic": 3.5,
+      "irr": 0.27
+    }
+  },
+  "_resolver_meta": {
+    "kind": "exited",
+    "qualifying_doc_count": 10,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 20
+  }
+}

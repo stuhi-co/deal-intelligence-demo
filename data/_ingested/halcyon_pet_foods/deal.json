@@ -1,0 +1,98 @@
+{
+  "deal_id": "deal_halcyon_pet_foods_2017",
+  "codename": "Halcyon Pet Foods",
+  "aliases": [
+    "Halcyon Pet Foods",
+    "Halcyon Pet Foods, Inc."
+  ],
+  "company_canonical": "Halcyon Pet Foods, Inc.",
+  "stage_entered_at": "2017-09-18",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "consumer_products",
+  "subsector": "pet_food",
+  "geography": "national",
+  "deal_type": "platform",
+  "source_documents": [
+    "doc_halcyon_pet_foods_001",
+    "doc_halcyon_pet_foods_002",
+    "doc_halcyon_pet_foods_003",
+    "doc_halcyon_pet_foods_004"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "status": "closed_exited",
+  "financials": {
+    "revenue_ltm_usd": 132000000.0,
+    "ebitda_ltm_usd": 25900000.0,
+    "ebitda_margin": 0.196,
+    "revenue_cagr_3yr": 0.259,
+    "ev_proposed_usd": 285000000.0,
+    "ev_ebitda_multiple": 11.0
+  },
+  "thesis_themes": [
+    "premiumization",
+    "market_consolidation",
+    "roll_up",
+    "recurring_revenue",
+    "margin_expansion",
+    "founder_transition"
+  ],
+  "risk_flags": [
+    "customer_concentration",
+    "integration_risk",
+    "founder_dependency",
+    "private_label_pressure",
+    "commodity_exposure",
+    "supply_chain_concentration"
+  ],
+  "outcome": {
+    "decision": "closed",
+    "decision_date": "2023-03-22",
+    "primary_reason": null,
+    "secondary_reasons": [],
+    "irr": 0.284,
+    "moic": 3.5,
+    "holding_period_years": 6,
+    "exit_year": 2023,
+    "exit_ev_usd": 890000000.0,
+    "exit_type": "strategic_sale",
+    "post_decision_tracking": "Atlas Crossing Partners Fund II exit IC memo recommending sale of Halcyon Pet Foods, Inc. to Cabrillo Holdings (Mars-affiliated) for $890M enterprise value (14.5x LTM Adj. EBITDA of $61.4M). The all-cash stock purchase transaction is targeting an April 14, 2023 close. Fund II invested $104M in equity (initial $95M in Sep 2017 + $9M bolt-on for Vesta Treats in Jun 2020) and expects cumulative proceeds of $355M (including $21M Q3 2021 dividend recap), yielding 3.5x gross MOIC and 28.4% gross IRR on a ~5.5-year hold. Net MOIC is 2.8x and net IRR is 23.1%. Key value creation drivers include DTC channel build (subscriber count grew 6.5x), organic revenue growth (51% of equity value creation), multiple expansion from 11.0x to 14.5x (29%), and the Vesta Treats bolt-on (8%). Revenue grew from $132M to $328M and EBITDA from $25.9M to $61.4M over the hold period. The memo notes three competing final bids and recommends Cabrillo for highest bid, all-cash structure, and strategic synergies with Mars global distribution."
+  },
+  "underwriting_case": {
+    "year_1": {
+      "revenue_usd": 160000000.0,
+      "ebitda_usd": 33000000.0,
+      "ebitda_margin": 0.206
+    },
+    "year_2": {
+      "revenue_usd": 190000000.0,
+      "ebitda_usd": 41000000.0,
+      "ebitda_margin": 0.216
+    },
+    "year_3": {
+      "revenue_usd": 222000000.0,
+      "ebitda_usd": 50000000.0,
+      "ebitda_margin": 0.225
+    },
+    "year_4": {
+      "revenue_usd": 254000000.0,
+      "ebitda_usd": 59000000.0,
+      "ebitda_margin": 0.232
+    },
+    "year_5_exit": {
+      "revenue_usd": 285000000.0,
+      "ebitda_usd": 54000000.0,
+      "ebitda_margin": 0.235,
+      "ev_usd": 648000000.0,
+      "moic": 2.6,
+      "irr": 0.217
+    }
+  },
+  "_resolver_meta": {
+    "kind": "exited",
+    "qualifying_doc_count": 4,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 4
+  }
+}

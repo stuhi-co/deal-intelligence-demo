@@ -1,0 +1,124 @@
+{
+  "deal_id": "deal_pinecrest_foods_2022",
+  "codename": "pinecrest_foods",
+  "aliases": [
+    "pinecrest_foods",
+    "Pinecrest Specialty Foods"
+  ],
+  "company_canonical": "Pinecrest Specialty Foods",
+  "stage_entered_at": "2022-02-06",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "consumer_products",
+  "subsector": "packaged_food",
+  "geography": "national",
+  "deal_type": "platform",
+  "source_documents": [
+    "doc_pinecrest_foods_001",
+    "doc_pinecrest_foods_002",
+    "doc_pinecrest_foods_003",
+    "doc_pinecrest_foods_004",
+    "doc_pinecrest_foods_005",
+    "doc_pinecrest_foods_006",
+    "doc_pinecrest_foods_007",
+    "doc_pinecrest_foods_008",
+    "doc_pinecrest_foods_009",
+    "doc_pinecrest_foods_010",
+    "doc_pinecrest_foods_011",
+    "doc_pinecrest_foods_012"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "status": "closed_held",
+  "financials": {
+    "revenue_ltm_usd": 556296300.0,
+    "ebitda_ltm_usd": 75100000.0,
+    "ebitda_margin": 0.135,
+    "revenue_cagr_3yr": null,
+    "ev_proposed_usd": null,
+    "ev_ebitda_multiple": null
+  },
+  "thesis_themes": [
+    "premiumization",
+    "operational_excellence",
+    "margin_expansion"
+  ],
+  "risk_flags": [
+    "integration_risk"
+  ],
+  "outcome": null,
+  "portco_actuals": [
+    {
+      "year": 2021,
+      "revenue_usd": 295200000.0,
+      "ebitda_usd": 36900000.0,
+      "ebitda_margin": 0.125
+    },
+    {
+      "year": 2021,
+      "quarter": 4,
+      "revenue_usd": 83400000.0,
+      "ebitda_usd": 10400000.0,
+      "ebitda_margin": 0.125
+    },
+    {
+      "year": 2022,
+      "revenue_usd": 358267700.0,
+      "ebitda_usd": 45500000.0,
+      "ebitda_margin": 0.127
+    },
+    {
+      "year": 2022,
+      "quarter": 4,
+      "revenue_usd": 102700000.0,
+      "ebitda_usd": 13100000.0,
+      "ebitda_margin": 0.127
+    },
+    {
+      "year": 2023,
+      "revenue_usd": 421538500.0,
+      "ebitda_usd": 54800000.0,
+      "ebitda_margin": 0.13
+    },
+    {
+      "year": 2023,
+      "quarter": 4,
+      "revenue_usd": 122300000.0,
+      "ebitda_usd": 15900000.0,
+      "ebitda_margin": 0.13
+    },
+    {
+      "year": 2024,
+      "revenue_usd": 485606100.0,
+      "ebitda_usd": 64100000.0,
+      "ebitda_margin": 0.132
+    },
+    {
+      "year": 2024,
+      "quarter": 4,
+      "revenue_usd": 136100000.0,
+      "ebitda_usd": 18000000.0,
+      "ebitda_margin": 0.132
+    },
+    {
+      "year": 2025,
+      "quarter": 4,
+      "revenue_usd": 151500000.0,
+      "ebitda_usd": 20400000.0,
+      "ebitda_margin": 0.134
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "revenue_usd": 151300000.0,
+      "ebitda_usd": 20400000.0,
+      "ebitda_margin": 0.135
+    }
+  ],
+  "_resolver_meta": {
+    "kind": "portfolio",
+    "qualifying_doc_count": 6,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 12
+  }
+}

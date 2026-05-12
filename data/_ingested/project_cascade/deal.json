@@ -1,0 +1,61 @@
+{
+  "deal_id": "deal_project_cascade_2025",
+  "codename": "Project Cascade",
+  "aliases": [
+    "Project Cascade"
+  ],
+  "company_canonical": "Project Cascade",
+  "status": "active_diligence",
+  "stage_entered_at": "2025-12-01",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "consumer_products",
+  "subsector": "packaged_food",
+  "geography": "west_us",
+  "deal_type": "platform",
+  "financials": {
+    "revenue_ltm_usd": 160000000.0,
+    "ebitda_ltm_usd": 32000000.0,
+    "ebitda_margin": 0.2,
+    "revenue_cagr_3yr": 0.14,
+    "ev_proposed_usd": 305000000.0,
+    "ev_ebitda_multiple": 9.5
+  },
+  "thesis_themes": [
+    "founder_transition",
+    "recurring_revenue",
+    "premiumization",
+    "roll_up",
+    "margin_expansion"
+  ],
+  "risk_flags": [
+    "customer_concentration",
+    "private_label_pressure",
+    "commodity_exposure",
+    "integration_risk",
+    "management_quality",
+    "cyclicality"
+  ],
+  "source_documents": [
+    "doc_project_cascade_001",
+    "doc_project_cascade_002",
+    "doc_project_cascade_003",
+    "doc_project_cascade_004",
+    "doc_project_cascade_005",
+    "doc_project_cascade_006",
+    "doc_project_cascade_007",
+    "doc_project_cascade_008",
+    "doc_project_cascade_009",
+    "doc_project_cascade_010",
+    "doc_project_cascade_011",
+    "doc_project_cascade_012"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "outcome": null,
+  "_resolver_meta": {
+    "qualifying_doc_count": 3,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 12
+  }
+}

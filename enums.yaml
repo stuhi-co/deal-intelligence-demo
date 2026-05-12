@@ -1,0 +1,193 @@
+# Authoring reference for deals.json and load_kg.cypher.
+# Dev-side only — never shown in the demo.
+# Keep these values in sync between the JSON deal index and the Cypher KG script.
+
+deal_status:
+  - active_diligence
+  - closed_exited
+  - closed_held
+  - passed
+  - dead
+
+deal_type:
+  - platform
+  - add_on
+  - carve_out
+  - take_private
+  - minority
+
+sector:
+  - healthcare_services
+  - industrial_distribution
+  - tech_enabled_services
+  - business_services
+  - consumer_products
+  - manufacturing
+  - specialty_chemicals
+
+subsector:
+  business_services:
+    - facility_services
+    - outsourced_business_services
+  healthcare_services:
+    - outsourced_clinical_services
+    - payer_services
+  industrial_distribution:
+    - specialty_distribution
+    - mro_distribution
+  tech_enabled_services:
+    - vertical_saas
+    - managed_services
+  consumer_products:
+    - pet_food
+    - pet_supplies
+    - packaged_food
+    - food_distribution
+    - automotive_aftermarket
+  manufacturing:
+    - industrial_components
+    - process_manufacturing
+    - packaging
+  specialty_chemicals:
+    - process_chemicals
+    - specialty_intermediates
+
+geography:
+  - northeast_us
+  - southeast_us
+  - midwest_us
+  - west_us
+  - national
+
+thesis_theme:
+  - roll_up
+  - market_consolidation
+  - founder_transition
+  - margin_expansion
+  - recurring_revenue
+  - premiumization
+  - operational_excellence
+
+risk_theme:
+  - management_quality
+  - payer_concentration
+  - customer_concentration
+  - regulatory_exposure
+  - cyclicality
+  - integration_risk
+  - commodity_exposure
+  - private_label_pressure
+  - founder_dependency
+  - supply_chain_concentration
+  - platform_dependency
+
+person_role:
+  - partner
+  - principal
+  - vp
+  - associate
+
+decision_outcome:
+  - closed
+  - passed
+  - dead_no_decision
+
+doc_type:
+  - cim
+  - teaser
+  - management_presentation
+  - process_letter
+  - loi
+  - expert_call
+  - ic_memo
+  - dd_report
+  - financial_model
+  - board_package
+  - quarterly_financials
+  - returns_summary
+  - qofe
+  - vdd_model
+  - funds_flow
+  - ioi_tracker
+  - final_bid_comparison
+
+macro_metric:
+  - gdp_growth
+  - fed_funds_rate
+  - cpi_yoy
+  - consumer_confidence
+  - sector_kpi
+
+exit_type:
+  - strategic_sale
+  - secondary_buyout
+  - ipo
+  - held
+
+# Display-name mapping for KG nodes (enum_key -> human-readable name shown in Neo4j)
+display_names:
+  sector:
+    healthcare_services: "Healthcare Services"
+    business_services: "Business Services"
+    industrial_distribution: "Industrial Distribution"
+    tech_enabled_services: "Tech-Enabled Services"
+    consumer_products: "Consumer Products"
+    manufacturing: "Manufacturing"
+    specialty_chemicals: "Specialty Chemicals"
+  subsector:
+    facility_services: "Facility Services"
+    outsourced_business_services: "Outsourced Business Services"
+    outsourced_clinical_services: "Outsourced Clinical Services"
+    payer_services: "Payer Services"
+    specialty_distribution: "Specialty Distribution"
+    mro_distribution: "MRO Distribution"
+    vertical_saas: "Vertical SaaS"
+    managed_services: "Managed Services"
+    pet_food: "Pet Food"
+    pet_supplies: "Pet Supplies"
+    packaged_food: "Packaged Food"
+    food_distribution: "Food Distribution"
+    automotive_aftermarket: "Automotive Aftermarket"
+    industrial_components: "Industrial Components"
+    process_manufacturing: "Process Manufacturing"
+    packaging: "Packaging"
+    process_chemicals: "Process Chemicals"
+    specialty_intermediates: "Specialty Intermediates"
+  thesis_theme:
+    roll_up: "Roll-up Strategy"
+    market_consolidation: "Market Consolidation"
+    founder_transition: "Founder Transition"
+    margin_expansion: "Margin Expansion"
+    recurring_revenue: "Recurring Revenue"
+    premiumization: "Premiumization"
+    operational_excellence: "Operational Excellence"
+  risk_theme:
+    management_quality: "Management Quality"
+    payer_concentration: "Payer Concentration"
+    customer_concentration: "Customer Concentration"
+    regulatory_exposure: "Regulatory Exposure"
+    cyclicality: "Cyclicality"
+    integration_risk: "Integration Risk"
+    commodity_exposure: "Commodity Exposure"
+    private_label_pressure: "Private Label Pressure"
+    founder_dependency: "Founder Dependency"
+    supply_chain_concentration: "Supply Chain Concentration"
+    platform_dependency: "Platform Dependency"
+  doc_type:
+    cim: "CIM"
+    teaser: "Teaser"
+    management_presentation: "Management Presentation"
+    process_letter: "Process Letter"
+    loi: "Letter of Intent"
+    expert_call: "Expert Call"
+    ic_memo: "IC Memo"
+    dd_report: "DD Report"
+    financial_model: "Financial Model"
+    board_package: "Board Package"
+    quarterly_financials: "Quarterly Financials"
+    returns_summary: "Returns Summary"
+    qofe: "Quality of Earnings"
+    vdd_model: "Vendor Due Diligence Model"
+    funds_flow: "Funds Flow"
+    ioi_tracker: "IOI Tracker"
+    final_bid_comparison: "Final Bid Comparison"

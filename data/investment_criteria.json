@@ -1,0 +1,44 @@
+{
+  "fund": "Demo Capital Fund IV",
+  "vintage": 2024,
+  "committed_capital_usd": 1500000000,
+  "size_criteria": {
+    "ev_min_usd": 100000000,
+    "ev_max_usd": 500000000,
+    "revenue_min_usd": 50000000,
+    "revenue_max_usd": 300000000,
+    "ebitda_min_usd": 12000000,
+    "ebitda_margin_min": 0.12
+  },
+  "sector_preferences": [
+    "healthcare_services",
+    "industrial_distribution",
+    "tech_enabled_services",
+    "consumer_products",
+    "manufacturing"
+  ],
+  "deal_type_preferences": ["platform", "carve_out", "add_on"],
+  "thesis_preferences": [
+    "roll_up",
+    "founder_transition",
+    "recurring_revenue",
+    "margin_expansion",
+    "operational_excellence"
+  ],
+  "deal_breakers": [
+    {"key": "payer_concentration_above_30pct", "description": "Any single payer over 30% of revenue"},
+    {"key": "customer_concentration_above_30pct", "description": "Any single customer over 30% of revenue"},
+    {"key": "ebitda_margin_below_8pct", "description": "LTM EBITDA margin below 8%"},
+    {"key": "negative_revenue_growth", "description": "Negative LTM revenue growth"},
+    {"key": "ev_above_500m", "description": "EV above fund size limit"}
+  ],
+  "return_targets": {
+    "irr_target": 0.25,
+    "moic_target": 2.5,
+    "holding_period_years_target": 5
+  },
+  "valuation_guardrails": {
+    "ev_ebitda_multiple_max": 13.0,
+    "ev_ebitda_multiple_stretch_max": 15.0
+  }
+}

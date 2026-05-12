@@ -1,0 +1,146 @@
+{
+  "deal_id": "deal_vanguard_auto_2021",
+  "codename": "vanguard_auto",
+  "aliases": [
+    "vanguard_auto",
+    "Vanguard Auto Parts"
+  ],
+  "company_canonical": "Vanguard Auto Parts",
+  "stage_entered_at": "2021-02-06",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "consumer_products",
+  "subsector": "automotive_aftermarket",
+  "geography": "national",
+  "deal_type": "platform",
+  "source_documents": [
+    "doc_vanguard_auto_001",
+    "doc_vanguard_auto_002",
+    "doc_vanguard_auto_003",
+    "doc_vanguard_auto_004",
+    "doc_vanguard_auto_005",
+    "doc_vanguard_auto_006",
+    "doc_vanguard_auto_007",
+    "doc_vanguard_auto_008",
+    "doc_vanguard_auto_009",
+    "doc_vanguard_auto_010",
+    "doc_vanguard_auto_011",
+    "doc_vanguard_auto_012",
+    "doc_vanguard_auto_013",
+    "doc_vanguard_auto_014"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "status": "closed_held",
+  "financials": {
+    "revenue_ltm_usd": 1159047600.0,
+    "ebitda_ltm_usd": 121700000.0,
+    "ebitda_margin": 0.105,
+    "revenue_cagr_3yr": null,
+    "ev_proposed_usd": null,
+    "ev_ebitda_multiple": null
+  },
+  "thesis_themes": [
+    "operational_excellence",
+    "margin_expansion",
+    "premiumization"
+  ],
+  "risk_flags": [
+    "integration_risk",
+    "private_label_pressure"
+  ],
+  "outcome": null,
+  "portco_actuals": [
+    {
+      "year": 2020,
+      "revenue_usd": 627381000.0,
+      "ebitda_usd": 52700000.0,
+      "ebitda_margin": 0.084
+    },
+    {
+      "year": 2020,
+      "quarter": 4,
+      "revenue_usd": 147000000.0,
+      "ebitda_usd": 12400000.0,
+      "ebitda_margin": 0.084
+    },
+    {
+      "year": 2021,
+      "revenue_usd": 645454500.0,
+      "ebitda_usd": 56800000.0,
+      "ebitda_margin": 0.088
+    },
+    {
+      "year": 2021,
+      "quarter": 4,
+      "revenue_usd": 164000000.0,
+      "ebitda_usd": 14400000.0,
+      "ebitda_margin": 0.088
+    },
+    {
+      "year": 2022,
+      "revenue_usd": 775000000.0,
+      "ebitda_usd": 71300000.0,
+      "ebitda_margin": 0.092
+    },
+    {
+      "year": 2022,
+      "quarter": 4,
+      "revenue_usd": 206100000.0,
+      "ebitda_usd": 19000000.0,
+      "ebitda_margin": 0.092
+    },
+    {
+      "year": 2023,
+      "revenue_usd": 898958300.0,
+      "ebitda_usd": 86300000.0,
+      "ebitda_margin": 0.096
+    },
+    {
+      "year": 2023,
+      "quarter": 4,
+      "revenue_usd": 227100000.0,
+      "ebitda_usd": 21800000.0,
+      "ebitda_margin": 0.096
+    },
+    {
+      "year": 2024,
+      "revenue_usd": 1011000000.0,
+      "ebitda_usd": 101100000.0,
+      "ebitda_margin": 0.1
+    },
+    {
+      "year": 2024,
+      "quarter": 4,
+      "revenue_usd": 259700000.0,
+      "ebitda_usd": 26000000.0,
+      "ebitda_margin": 0.1
+    },
+    {
+      "year": 2025,
+      "revenue_usd": 1133653800.0,
+      "ebitda_usd": 117900000.0,
+      "ebitda_margin": 0.104
+    },
+    {
+      "year": 2025,
+      "quarter": 4,
+      "revenue_usd": 285900000.0,
+      "ebitda_usd": 29700000.0,
+      "ebitda_margin": 0.104
+    },
+    {
+      "year": 2026,
+      "quarter": 1,
+      "revenue_usd": 289800000.0,
+      "ebitda_usd": 30400000.0,
+      "ebitda_margin": 0.105
+    }
+  ],
+  "_resolver_meta": {
+    "kind": "portfolio",
+    "qualifying_doc_count": 7,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 14
+  }
+}
