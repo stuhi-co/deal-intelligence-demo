@@ -31,6 +31,7 @@ mcp.tool()(cim.evaluate_cim_against_criteria)
 mcp.tool()(portco.get_portco_performance)
 mcp.tool()(portco.get_underwriting_case)
 mcp.tool()(portco.compare_portco_vs_underwriting)
+mcp.tool()(portco.compare_exit_vs_underwriting)
 
 # --- Macro ---
 mcp.tool()(macro.get_macro_snapshot)

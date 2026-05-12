@@ -59,6 +59,7 @@ Restart Claude Desktop.
 | `get_portco_performance` | Portco actuals time series (annual rows; quarterly rows may be interleaved when reported). |
 | `get_underwriting_case` | Underwriting base case (semantic year labels — e.g. year_1 / 3 / 5_exit; LLM-chosen). |
 | `compare_portco_vs_underwriting` | Per-metric per-year variance report. Quarterly actuals are skipped (case is annual). |
+| `compare_exit_vs_underwriting` | Exited deals only: variance between projected exit-year underwriting case and realized outcome (EV, MOIC, IRR). |
 | `get_macro_snapshot` | Sector macro snapshot at a quarter. |
 | `compare_macro` | Delta between two snapshots + narrative. |
 | `get_company_profile` | Normalized profile (gate before sourcing). |
@@ -75,7 +76,7 @@ Restart Claude Desktop.
 6. **Pet food: macro now vs 2020** → `compare_macro("consumer_products", "2020-Q2", "2026-Q1")`
 7. **Source similar companies (profile first)** → `get_company_profile` → confirm → `source_similar_companies`
 8. **Expert who said channel pricing power had declined** → `search_documents(query="channel pricing power declined", deal="X", doc_type="expert_call")`
-9. **Portco vs underwriting** → `compare_portco_vs_underwriting(deal="X")`
+9. **Portco vs underwriting** → `compare_portco_vs_underwriting(deal="Wholesum Foods Distribution")` (held) or `compare_exit_vs_underwriting(deal="Cardinal Filtration Co.")` (exited)
 10. **Pass/proceed on a CIM** → `get_investment_criteria` + `parse_cim` → `evaluate_cim_against_criteria`
 
 ## Data consistency
