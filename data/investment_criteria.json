@@ -1,7 +1,7 @@
 {
-  "fund": "Demo Capital Fund IV",
-  "vintage": 2024,
-  "committed_capital_usd": 1500000000,
+  "fund": "Atlas Crossing Partners Fund IV",
+  "vintage": 2026,
+  "committed_capital_usd": 850000000,
   "size_criteria": {
     "ev_min_usd": 100000000,
     "ev_max_usd": 1500000000,
