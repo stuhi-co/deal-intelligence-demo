@@ -24,6 +24,10 @@ sector:
   - consumer_products
   - manufacturing
   - specialty_chemicals
+  - consumer_apparel
+  - construction_materials
+  - consumer_tech
+  - transportation_logistics
 
 subsector:
   business_services:
@@ -44,6 +48,7 @@ subsector:
     - packaged_food
     - food_distribution
     - automotive_aftermarket
+    - outdoor_hardgoods
   manufacturing:
     - industrial_components
     - process_manufacturing
@@ -51,6 +56,18 @@ subsector:
   specialty_chemicals:
     - process_chemicals
     - specialty_intermediates
+  consumer_apparel:
+    - direct_to_consumer_brands
+    - wholesale_apparel
+  construction_materials:
+    - aggregates_quarrying
+    - building_products
+  consumer_tech:
+    - consumer_electronics
+    - connected_devices
+  transportation_logistics:
+    - freight_logistics
+    - last_mile_delivery
 
 geography:
   - northeast_us
@@ -58,6 +75,7 @@ geography:
   - midwest_us
   - west_us
   - national
+  - international
 
 thesis_theme:
   - roll_up
@@ -134,6 +152,10 @@ display_names:
     consumer_products: "Consumer Products"
     manufacturing: "Manufacturing"
     specialty_chemicals: "Specialty Chemicals"
+    consumer_apparel: "Consumer Apparel"
+    construction_materials: "Construction Materials"
+    consumer_tech: "Consumer Tech"
+    transportation_logistics: "Transportation & Logistics"
   subsector:
     facility_services: "Facility Services"
     outsourced_business_services: "Outsourced Business Services"
@@ -153,6 +175,15 @@ display_names:
     packaging: "Packaging"
     process_chemicals: "Process Chemicals"
     specialty_intermediates: "Specialty Intermediates"
+    direct_to_consumer_brands: "Direct-to-Consumer Brands"
+    wholesale_apparel: "Wholesale Apparel"
+    outdoor_hardgoods: "Outdoor Hardgoods"
+    aggregates_quarrying: "Aggregates & Quarrying"
+    building_products: "Building Products"
+    consumer_electronics: "Consumer Electronics"
+    connected_devices: "Connected Devices"
+    freight_logistics: "Freight Logistics"
+    last_mile_delivery: "Last-Mile Delivery"
   thesis_theme:
     roll_up: "Roll-up Strategy"
     market_consolidation: "Market Consolidation"

@@ -20,6 +20,10 @@ class Sector(StrEnum):
     consumer_products = "consumer_products"
     manufacturing = "manufacturing"
     specialty_chemicals = "specialty_chemicals"
+    consumer_apparel = "consumer_apparel"
+    construction_materials = "construction_materials"
+    consumer_tech = "consumer_tech"
+    transportation_logistics = "transportation_logistics"
 
 
 class DealStatus(StrEnum):

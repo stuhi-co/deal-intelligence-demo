@@ -1,0 +1,51 @@
+{
+  "deal_id": "deal_project_tideway_2023",
+  "codename": "project_tideway",
+  "aliases": [
+    "project_tideway",
+    "Meridian Marine Services"
+  ],
+  "company_canonical": "Meridian Marine Services",
+  "status": "active_diligence",
+  "stage_entered_at": "2023-06-01",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "business_services",
+  "subsector": "outsourced_business_services",
+  "geography": "southeast_us",
+  "deal_type": "platform",
+  "financials": {
+    "revenue_ltm_usd": 185400000.0,
+    "ebitda_ltm_usd": 32100000.0,
+    "ebitda_margin": 0.173,
+    "revenue_cagr_3yr": null,
+    "ev_proposed_usd": 280000000.0,
+    "ev_ebitda_multiple": 8.75
+  },
+  "thesis_themes": [
+    "roll_up",
+    "market_consolidation",
+    "recurring_revenue",
+    "margin_expansion"
+  ],
+  "risk_flags": [
+    "customer_concentration",
+    "founder_dependency",
+    "cyclicality",
+    "regulatory_exposure",
+    "commodity_exposure"
+  ],
+  "source_documents": [
+    "doc_project_tideway_001",
+    "doc_project_tideway_002"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "outcome": null,
+  "_resolver_meta": {
+    "kind": "active",
+    "qualifying_doc_count": 2,
+    "confidence_threshold_used": 0.7,
+    "total_tagged_docs": 2
+  }
+}

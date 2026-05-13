@@ -1240,6 +1240,312 @@
           "irr": 0.358
         }
       }
+    },
+    {
+      "deal_id": "deal_project_pegasus_2021",
+      "codename": "project_pegasus",
+      "aliases": [
+        "project_pegasus",
+        "Stride & Co."
+      ],
+      "company_canonical": "Stride & Co.",
+      "status": "active_diligence",
+      "stage_entered_at": "2021-09-01",
+      "lead_partner": null,
+      "deal_team": [],
+      "sector": "consumer_apparel",
+      "subsector": "direct_to_consumer_brands",
+      "geography": "west_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 78400000.0,
+        "ebitda_ltm_usd": 6500000.0,
+        "ebitda_margin": 0.083,
+        "revenue_cagr_3yr": 0.413,
+        "ev_proposed_usd": 130000000.0,
+        "ev_ebitda_multiple": 20.0
+      },
+      "thesis_themes": [
+        "recurring_revenue",
+        "premiumization",
+        "founder_transition",
+        "margin_expansion"
+      ],
+      "risk_flags": [
+        "founder_dependency",
+        "customer_concentration",
+        "supply_chain_concentration",
+        "cyclicality"
+      ],
+      "source_documents": [
+        "doc_project_pegasus_001",
+        "doc_project_pegasus_002"
+      ],
+      "salesforce_opportunity_id": null,
+      "similar_deals_computed": [],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_project_quarry_2019",
+      "codename": "project_quarry",
+      "aliases": [
+        "project_quarry",
+        "Consolidated Rock Industries"
+      ],
+      "company_canonical": "Consolidated Rock Industries",
+      "status": "active_diligence",
+      "stage_entered_at": "2019-03-01",
+      "lead_partner": null,
+      "deal_team": [],
+      "sector": "construction_materials",
+      "subsector": "aggregates_quarrying",
+      "geography": "west_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 245100000.0,
+        "ebitda_ltm_usd": 44100000.0,
+        "ebitda_margin": 0.18,
+        "revenue_cagr_3yr": 0.141,
+        "ev_proposed_usd": 350000000.0,
+        "ev_ebitda_multiple": 7.9
+      },
+      "thesis_themes": [
+        "roll_up",
+        "market_consolidation",
+        "founder_transition",
+        "margin_expansion"
+      ],
+      "risk_flags": [
+        "founder_dependency",
+        "cyclicality",
+        "customer_concentration",
+        "regulatory_exposure",
+        "commodity_exposure",
+        "integration_risk"
+      ],
+      "source_documents": [
+        "doc_project_quarry_001",
+        "doc_project_quarry_002"
+      ],
+      "salesforce_opportunity_id": null,
+      "similar_deals_computed": [],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_project_sundial_2022",
+      "codename": "project_sundial",
+      "aliases": [
+        "project_sundial",
+        "Slumber Smart, Inc."
+      ],
+      "company_canonical": "Slumber Smart, Inc.",
+      "status": "active_diligence",
+      "stage_entered_at": "2022-04-01",
+      "lead_partner": null,
+      "deal_team": [],
+      "sector": "consumer_tech",
+      "subsector": "connected_devices",
+      "geography": "national",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 145100000.0,
+        "ebitda_ltm_usd": 18000000.0,
+        "ebitda_margin": 0.124,
+        "revenue_cagr_3yr": 0.26,
+        "ev_proposed_usd": 200000000.0,
+        "ev_ebitda_multiple": 11.1
+      },
+      "thesis_themes": [
+        "recurring_revenue",
+        "premiumization",
+        "margin_expansion",
+        "market_consolidation"
+      ],
+      "risk_flags": [
+        "founder_dependency",
+        "supply_chain_concentration",
+        "customer_concentration"
+      ],
+      "source_documents": [
+        "doc_project_sundial_001",
+        "doc_project_sundial_002"
+      ],
+      "salesforce_opportunity_id": null,
+      "similar_deals_computed": [],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_project_tideway_2023",
+      "codename": "project_tideway",
+      "aliases": [
+        "project_tideway",
+        "Meridian Marine Services"
+      ],
+      "company_canonical": "Meridian Marine Services",
+      "status": "active_diligence",
+      "stage_entered_at": "2023-06-01",
+      "lead_partner": null,
+      "deal_team": [],
+      "sector": "business_services",
+      "subsector": "outsourced_business_services",
+      "geography": "southeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 185400000.0,
+        "ebitda_ltm_usd": 32100000.0,
+        "ebitda_margin": 0.173,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 280000000.0,
+        "ev_ebitda_multiple": 8.75
+      },
+      "thesis_themes": [
+        "roll_up",
+        "market_consolidation",
+        "recurring_revenue",
+        "margin_expansion"
+      ],
+      "risk_flags": [
+        "customer_concentration",
+        "founder_dependency",
+        "cyclicality",
+        "regulatory_exposure",
+        "commodity_exposure"
+      ],
+      "source_documents": [
+        "doc_project_tideway_001",
+        "doc_project_tideway_002"
+      ],
+      "salesforce_opportunity_id": null,
+      "similar_deals_computed": [],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_project_vellum_2024",
+      "codename": "project_vellum",
+      "aliases": [
+        "project_vellum",
+        "Ascot Paper Products"
+      ],
+      "company_canonical": "Ascot Paper Products",
+      "status": "active_diligence",
+      "stage_entered_at": "2024-02-01",
+      "lead_partner": null,
+      "deal_team": [],
+      "sector": "manufacturing",
+      "subsector": "process_manufacturing",
+      "geography": "west_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 95100000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.147,
+        "revenue_cagr_3yr": 0.05,
+        "ev_proposed_usd": 140000000.0,
+        "ev_ebitda_multiple": 10.0
+      },
+      "thesis_themes": [
+        "founder_transition",
+        "margin_expansion",
+        "premiumization",
+        "recurring_revenue"
+      ],
+      "risk_flags": [
+        "founder_dependency",
+        "customer_concentration",
+        "supply_chain_concentration"
+      ],
+      "source_documents": [
+        "doc_project_vellum_001",
+        "doc_project_vellum_002"
+      ],
+      "salesforce_opportunity_id": null,
+      "similar_deals_computed": [],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_project_beacon_2023",
+      "codename": "project_beacon",
+      "aliases": [
+        "project_beacon",
+        "Lighthouse Logistics Group"
+      ],
+      "company_canonical": "Lighthouse Logistics Group",
+      "status": "active_diligence",
+      "stage_entered_at": "2023-09-01",
+      "lead_partner": null,
+      "deal_team": [],
+      "sector": "transportation_logistics",
+      "subsector": "last_mile_delivery",
+      "geography": "southeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 218300000.0,
+        "ebitda_ltm_usd": 33700000.0,
+        "ebitda_margin": 0.155,
+        "revenue_cagr_3yr": 0.138,
+        "ev_proposed_usd": 310200000.0,
+        "ev_ebitda_multiple": 9.2
+      },
+      "thesis_themes": [
+        "market_consolidation",
+        "recurring_revenue",
+        "operational_excellence"
+      ],
+      "risk_flags": [
+        "customer_concentration",
+        "cyclicality",
+        "integration_risk"
+      ],
+      "source_documents": [
+        "doc_project_beacon_001",
+        "doc_project_beacon_002"
+      ],
+      "salesforce_opportunity_id": null,
+      "similar_deals_computed": [],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_project_ember_2024",
+      "codename": "project_ember",
+      "aliases": [
+        "project_ember",
+        "Cascade Outdoor Brands"
+      ],
+      "company_canonical": "Cascade Outdoor Brands",
+      "status": "active_diligence",
+      "stage_entered_at": "2024-04-01",
+      "lead_partner": null,
+      "deal_team": [],
+      "sector": "consumer_products",
+      "subsector": "outdoor_hardgoods",
+      "geography": "national",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 112000000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.125,
+        "revenue_cagr_3yr": 0.107,
+        "ev_proposed_usd": 175000000.0,
+        "ev_ebitda_multiple": 12.5
+      },
+      "thesis_themes": [
+        "premiumization",
+        "margin_expansion",
+        "recurring_revenue"
+      ],
+      "risk_flags": [
+        "supply_chain_concentration",
+        "founder_dependency",
+        "cyclicality",
+        "customer_concentration"
+      ],
+      "source_documents": [
+        "doc_project_ember_001",
+        "doc_project_ember_002"
+      ],
+      "salesforce_opportunity_id": null,
+      "similar_deals_computed": [],
+      "outcome": null
     }
   ],
   "people": [

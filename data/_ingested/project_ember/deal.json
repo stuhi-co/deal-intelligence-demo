@@ -1,0 +1,49 @@
+{
+  "deal_id": "deal_project_ember_2024",
+  "codename": "project_ember",
+  "aliases": [
+    "project_ember",
+    "Cascade Outdoor Brands"
+  ],
+  "company_canonical": "Cascade Outdoor Brands",
+  "status": "active_diligence",
+  "stage_entered_at": "2024-04-01",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "consumer_products",
+  "subsector": "outdoor_hardgoods",
+  "geography": "national",
+  "deal_type": "platform",
+  "financials": {
+    "revenue_ltm_usd": 112000000.0,
+    "ebitda_ltm_usd": 14000000.0,
+    "ebitda_margin": 0.125,
+    "revenue_cagr_3yr": 0.107,
+    "ev_proposed_usd": 175000000.0,
+    "ev_ebitda_multiple": 12.5
+  },
+  "thesis_themes": [
+    "premiumization",
+    "margin_expansion",
+    "recurring_revenue"
+  ],
+  "risk_flags": [
+    "supply_chain_concentration",
+    "founder_dependency",
+    "cyclicality",
+    "customer_concentration"
+  ],
+  "source_documents": [
+    "doc_project_ember_001",
+    "doc_project_ember_002"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "outcome": null,
+  "_resolver_meta": {
+    "kind": "active",
+    "qualifying_doc_count": 2,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 2
+  }
+}

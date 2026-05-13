@@ -10716,6 +10716,746 @@
       ],
       "full_text_excerpt": "...",
       "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_pegasus_001",
+      "deal_id": "deal_project_pegasus_2021",
+      "doc_type": "cim",
+      "title": "Project Pegasus \u2014 Stride & Co. Confidential Information Memorandum",
+      "date": "2021-09-01",
+      "summary": "Houlihan Lokey sell-side CIM for Stride & Co. (\"Project Pegasus\"), a purpose-driven premium DTC activewear brand founded in 2016 and headquartered in Los Angeles, CA. The Company offers performance apparel made from sustainably-sourced and recycled materials, complemented by the Stride Studio\u2122 subscription membership (62K members, $21.7M ARR, 115% NRR). LTM Q2'21 revenue of $78M (+32% YoY) and Adj. EBITDA of $6.5M (8.3% margin). Asking EV of ~$130M (20x LTM EBITDA / 1.7x LTM Revenue). Management projects revenue growing to $235M and EBITDA to $54M by FY2025 driven by Studio membership expansion, men's line ramp, and international growth. Management team owns 71% of the company on a fully diluted basis. IOIs due October 8, 2021.",
+      "key_quotes": [
+        {
+          "quote": "Stride has grown from $8M in FY2017 to $78M LTM with no outside capital beyond its 2019 Series B.",
+          "topic": "Financial scale and growth"
+        },
+        {
+          "quote": "Stride Studio membership (62K members, $29/mo) drives 115% NRR; members purchase 3.8x more than non-members.",
+          "topic": "Subscription NRR quality"
+        },
+        {
+          "quote": "Legging ASP of $128 \u2014 premium to Lululemon ($98) and Athleta ($89) core SKUs \u00b7 10 product drops per year; avg. sell-through of 94% within 30 days \u2014 almost zero end-of-season markdown.",
+          "topic": "Pricing power vs. peers"
+        },
+        {
+          "quote": "DTC CAC of $38 (organic-heavy strategy); LTV of $680 (avg. 3.5-year relationship, 4.6 orders/yr) \u00b7 LTV / CAC 17.9x \u2014 Exceptional for consumer DTC \u2014 benchmark is 3\u20135x.",
+          "topic": "Unit economics"
+        },
+        {
+          "quote": "Management team owns 71% of the business on a fully diluted basis \u2014 highly aligned with outcome.",
+          "topic": "Management alignment"
+        }
+      ],
+      "structured": {
+        "company": "Stride & Co.",
+        "revenue_ltm_usd": 78400000.0,
+        "ebitda_ltm_usd": 6500000.0,
+        "ebitda_margin": 0.083,
+        "revenue_cagr_3yr": 0.413,
+        "ev_proposed_usd": 130000000.0,
+        "ev_ebitda_multiple": 20.0,
+        "growth_drivers": [
+          "Stride Studio\u2122 subscription membership with 115% NRR and ~$21.7M ARR growing ~55% YoY",
+          "Men's performance line launched Q2 2021 tracking to $11M annualized",
+          "International expansion (UK/Canada) with <11% of revenue today vs. $28B ex-US TAM",
+          "DTC channel mix shift improving blended gross margins (48.1% FY2018 \u2192 56.2% LTM)",
+          "Organic community strategy driving CAC down 41% since FY2019; LTV/CAC of 17.9x",
+          "Planned footwear and yoga mat product adjacencies with strong brand purchase intent"
+        ],
+        "risks": [
+          "Founders own 71% of equity \u2014 significant founder dependency",
+          "Manufacturing concentrated in 3 B Corp factories (Vietnam and Portugal)",
+          "Premium price positioning ($128 ASP vs. Lululemon $98) vulnerable to consumer trade-down",
+          "Subscription business model adds regulatory/consumer protection complexity in international markets",
+          "Company has taken $26M in Series B preferred \u2014 overhang in capital structure"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_pegasus_002",
+      "deal_id": "deal_project_pegasus_2021",
+      "doc_type": "teaser",
+      "title": "Project Pegasus \u2014 Executive Teaser",
+      "date": "2021-09-01",
+      "summary": "Sell-side teaser prepared by Houlihan Lokey (exclusive advisor) for Stride & Co. (\"Pegasus\"), a Los Angeles-based premium DTC activewear brand founded in 2016. The Company offers performance apparel made from sustainably-sourced/recycled materials and has built a digital-first community anchored by the Stride Studio\u2122 subscription membership (~62K members, $29/mo, $21.7M ARR). LTM revenue of $78M (+32% YoY) with $6.5M Adj. EBITDA (8.3% margin). Asking EV of ~$130M (~20x LTM EBITDA / 1.7x LTM Revenue). Key investment highlights include high-velocity DTC brand, differentiated sustainable product, capital-light outsourced manufacturing model, durable recurring revenue from Studio membership, international whitespace, and a founder-led management team owning 71% of the business. Management projects revenue growing to ~$235M by FY2025E with EBITDA margins expanding to ~13.9% by FY2022E.",
+      "key_quotes": [
+        {
+          "quote": "Stride Studio membership (62K members, $29/mo) drives 115% NRR; members purchase 3.8x more than non-members",
+          "topic": "Brand community and NRR"
+        },
+        {
+          "quote": "Legging ASP of $128 \u2014 premium to Lululemon ($98) and Athleta ($89) core SKUs",
+          "topic": "Pricing power vs. peers"
+        },
+        {
+          "quote": "Blended gross margin 56.2% LTM \u2014 expanding from 48.1% in FY2018 as mix shifts to direct DTC",
+          "topic": "Capital-light model and gross margin"
+        },
+        {
+          "quote": "Management team owns 71% of the business on a fully diluted basis \u2014 highly aligned with outcome",
+          "topic": "Founder alignment"
+        },
+        {
+          "quote": "Stride has grown from $8M in FY2017 to $78M LTM with no outside capital beyond its 2019 Series B",
+          "topic": "Growth from inception"
+        }
+      ],
+      "structured": {
+        "company": "Stride & Co.",
+        "revenue_ltm_usd": 78400000.0,
+        "ebitda_ltm_usd": 6500000.0,
+        "ebitda_margin": 0.083,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 130000000.0,
+        "ev_ebitda_multiple": 20.0,
+        "growth_drivers": [
+          "High-velocity DTC brand with 415K active customers and 82 NPS",
+          "Stride Studio\u2122 membership ($29/mo, 62K members, $21.7M ARR, 115% NRR) driving recurring revenue and repeat purchases",
+          "Sustainably-sourced product platform with pricing power above Lululemon and Athleta",
+          "Capital-light model with outsourced manufacturing and 56.2% gross margin",
+          "International expansion (UK/CA currently <11% of revenue) into $28B ex-US market",
+          "Men's line and footwear adjacencies in early stages",
+          "Experienced founder team with deep activewear DNA (Lululemon, Patagonia, Nike, Peloton pedigree)"
+        ],
+        "risks": [
+          "Early-stage profitability \u2014 8.3% EBITDA margin at LTM scale",
+          "Significant management/founder ownership concentration (71% FD) \u2014 founder dependency risk",
+          "Manufacturing fully outsourced to 3 B Corp factories \u2014 supply chain concentration",
+          "Growth projections are management estimates, not independently verified by Houlihan Lokey",
+          "Premium price point and DTC model subject to consumer spending cyclicality"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2018,
+          "quarter": null,
+          "revenue_usd": 28000000.0,
+          "ebitda_usd": 1500000.0,
+          "ebitda_margin": 0.054
+        },
+        {
+          "year": 2019,
+          "quarter": null,
+          "revenue_usd": 42100000.0,
+          "ebitda_usd": 3500000.0,
+          "ebitda_margin": 0.083
+        },
+        {
+          "year": 2020,
+          "quarter": null,
+          "revenue_usd": 59200000.0,
+          "ebitda_usd": 5200000.0,
+          "ebitda_margin": 0.088
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_quarry_001",
+      "deal_id": "deal_project_quarry_2019",
+      "doc_type": "cim",
+      "title": "Project Quarry \u2014 Consolidated Rock Industries Confidential Information Memorandum",
+      "date": "2019-03-01",
+      "summary": "Harris Williams & Co. sell-side CIM for Consolidated Rock Industries (\"CRI\"), a founder-led regional aggregates producer operating 14 permitted quarry sites across Utah, Nevada, Colorado, and Idaho. CRI produces crushed stone, construction sand & gravel, ready-mix concrete, and industrial minerals. LTM Q1'19 revenue of $245M, Adj. EBITDA of $44M (18.0% margin), with an asking EV of ~$350M (7.9x LTM EBITDA). The investment thesis centers on an irreplaceable permitted reserve base (~580M tons, 30+ years of production), structural supply constraints from permitting barriers, strong pricing power (#1\u20132 position in 6 MSAs), vertical integration via owned fleet and ready-mix operations, and a proven roll-up strategy with an active bolt-on pipeline. CEO David Mercer, the founder with 62% equity, is leading a transition via a targeted sale process with IOIs due April 5, 2019.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Consolidated Rock Industries",
+        "revenue_ltm_usd": 245100000.0,
+        "ebitda_ltm_usd": 44100000.0,
+        "ebitda_margin": 0.18,
+        "revenue_cagr_3yr": 0.141,
+        "ev_proposed_usd": 350000000.0,
+        "ev_ebitda_multiple": 7.9,
+        "growth_drivers": [
+          "Irreplaceable permitted reserve base with 30+ year production horizon",
+          "Infrastructure tailwind from IIJA ($550B+ in construction spending through 2028)",
+          "Strong pricing power \u2014 20% ASP premium over regional average due to permit scarcity",
+          "Vertically integrated operations with owned 220-vehicle fleet and ready-mix division",
+          "Active bolt-on M&A pipeline \u2014 6 targets identified, 3 in late-stage negotiation (~$85M combined EV)",
+          "Western US population growth and supply-constrained permitting environment"
+        ],
+        "risks": [
+          "Founder dependency \u2014 CEO David Mercer owns 62% equity and is central to strategy",
+          "Cyclicality tied to construction activity (residential, commercial, infrastructure)",
+          "Customer concentration \u2014 top 20 accounts represent 58% of revenue, managed by single VP Sales",
+          "Regulatory/permitting exposure \u2014 new quarry permitting takes 8\u201315 years in Mountain West",
+          "Commodity exposure \u2014 aggregate pricing sensitive to regional supply/demand dynamics",
+          "Integration risk from active roll-up acquisition strategy"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2016,
+          "quarter": null,
+          "revenue_usd": 165000000.0,
+          "ebitda_usd": 28100000.0,
+          "ebitda_margin": 0.17
+        },
+        {
+          "year": 2017,
+          "quarter": null,
+          "revenue_usd": 192400000.0,
+          "ebitda_usd": 33000000.0,
+          "ebitda_margin": 0.172
+        },
+        {
+          "year": 2018,
+          "quarter": null,
+          "revenue_usd": 218300000.0,
+          "ebitda_usd": 38000000.0,
+          "ebitda_margin": 0.174
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_quarry_002",
+      "deal_id": "deal_project_quarry_2019",
+      "doc_type": "teaser",
+      "title": "Project Quarry \u2014 Executive Teaser",
+      "date": "2019-03-01",
+      "summary": "Harris Williams & Co. sell-side teaser for Project Quarry / Consolidated Rock Industries (\"CRI\"), a regional aggregates producer operating 14 permitted quarry sites across Utah, Nevada, Colorado, and Idaho. CRI offers ~580M tons of permitted mineral reserves (30+ years of capacity), a 220-vehicle owned fleet, and a vertically integrated ready-mix concrete division. LTM Q1'19 revenue of $245M and Adj. EBITDA of $44M (18.0% margin); asking EV of ~$350M (~7.9x LTM Adj. EBITDA). The investment thesis centers on an irreplaceable permitted reserve base, infrastructure end-market tailwinds (IIJA), strong local market pricing power, and a founder-led roll-up strategy with 6 identified bolt-on targets in adjacent Mountain West markets.",
+      "key_quotes": [
+        {
+          "quote": "With over 580M tons of permitted mineral reserves, CRI offers an acquiror 30+ years of fully-permitted production capacity \u2014 a near-irreplaceable asset given increasingly restrictive permitting environments.",
+          "topic": "Reserve base scarcity"
+        },
+        {
+          "quote": "Crushed stone ASP of $14.20/ton vs. regional average $11.80/ton \u2014 20% premium reflects permit scarcity \u00b7 Pricing increased 6.2% in FY2018 with no volume impact.",
+          "topic": "Pricing power"
+        },
+        {
+          "quote": "CEO David Mercer has identified 6 bolt-on quarry targets in adjacent markets (WY, MT, AZ) \u00b7 3 targets in late-stage negotiation; combined EV ~$85M at 5\u20136x EBITDA (immediate accretion).",
+          "topic": "Roll-up pipeline"
+        }
+      ],
+      "structured": {
+        "company": "Consolidated Rock Industries",
+        "revenue_ltm_usd": 245100000.0,
+        "ebitda_ltm_usd": 44000000.0,
+        "ebitda_margin": 0.18,
+        "revenue_cagr_3yr": 0.142,
+        "ev_proposed_usd": 350000000.0,
+        "ev_ebitda_multiple": 7.9,
+        "growth_drivers": [
+          "Irreplaceable permitted reserve base with 30+ years of production capacity",
+          "Infrastructure end-market tailwind from IIJA ($550B+ in construction spending through 2028)",
+          "Strong pricing power \u2014 #1 or #2 market position in each of 6 served metro areas",
+          "Vertically integrated with owned 220-vehicle fleet and ready-mix concrete division",
+          "Founder-led acquisitive roll-up strategy with 6 identified bolt-on targets"
+        ],
+        "risks": [
+          "Highly regional footprint concentrated in Mountain West (UT, NV, CO, ID)",
+          "Infrastructure/public works revenue mix (48%) creates some cyclicality exposure",
+          "Founder dependency \u2014 CEO David Mercer leading M&A pipeline",
+          "Integration risk from active bolt-on acquisition pipeline (~$85M combined EV)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_sundial_001",
+      "deal_id": "deal_project_sundial_2022",
+      "doc_type": "cim",
+      "title": "Project Sundial \u2014 Confidential Information Memorandum: Slumber Smart, Inc.",
+      "date": "2022-04-01",
+      "summary": "Goldman Sachs-prepared CIM for Slumber Smart, Inc. (\"Project Sundial\"), a Boulder, CO-based premium sleep-tech hardware and software platform. The Company designs and sells an integrated ecosystem of smart mattress pads (SlumberPod\u2122), biometric monitoring hardware, and AI-powered sleep coaching software (SlumberOS\u2122). LTM revenue of $145M growing at 28% YoY, with $18M Adj. EBITDA (12.4% margin) and $29M subscription ARR at 115% NRR. Goldman Sachs is running a limited sell-side auction with a guided enterprise value of ~$200M (11.1x LTM EBITDA). Management projects revenue growing to $340M by FY2026 with EBITDA margins expanding to 21.8%. Key investment themes include a proprietary hardware-software flywheel, premium DTC economics (LTV/CAC of 10.6x), and a structurally growing sleep-wellness TAM.",
+      "key_quotes": [
+        {
+          "quote": "Slumber Smart holds 35% share in the smart mattress sub-segment \u2014 2.5x next closest competitor",
+          "topic": "Market position"
+        },
+        {
+          "quote": "$29M ARR growing ~60% YoY; subscription attached to 73% of hardware sold in trailing 12 months. 115% Net Revenue Retention.",
+          "topic": "Subscription economics"
+        },
+        {
+          "quote": "CAC of ~$180 and an LTV of ~$1,900, yielding a <6-month payback period.",
+          "topic": "Unit economics"
+        },
+        {
+          "quote": "Enterprise Value (guidance): ~$200M \u2014 11.1x LTM Adj. EBITDA",
+          "topic": "Valuation guidance"
+        },
+        {
+          "quote": "Each night of use feeds the SlumberAI model \u2014 accuracy improves with scale, creating embedded switching cost. Software platform (SlumberOS) handles 95M+ nightly data points; 3.2M+ nights of training data accumulated.",
+          "topic": "Proprietary AI moat"
+        }
+      ],
+      "structured": {
+        "company": "Slumber Smart, Inc.",
+        "revenue_ltm_usd": 145100000.0,
+        "ebitda_ltm_usd": 18000000.0,
+        "ebitda_margin": 0.124,
+        "revenue_cagr_3yr": 0.26,
+        "ev_proposed_usd": 200000000.0,
+        "ev_ebitda_multiple": 11.1,
+        "growth_drivers": [
+          "Subscription ARR growing ~60% YoY; $29M ARR with 73% hardware attach rate",
+          "115% Net Revenue Retention from Basic-to-Premium subscription upsell",
+          "DTC model driving 45%+ gross margins and superior unit economics (LTV/CAC of 10.6x)",
+          "Retail expansion to Nordstrom, Crate & Barrel, and Best Buy",
+          "International expansion (UK, AU launched; Europe DE/FR/NL targeted for 2023)",
+          "Adjacent SKU pipeline: SlumberPillow, SlumberCrib, SlumberPro B2B",
+          "Gross margin expansion from 45.5% to 51.8% driven by growing software mix"
+        ],
+        "risks": [
+          "Founder/CEO dependency \u2014 Maya Chen holds 6 of 10 granted patents and built the company from inception",
+          "Manufacturing concentration in Taiwan (single OEM source)",
+          "Hardware gross margins (~44%) dilute blended profitability; competitive pressure from Eight Sleep",
+          "Consumer discretionary spending sensitivity; high ASP ($999\u2013$1,799) limits addressable market",
+          "Relatively modest EBITDA base ($18M LTM) at a premium entry multiple (~11x)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_sundial_002",
+      "deal_id": "deal_project_sundial_2022",
+      "doc_type": "teaser",
+      "title": "Project Sundial \u2014 Executive Teaser",
+      "date": "2022-04-01",
+      "summary": "Goldman Sachs-run limited auction teaser for Project Sundial / Slumber Smart, Inc., a Boulder, CO-based premium sleep-tech hardware and software company founded in 2014. LTM revenue of $145M (+28% YoY), LTM Adj. EBITDA of $18M (12.4% margin), and subscription ARR of $29M (~185K subscribers, 115% NRR). Asking EV of ~$200M (11.1x LTM EBITDA). Process timeline runs April\u2013June 2022. Investment highlights emphasize category leadership in sleep-tech, a hardware+software flywheel (SlumberOS), high-growth SaaS subscription layer, strong DTC unit economics, and international expansion whitespace. Founder-led by CEO Maya Chen (ex-Fitbit).",
+      "key_quotes": [
+        {
+          "quote": "Building the leading platform for precision sleep optimization",
+          "topic": "Category positioning"
+        },
+        {
+          "quote": "Subscription revenue ($29M ARR) is growing ~60% YoY with 115% NRR. The software layer is on a path to represent 30%+ of revenue by 2025, supporting a richer valuation profile.",
+          "topic": "SaaS subscription growth"
+        },
+        {
+          "quote": "CAC of $180 against LTV of $1,900+ (hardware + 3yr sub). Payback period <6 months on DTC channel.",
+          "topic": "Unit economics"
+        },
+        {
+          "quote": "The SlumberOS platform creates a proprietary data loop: each night of sleep data improves algorithm accuracy, deepening engagement and creating switching costs that generic hardware cannot replicate.",
+          "topic": "Competitive moat"
+        }
+      ],
+      "structured": {
+        "company": "Slumber Smart, Inc.",
+        "revenue_ltm_usd": 145000000.0,
+        "ebitda_ltm_usd": 18000000.0,
+        "ebitda_margin": 0.124,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 200000000.0,
+        "ev_ebitda_multiple": 11.1,
+        "growth_drivers": [
+          "High-growth SaaS subscription layer ($29M ARR, ~60% YoY, 115% NRR)",
+          "Hardware+software flywheel creating switching costs via SlumberOS platform",
+          "Expanding DTC and retail distribution (Nordstrom, Crate & Barrel) with strong unit economics (CAC $180, LTV $1,900+)",
+          "International geographic expansion (UK, AU launched 2021; DE, FR targeted 2023)",
+          "Adjacent product SKUs in late-stage development (smart pillow, crib monitor)"
+        ],
+        "risks": [
+          "Low household penetration of sleep-tech hardware (<2% US) may slow adoption",
+          "Founder/management dependency \u2014 CEO is founder Maya Chen",
+          "International expansion execution risk",
+          "Hardware ASP of $1,450 creates consumer affordability sensitivity"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_tideway_001",
+      "deal_id": "deal_project_tideway_2023",
+      "doc_type": "cim",
+      "title": "Project Tideway \u2014 Confidential Information Memorandum: Meridian Marine Services",
+      "date": "2023-06-01",
+      "summary": "Jefferies LLC-prepared CIM for Project Tideway, the sale process for Meridian Marine Services, a Houston-based provider of integrated offshore logistics, vessel chartering, and port services to the Gulf of Mexico energy sector. Meridian operates a fleet of 38 vessels (PSVs, fast crew boats, anchor handling tugs) with owned shore bases at Port Fourchon, LA and Ingleside, TX. LTM Q1'23 revenue of $185M and Adj. EBITDA of $32M (17.3% margin). Asking EV of ~$280M (8.75x LTM EBITDA). The company was founded in 2008 by Kirk Dolan (ex-Tidewater COO) and has completed 3 fleet acquisitions since 2018. Shell and BP collectively represent 41% of LTM revenue. The process is structured as a limited auction with IOIs due July 14, 2023, run exclusively by Jefferies.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Meridian Marine Services",
+        "revenue_ltm_usd": 185400000.0,
+        "ebitda_ltm_usd": 32100000.0,
+        "ebitda_margin": 0.173,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 280000000.0,
+        "ev_ebitda_multiple": 8.75,
+        "growth_drivers": [
+          "Gulf of Mexico deepwater rig count at highest since 2015 driving PSV demand",
+          "PSV spot day rates up 38% YoY; contracted fleet re-pricing at renewal",
+          "IEA projects Gulf deepwater production to grow 12% by 2028",
+          "$285M contract backlog (1.5x LTM revenue) providing revenue visibility through 2025",
+          "Modern fleet (avg. age 7.2 years) with fuel efficiency advantage vs. industry",
+          "Shore base & port services generate $18M stable, asset-light revenue",
+          "Identified bolt-on acquisition targets (2 Gulf operators, ~12 vessels)"
+        ],
+        "risks": [
+          "Customer concentration: Shell and BP collectively 41% of LTM revenue",
+          "Founder/CEO Kirk Dolan owns 58% of equity \u2014 key-man dependency",
+          "Cyclicality: revenue highly correlated with offshore E&P capex and rig count",
+          "Leverage: 3.9x net leverage ratio with $138M total debt",
+          "Fuel cost exposure on ~22% of contracts without cost-plus structure",
+          "Seasonal demand for anchor handling tug (AHT) services",
+          "Regulatory exposure: US Coast Guard compliance, STCW, classification society requirements"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_tideway_002",
+      "deal_id": "deal_project_tideway_2023",
+      "doc_type": "teaser",
+      "title": "Project Tideway \u2014 Executive Teaser",
+      "date": "2023-06-01",
+      "summary": "Jefferies-run sell-side teaser for Project Tideway, the marketed sale of Meridian Marine Services \u2014 a Houston-based provider of offshore logistics, vessel chartering, and port services to the Gulf of Mexico energy sector. Meridian operates a 38-vessel fleet (PSVs, crew boats, anchor handling tugs), owns shore bases in Fourchon, LA and Ingleside, TX, and counts Shell, BP, Chevron, and Murphy Oil as key clients. LTM (Q1'23) revenue is $185M with Adj. EBITDA of $32M (17.3% margin). Asking EV is ~$280M (~8.75x LTM Adj. EBITDA). The investment thesis centers on a contracted revenue backlog ($285M), fleet value at a 54% discount to replacement cost, energy sector tailwinds, and a management team with a demonstrated M&A track record. The process was at teaser-distribution stage as of June 2023.",
+      "key_quotes": [
+        {
+          "quote": "#2 PSV operator in the Gulf of Mexico by fleet capacity; #1 in shallow-water crew transfer \u00b7 Average customer relationship of 8.4 years; Shell and BP collectively 41% of LTM revenue",
+          "topic": "Market Position"
+        },
+        {
+          "quote": "Fleet replacement cost estimated at $520M+ \u2014 acquiring Meridian at $280M represents a 54% discount to asset value",
+          "topic": "Asset Value"
+        },
+        {
+          "quote": "$285M contract backlog as of March 2023 \u2014 1.5x LTM revenue; 78% under term contracts (avg. 2.3yr remaining)",
+          "topic": "Contracted Backlog"
+        },
+        {
+          "quote": "Gulf of Mexico deepwater rig count at 22 active units \u2014 highest since 2015; PSV demand directly correlated \u00b7 Vessel day rates recovering: PSV spot rates up 38% YoY",
+          "topic": "Energy Sector Tailwinds"
+        }
+      ],
+      "structured": {
+        "company": "Meridian Marine Services",
+        "revenue_ltm_usd": 185400000.0,
+        "ebitda_ltm_usd": 32100000.0,
+        "ebitda_margin": 0.173,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 280000000.0,
+        "ev_ebitda_multiple": 8.75,
+        "growth_drivers": [
+          "Strong Gulf of Mexico deepwater rig count recovery (22 active units, highest since 2015)",
+          "PSV spot day rates up 38% YoY with contracted fleet re-pricing at renewal",
+          "IEA projects Gulf deepwater production growth of 12% by 2028; E&P capex up 18% YoY",
+          "$285M contracted backlog (1.5x LTM revenue) providing multi-year revenue visibility",
+          "Cost-plus and CPI escalation clauses on major contracts protecting against inflation",
+          "Shore-base operations generating $18M of stable, asset-light revenue",
+          "Identified bolt-on acquisition targets (2 Gulf operators, ~12 vessels at distressed pricing)"
+        ],
+        "risks": [
+          "Customer concentration: Shell and BP collectively represent 41% of LTM revenue",
+          "Cyclicality tied to E&P operator capital expenditure budgets and rig count",
+          "Commodity price exposure indirectly through E&P client activity levels",
+          "Chartered vessel exposure in addition to owned fleet (operational leverage)",
+          "Management projections not independently verified by Jefferies"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_vellum_001",
+      "deal_id": "deal_project_vellum_2024",
+      "doc_type": "cim",
+      "title": "Project Vellum \u2014 Confidential Information Memorandum: Ascot Paper Products",
+      "date": "2024-02-01",
+      "summary": "Lincoln International has prepared this CIM on behalf of Ascot Paper Products (\"Ascot\"), a Portland, OR-based manufacturer and distributor of premium specialty paper products \u2014 including fine writing papers, art & illustration papers, archival document papers, and premium packaging substrates. Founded in 2001 by Richard Hartley (68% family-owned), Ascot operates two facilities (Portland manufacturing; Memphis distribution) with ~290 employees. LTM Q4'23 revenue of $95M and Adj. EBITDA of $14M (14.7% margin). The Company is being marketed at a ~$140M EV (10.0x LTM Adj. EBITDA) in a targeted sell-side process led by Lincoln International with IOIs due March 15, 2024. Key investment themes include defensible niche positioning via ISO 9706 archival certification and proprietary coating formulas, premium pricing power (30\u201345x premium over commodity paper), durable institutional customer base (Library of Congress, Smithsonian) on 5-year supply agreements, and a high-growth DTC/e-commerce channel (65% CAGR FY2021\u2013FY2023). The balance sheet is debt-free with $11M cash. This is a first-generation family liquidity event with Margaret Hartley designated as CEO successor.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Ascot Paper Products",
+        "revenue_ltm_usd": 95100000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.147,
+        "revenue_cagr_3yr": 0.05,
+        "ev_proposed_usd": 140000000.0,
+        "ev_ebitda_multiple": 10.0,
+        "growth_drivers": [
+          "DTC and e-commerce channel expansion (65% CAGR FY2021\u2013FY2023; ascot.com + Amazon)",
+          "Premium pricing power with minimal volume impact (4\u20136% annual price increases in FY2022\u2013FY2023)",
+          "Institutional archival supply agreements with Library of Congress, Smithsonian, and 12 university archives",
+          "Specialty packaging substrate segment growing +28% in FY2023 with new luxury brand pipeline",
+          "Channel mix shift to higher-margin DTC (58% GM) from wholesale (28% GM) structurally accretive to margins",
+          "FSC certification and sustainability credentials opening new institutional preferred-supplier relationships"
+        ],
+        "risks": [
+          "Founder/family dependency \u2014 Richard Hartley personally manages institutional relationships; first-generation sale",
+          "Customer concentration \u2014 top 20 accounts represent 62% of revenue",
+          "Small DTC/e-commerce base relative to wholesale despite high CAGR",
+          "Single manufacturing facility in Portland, OR creates operational concentration risk",
+          "Premium specialty paper niche is small (~$210M served market) limiting scale potential",
+          "Management projections not independently verified"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_vellum_002",
+      "deal_id": "deal_project_vellum_2024",
+      "doc_type": "teaser",
+      "title": "Project Vellum \u2014 Executive Teaser",
+      "date": "2024-02-01",
+      "summary": "Executive teaser prepared by Lincoln International (exclusive advisor) for Project Vellum, the sale process for Ascot Paper Products \u2014 a Portland, OR-based manufacturer and distributor of premium specialty paper products (fine writing, art, archival, and packaging substrates). The company was founded in 2001 and is majority family-owned (Hartley family, 68%), representing a first-generation founder transition. LTM revenue is $95M with LTM Adj. EBITDA of $14M (14.7% margin); asking EV is ~$140M (~10.0x LTM Adj. EBITDA). Key investment highlights include defensible niche positioning via patents and certifications, premium pricing power, a durable institutional customer base with long tenure, a fast-growing DTC/e-commerce channel, FSC-certified sustainability credentials, and a clean balance sheet with zero debt. Management projects revenue growing from $102M (FY2024E) to $137M (FY2028E) with margin expansion to ~17%+.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Ascot Paper Products",
+        "revenue_ltm_usd": 95100000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.147,
+        "revenue_cagr_3yr": 0.05,
+        "ev_proposed_usd": 140000000.0,
+        "ev_ebitda_multiple": 10.0,
+        "growth_drivers": [
+          "DTC/e-commerce channel expansion (65% CAGR FY2021\u2013FY2023)",
+          "Premium pricing power with 30\u201345x premium to commodity paper",
+          "Institutional archival customer growth with 5-year supply agreements",
+          "Channel mix shift toward higher-margin DTC (58% GM vs. 28% wholesale)",
+          "Sustainability credentials driving institutional and consumer demand",
+          "Potential bolt-on acquisition capacity post-close (zero debt, $11M cash)"
+        ],
+        "risks": [
+          "Top 20 accounts represent 62% of revenue \u2014 customer concentration",
+          "Single manufacturing facility in Portland, OR \u2014 operational concentration",
+          "Family-owned with Hartley family at 68% \u2014 founder dependency on transition",
+          "Management projections not independently verified by Lincoln International",
+          "Specialty/niche market with limited addressable market size disclosed"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_beacon_001",
+      "deal_id": "deal_project_beacon_2023",
+      "doc_type": "cim",
+      "title": "Project Beacon \u2013 Confidential Information Memorandum: Lighthouse Logistics Group",
+      "date": "2023-09-01",
+      "summary": "William Blair-prepared CIM for Lighthouse Logistics Group (\"Project Beacon\"), a technology-enabled regional LTL and final-mile freight provider headquartered in Charlotte, NC. The company operates 14 terminals across the Southeast and Mid-Atlantic, a fleet of 680 vehicles, and a proprietary route-optimization platform (BeaconOS). LTM Sep 2023 revenue of $218M and Adj. EBITDA of $33.7M (15.5% margin). The e-commerce final-mile segment grew 41% YoY and represents 28% of revenue, with a target of 40%+ by 2026. BeaconOS is also white-labeled to 3PLs generating $2.1M ARR. The process kicked off in Aug 2023 with a Q1 2024 targeted signing/close. Implied EV of ~$310M based on 9.2x LTM EBITDA. Platform acquisition opportunity in a highly fragmented Southeast LTL market.",
+      "key_quotes": [
+        {
+          "quote": "BeaconOS route optimization reduces cost-per-stop by 14% vs. manual dispatch; 97.4% OTD rate \u2014 top decile for regional LTL",
+          "topic": "Proprietary technology moat"
+        },
+        {
+          "quote": "Final-mile e-commerce segment grew 41% YoY; now 28% of revenue, targeted at 40%+ by 2026",
+          "topic": "E-commerce growth"
+        },
+        {
+          "quote": "Southeast LTL market estimated at $8.4B; top-5 regional players hold <30% share; Lighthouse is #3 by terminals",
+          "topic": "Market fragmentation and consolidation opportunity"
+        },
+        {
+          "quote": "7-year average customer tenure; top-20 customers represent 52% of revenue with no single customer >8%",
+          "topic": "Customer concentration"
+        },
+        {
+          "quote": "BeaconOS white-labeled to 2 regional 3PLs \u2014 SaaS revenue stream of $2.1M ARR at 80%+ gross margin",
+          "topic": "SaaS licensing revenue"
+        }
+      ],
+      "structured": {
+        "company": "Lighthouse Logistics Group",
+        "revenue_ltm_usd": 218300000.0,
+        "ebitda_ltm_usd": 33700000.0,
+        "ebitda_margin": 0.155,
+        "revenue_cagr_3yr": 0.138,
+        "ev_proposed_usd": 310200000.0,
+        "ev_ebitda_multiple": 9.2,
+        "growth_drivers": [
+          "Final-mile e-commerce segment growing 41% YoY; targeted at 40%+ of revenue by 2026",
+          "BeaconOS proprietary route optimization reduces cost-per-stop by 14%; top-decile 97.4% OTD rate",
+          "BeaconOS SaaS licensing to 3PLs generating $2.1M ARR at 80%+ gross margins",
+          "Healthcare logistics vertical growing at 3-year CAGR of 24%; provides counter-cyclical stability",
+          "Highly fragmented Southeast LTL market ($8.4B TAM) with active bolt-on acquisition pipeline"
+        ],
+        "risks": [
+          "Top-20 customers represent 52% of revenue \u2014 moderate customer concentration",
+          "~22% of volume sourced through freight brokers, exposing margins to broker rate fluctuations",
+          "Asset base includes 680 vehicles with ongoing fleet refresh capital requirements",
+          "Integration risk from planned tuck-in terminal acquisitions",
+          "Cyclicality inherent in LTL freight volumes tied to industrial and retail end markets"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_beacon_002",
+      "deal_id": "deal_project_beacon_2023",
+      "doc_type": "teaser",
+      "title": "PROJECT BEACON \u2014 Executive Summary Teaser | Lighthouse Logistics Group",
+      "date": "2023-09-01",
+      "summary": "William Blair-distributed sell-side teaser for Project Beacon, Lighthouse Logistics Group \u2014 a technology-enabled regional LTL and final-mile freight provider headquartered in Charlotte, NC, operating 14 terminals across the Southeast and Mid-Atlantic U.S. LTM revenue of $218M and LTM Adj. EBITDA of $33.7M (15.5% margin). Seller is asking ~$310M (9.2x LTM EBITDA). Key investment highlights include proprietary BeaconOS route optimization technology, a rapidly growing e-commerce/final-mile segment (41% YoY, 28% of revenue), a fragmented regional LTL market opportunity, and a diversified revenue base with counter-cyclical healthcare exposure. Process launched September 2023 through William Blair.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Lighthouse Logistics Group",
+        "revenue_ltm_usd": 218000000.0,
+        "ebitda_ltm_usd": 33700000.0,
+        "ebitda_margin": 0.155,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 310000000.0,
+        "ev_ebitda_multiple": 9.2,
+        "growth_drivers": [
+          "Proprietary BeaconOS route optimization platform driving 14% cost-per-stop reduction vs. manual dispatch",
+          "High-growth final-mile e-commerce segment up 41% YoY, now 28% of revenue targeting 40%+ by 2026",
+          "Highly fragmented Southeast LTL market (~$8.4B TAM) with top-5 players holding <30% share \u2014 consolidation opportunity",
+          "Counter-cyclical healthcare vertical (19% of revenue) with 3-year CAGR of 24%",
+          "97.4% on-time delivery rate \u2014 top decile for regional LTL"
+        ],
+        "risks": [
+          "Cyclicality inherent in freight/logistics volumes tied to broader economic activity",
+          "Top client represents <8% of revenue \u2014 moderate customer concentration",
+          "Execution risk in scaling final-mile e-commerce mix to 40%+ target",
+          "Regional concentration in Southeast/Mid-Atlantic may limit addressable market"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_ember_001",
+      "deal_id": "deal_project_ember_2024",
+      "doc_type": "cim",
+      "title": "Project Ember \u2013 Cascade Outdoor Brands Confidential Information Memorandum",
+      "date": "2024-04-01",
+      "summary": "Harris Williams sell-side CIM for Cascade Outdoor Brands (\"Project Ember\"), a Denver, CO-based premium designer and manufacturer of technical outdoor hardgoods (tents, shelters, ultralight cookware) sold under two owned brands \u2014 Ridgeline (mid-market, $95 ASP) and Summit Series (premium, $285 ASP). LTM Apr 2024 revenue of $112M and Adj. EBITDA of $14.0M (12.5% margin). DTC e-commerce represents 44% of revenue, up from 29% three years ago. The Company has 58K paid loyalty members, 3 issued patents, international revenue in 22 countries, and an OEM/licensing royalty stream ($3.2M ARR). Indicative EV implied at ~$175M (12.5x LTM EBITDA). Sale process initiated April 2024; closing targeted Q3 2024.",
+      "key_quotes": [
+        {
+          "quote": "Ridgeline targets weekend campers and trail runners (ASP $95); Summit Series serves thru-hikers and mountaineers (ASP $285) \u2014 Brand separation prevents channel conflict; Ridgeline sold at REI and Target; Summit Series exclusively at specialty and DTC.",
+          "topic": "Brand positioning"
+        },
+        {
+          "quote": "DTC e-commerce grew from 29% to 44% of revenue over 3 years; gross margin 15pp higher than wholesale channel.",
+          "topic": "DTC channel growth"
+        },
+        {
+          "quote": "Subscription loyalty program ('Summit Club') with 58K paying members at $49/yr; 91% year-1 retention.",
+          "topic": "Loyalty program"
+        },
+        {
+          "quote": "AeroShield\u2122 fabric technology (2 patents): 22% lighter than competitive Dyneema composites at comparable strength... HexLite\u2122 cookware alloy (1 patent): 18% lighter than titanium with equivalent heat distribution; $3.2M in royalty-bearing licenses to 2 OEM brands.",
+          "topic": "Proprietary technology"
+        },
+        {
+          "quote": "International revenue +34% YoY, led by Germany, Japan, and Australia; 22 distributor relationships in place.",
+          "topic": "International growth"
+        }
+      ],
+      "structured": {
+        "company": "Cascade Outdoor Brands",
+        "revenue_ltm_usd": 112000000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.125,
+        "revenue_cagr_3yr": 0.107,
+        "ev_proposed_usd": 175000000.0,
+        "ev_ebitda_multiple": 12.5,
+        "growth_drivers": [
+          "DTC e-commerce channel expansion (29% to 44% of revenue over 3 years)",
+          "International revenue growth (+34% YoY) with underpenetrated EU and Asia-Pacific markets",
+          "Summit Club loyalty subscription program (58K paying members, 91% year-1 retention)",
+          "Proprietary AeroShield\u2122 and HexLite\u2122 IP generating OEM licensing royalties ($3.2M ARR)",
+          "Japan DTC joint venture in diligence (projected $4M incremental Year 1 revenue)",
+          "Premiumization via Summit Series brand (ASP $285, NPS 74)"
+        ],
+        "risks": [
+          "Manufacturing concentration in Vietnam and Taiwan (4 partners)",
+          "Founder-led company with two REI veterans; key-person dependency",
+          "Wholesale channel (REI, Target) dependence for Ridgeline brand",
+          "Cyclical outdoor consumer discretionary spending",
+          "International distributor/JV execution risk"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_ember_002",
+      "deal_id": "deal_project_ember_2024",
+      "doc_type": "teaser",
+      "title": "Project Ember \u2014 Executive Summary Teaser: Cascade Outdoor Brands",
+      "date": "2024-04-01",
+      "summary": "Harris Williams sell-side teaser for Cascade Outdoor Brands (\"Project Ember\"), a Denver, CO-based premium designer and manufacturer of technical outdoor hardgoods (tents, shelters, ultralight cookware) sold under two owned brands \u2014 Ridgeline (mid-market, $95 ASP) and Summit Series (premium, $285 ASP). The company was founded in 2009 by two former REI product managers and distributes through DTC e-commerce (44%), specialty outdoor retail (38%), and international distributors across 22 countries (18%). LTM Revenue of $112M and LTM Adj. EBITDA of $14M (12.5% margin). Asking price of ~$175M (12.5x LTM Adj. EBITDA). Key highlights include DTC-led margin expansion, proprietary AeroShield\u2122 material innovation (3 patents), and strong international momentum (+34% YoY).",
+      "key_quotes": [],
+      "structured": {
+        "company": "Cascade Outdoor Brands",
+        "revenue_ltm_usd": 112000000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.125,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 175000000.0,
+        "ev_ebitda_multiple": 12.5,
+        "growth_drivers": [
+          "DTC e-commerce channel expansion (grew from 29% to 44% of revenue over 3 years)",
+          "International revenue growth (+34% YoY) across 22 distributor relationships",
+          "Proprietary AeroShield\u2122 fabric technology with 3 patents and 2 pending",
+          "Two distinct brands spanning mid-market (Ridgeline) and premium (Summit Series) outdoor segments",
+          "15pp gross margin advantage in DTC vs. wholesale channel"
+        ],
+        "risks": [
+          "Supply chain concentration \u2014 4 manufacturing partners in Vietnam and Taiwan",
+          "Founder-led business (two former REI product managers)",
+          "Dependence on specialty outdoor retail partners (REI, Backcountry, EVO) for 38% of revenue"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
     }
   ]
 }
