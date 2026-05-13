@@ -11456,6 +11456,585 @@
       "period_actuals": [],
       "full_text_excerpt": "...",
       "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_001",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q1 2026 Board of Directors Package",
+      "date": "2026-05-08",
+      "summary": "Final board package for Crestview Coffee Roasters as an Atlas Crossing Partners Fund II portfolio company ahead of an imminent exit transaction. Q1 2026 revenue was $146.7M (+9.2% YoY) and EBITDA was $23.5M (16.0% margin), both ahead of budget by ~3\u20135%. HSR clearance was received with no second request and close was targeted for April 30, 2026. Key KPIs \u2014 118K subscription customers and 44% DTC mix \u2014 hit exit targets. Fund II gross MOIC is estimated at ~2.8x. This is explicitly noted as the final Crestview board package.",
+      "key_quotes": [
+        {
+          "quote": "This is Crestview's final board meeting as an Atlas Crossing portfolio company. The HSR waiting period expired with no second request.",
+          "topic": "Exit process / transaction status"
+        },
+        {
+          "quote": "Fund II gross MOIC estimated ~2.8x. This is the final Crestview board package.",
+          "topic": "Realized returns estimate"
+        },
+        {
+          "quote": "118K subscribers; 44% DTC mix \u2014 both above exit targets",
+          "topic": "KPI performance vs. exit targets"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 88400000.0,
+        "ebitda_margin": 0.16,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (44% of revenue vs. 22% at entry)",
+          "Subscription customer growth (118K vs. 48K at entry)",
+          "Roasting facility expansion (5 facilities vs. 3 at entry)",
+          "Average order value improvement ($82 vs. $68 at entry)"
+        ],
+        "risks": [
+          "Post-close transition risk (mitigated by transition agreements)",
+          "Close execution risk (deemed very low; all conditions satisfied)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": null,
+        "moic": 2.8,
+        "holding_period_years": null,
+        "exit_year": 2026,
+        "exit_ev_usd": null,
+        "entry_ev_usd": null,
+        "exit_type": "strategic_sale"
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2026,
+          "quarter": 1,
+          "revenue_usd": 146700000.0,
+          "ebitda_usd": 23500000.0,
+          "ebitda_margin": 0.16
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_002",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2019 Board of Directors Package",
+      "date": "2020-02-06",
+      "summary": "Q4 2019 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). Revenue of $77.2M and EBITDA of $10.6M (13.7% margin) came in 3.1% and 6.0% ahead of budget, respectively. LTM EBITDA of $37.7M vs. entry baseline of $36.5M; net leverage of 5.8x vs. entry 5.9x. DTC channel and subscription growth are primary strategic initiatives, alongside a Pacific Northwest bolt-on scan with 5 regional roasters under NDA (Cascade Roasting management meeting held January 2020). ERP/NetSuite rollout on track. Q1 2020 revenue guidance of $76.8M with Cascade Roasting LOI targeted.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2019 revenue of $77.2M and EBITDA of $10.6M (13.7% margin), ahead of budget by 3.1%.",
+          "topic": "Q4 financial performance"
+        },
+        {
+          "quote": "Q4 holiday season delivered record DTC orders, validating the channel investment thesis.",
+          "topic": "DTC channel validation"
+        },
+        {
+          "quote": "5 regional roasters under NDA; Cascade Roasting management meeting Jan 2020.",
+          "topic": "Bolt-on M&A pipeline"
+        },
+        {
+          "quote": "Q1 2020 expected revenue $76.8M. DTC replatform go-live target Q1 2020. Cascade Roasting LOI target Q1 2020.",
+          "topic": "Next quarter outlook"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 37700000.0,
+        "ebitda_margin": 0.137,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion and replatform",
+          "Subscription model launch targeting 118,000 customers",
+          "Pacific Northwest bolt-on acquisitions (Cascade Roasting)",
+          "Roasting facility expansion (3 to 5 facilities)",
+          "Holiday season record DTC orders"
+        ],
+        "risks": [
+          "Integration pace of strategic initiatives",
+          "DTC unit economics at scale",
+          "Green coffee commodity pricing exposure"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2019,
+          "quarter": 4,
+          "revenue_usd": 77200000.0,
+          "ebitda_usd": 10600000.0,
+          "ebitda_margin": 0.137
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_003",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2020 Board of Directors Package",
+      "date": "2021-02-06",
+      "summary": "Q4 2020 board package for Crestview Coffee Roasters (Fund II portfolio company). The company delivered Q4 revenue of $89.6M and EBITDA of $12.6M (14.1% margin), beating budget by ~3\u20135%. The Cascade Roasting bolt-on acquisition closed in Q4, adding Seattle production capacity and 18,000 DTC subscribers. DTC mix expanded to 26.9% of revenue vs. 22% at entry. LTM EBITDA stands at $44.7M vs. $36.5M at entry. Key risks include COVID-driven corporate channel weakness (\u201335% YoY) offset by DTC outperformance, freight cost inflation, and Cascade integration (tracking well). Q1 2021 revenue guidance of $89.1M; Blue Mountain Coffee bolt-on pipeline active.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 44700000.0,
+        "ebitda_margin": 0.141,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (26.9% of revenue vs. 22% at entry)",
+          "Subscription customer growth (63,556 vs. 48,000 at entry)",
+          "Cascade Roasting acquisition adding Seattle production capacity and 18,000 incremental DTC subscribers",
+          "ERP unification enabling operational scale",
+          "Blue Mountain Coffee bolt-on pipeline active"
+        ],
+        "risks": [
+          "COVID-driven corporate channel demand down ~35% YoY; recovery expected H2 2021",
+          "Supply chain / freight cost inflation (+12%)",
+          "Cascade Roasting integration execution risk"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2020,
+          "quarter": 4,
+          "revenue_usd": 89600000.0,
+          "ebitda_usd": 12600000.0,
+          "ebitda_margin": 0.141
+        },
+        {
+          "year": 2020,
+          "quarter": null,
+          "revenue_usd": null,
+          "ebitda_usd": 44700000.0,
+          "ebitda_margin": null
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_004",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2021 Board of Directors Package",
+      "date": "2022-02-06",
+      "summary": "Q4 2021 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). The company delivered Q4 revenue of $98.1M (+9.5% YoY) and EBITDA of $14.2M (14.4% margin), beating budget by 3.0% and 6.0% respectively. LTM EBITDA stands at $51.7M vs. $36.5M at entry; net leverage improved to 5.2x from entry 5.9x. Key strategic highlights include subscription growth exceeding plan (73,926 subscribers vs. 75K plan), a corporate channel relaunch with 14 new accounts, approval of Portland 2 roasting facility, and an advanced LOI on the Blue Mountain Coffee add-on acquisition. Green coffee commodity inflation (+18% YoY) is the primary near-term risk.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2021 revenue of $98.1M and EBITDA of $14.2M (14.4% margin), ahead of budget by 3.0%.",
+          "topic": "Q4 performance vs. budget"
+        },
+        {
+          "quote": "80K+ subscribers vs. 75K plan; churn rate 4.2% vs. 5.5% target",
+          "topic": "Subscription growth"
+        },
+        {
+          "quote": "Blue Mountain Coffee eval. \u2014 Advanced: LOI signed; due diligence underway",
+          "topic": "Add-on acquisition status"
+        },
+        {
+          "quote": "Green coffee prices +18% YoY; pricing power partially offsetting",
+          "topic": "Commodity risk"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 51700000.0,
+        "ebitda_margin": 0.144,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC subscription channel growth (30.1% of revenue vs. 22.0% at entry)",
+          "Corporate catering channel recovery as offices reopened",
+          "New enterprise accounts including 3 Fortune 500 companies",
+          "Roasting capacity expansion (Portland 2 facility approved)",
+          "Blue Mountain Coffee acquisition in advanced diligence"
+        ],
+        "risks": [
+          "Green coffee commodity price inflation (+18% YoY)",
+          "Subscription churn management (currently 4.2% vs. 5.5% target)",
+          "Corporate channel competition from commodity office coffee providers",
+          "Integration risk from pending Blue Mountain Coffee add-on acquisition"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2021,
+          "quarter": 4,
+          "revenue_usd": 98100000.0,
+          "ebitda_usd": 14200000.0,
+          "ebitda_margin": 0.144
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_005",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2022 Board of Directors Package",
+      "date": "2023-02-06",
+      "summary": "Q4 2022 board package for Crestview Coffee Roasters (Fund II portfolio company). Q4 revenue of $113.8M (+16.0% YoY) and EBITDA of $16.8M (14.8% margin) beat budget by 3.2% and 5.0%, respectively. LTM EBITDA of $60.7M vs. entry baseline of $36.5M reflects strong growth. Net leverage improved to 5.2x from entry of 5.9x. Key strategic progress includes Blue Mountain acquisition integration, a Canada international DTC pilot (3,200 subscribers in 8 weeks), pricing power realization (+11% net revenue per subscriber), and completion of the Portland 2 roasting facility. DTC mix at 33.4% (up from 22.0% at entry) and subscription customers at 84,296 (up from 48,000 at entry). Key risks include input cost inflation and international execution complexity.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2022 revenue of $113.8M and EBITDA of $16.8M (14.8% margin), ahead of budget by 3.2%.",
+          "topic": "Q4 financial performance"
+        },
+        {
+          "quote": "International DTC pilot launched in Canada \u2014 early results show 2x higher AOV vs. US domestic, validating the expansion thesis.",
+          "topic": "International DTC pilot validation"
+        },
+        {
+          "quote": "2 price increases executed (Apr/Oct); net revenue per subscriber +11%.",
+          "topic": "Pricing power"
+        },
+        {
+          "quote": "LTM EBITDA: $60.7M \u2026 Entry: $36.5M",
+          "topic": "LTM EBITDA growth vs. entry"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 60700000.0,
+        "ebitda_margin": 0.148,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (33.4% of revenue, up from 22.0% at entry)",
+          "Subscription customer growth (84K vs. 48K at entry)",
+          "International expansion \u2014 Canada DTC pilot live, UK planned Q1 2023",
+          "Blue Mountain add-on acquisition integration",
+          "Pricing power \u2014 two price increases in 2022, +11% net revenue per subscriber",
+          "New Portland 2 roasting facility adding +40% capacity"
+        ],
+        "risks": [
+          "Blue Mountain integration risk (rated low; IMO in place)",
+          "Input cost inflation \u2014 green coffee prices (forward contracts through Q2 2023)",
+          "International execution complexity \u2014 regulatory and logistics"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2022,
+          "quarter": 4,
+          "revenue_usd": 113800000.0,
+          "ebitda_usd": 16800000.0,
+          "ebitda_margin": 0.148
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_006",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2023 Board of Directors Package",
+      "date": "2024-02-06",
+      "summary": "Q4 2023 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). The company delivered Q4 2023 revenue of $124.0M and EBITDA of $18.8M (15.2% margin), beating budget by 3.1% on revenue and 5.0% on EBITDA. LTM EBITDA stands at $68.8M vs. entry of $36.5M, with net leverage improved to 4.7x from entry of 5.9x. DTC mix has grown to 36.7% of revenue (from 22.0% at entry), subscription customers at ~94.7K vs. 48K at entry. The IC has approved exit preparation targeting an H2 2025 sell-side process; banker shortlist is being prepared and Houlihan Lokey engagement is targeted for Q1 2024. Key strategic initiatives include a Whole Foods retail channel pilot (320 stores live), ESG/B-Corp certification in progress, and international subscription scaling (Canada 14K subs, UK pilot live).",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2023 revenue of $124.0M and EBITDA of $18.8M (15.2% margin), ahead of budget by 3.1%.",
+          "topic": "Q4 financial performance"
+        },
+        {
+          "quote": "The IC has approved beginning exit preparation, targeting a sell-side process in H2 2025.",
+          "topic": "Exit preparation"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 68800000.0,
+        "ebitda_margin": 0.152,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (36.7% of revenue vs. 22.0% at entry)",
+          "Subscription customer growth (~94.7K vs. 48K at entry)",
+          "Retail channel pilot (Whole Foods 320 stores live)",
+          "International subscription scaling (Canada + UK)"
+        ],
+        "risks": [
+          "Retail margin dilution (~8ppts below DTC GM)",
+          "Exit market timing uncertainty",
+          "International scaling complexity (UK logistics)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2023,
+          "quarter": 4,
+          "revenue_usd": 124000000.0,
+          "ebitda_usd": 18800000.0,
+          "ebitda_margin": 0.152
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_007",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2024 Board of Directors Package",
+      "date": "2025-02-06",
+      "summary": "Q4 2024 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). Company delivered Q4 revenue of $135.3M and EBITDA of $21.0M (15.5% margin), both ahead of budget. LTM EBITDA stands at $76.9M, net leverage at 4.4x (down from 5.9x at entry). DTC represents ~40% of revenue with 105K+ subscription customers tracking toward 110K+ exit milestone. Houlihan Lokey engaged as sell-side advisor; CIM outline complete with management presentation IC review planned for Q2. Board package covers financial performance, operational KPIs, strategic initiatives (exit process, subscription growth, retail expansion, management equity refresh), and risk review. Exit process underway with first-round bids targeted Q4 2024 per the timeline.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2024 revenue of $135.3M and EBITDA of $21.0M (15.5% margin), ahead of budget by 3.0%.",
+          "topic": "Q4 Performance vs. Budget"
+        },
+        {
+          "quote": "DTC now represents 42% of revenue and subscription customers crossed 110,000 \u2014 both key strategic value drivers for the exit process.",
+          "topic": "Exit Process Initiation"
+        },
+        {
+          "quote": "Net Leverage 4.4x \u2026 Entry: 5.9x",
+          "topic": "Leverage Improvement"
+        },
+        {
+          "quote": "LTM EBITDA $76.9M \u2026 Entry: $36.5M",
+          "topic": "LTM EBITDA Growth"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 76900000.0,
+        "ebitda_margin": 0.155,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (42% of revenue)",
+          "Subscription customer growth (110K+ subscribers, 41% of revenue recurring)",
+          "Retail expansion (Target pilot live in 180 stores, Kroger initiated)",
+          "Green coffee input costs at 5-year lows supporting margin upside"
+        ],
+        "risks": [
+          "Exit process confidentiality risk",
+          "Retail channel gross margin dilution at scale",
+          "Input cost environment (currently favorable)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2024,
+          "quarter": 4,
+          "revenue_usd": 135300000.0,
+          "ebitda_usd": 21000000.0,
+          "ebitda_margin": 0.155
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_008",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2025 Board of Directors Package",
+      "date": "2026-02-06",
+      "summary": "Q4 2025 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). The company delivered Q4 2025 revenue of $147.7M (+9.2% YoY) and EBITDA of $23.5M (15.9% margin), both ahead of budget by ~3\u20135%. LTM EBITDA stands at $85.9M vs. an entry baseline of $36.5M, reflecting significant hold-period growth. Net leverage has decreased from 5.9x at entry to 4.2x. The company is actively in a final-round exit process with three shortlisted buyers, a definitive agreement targeted for Q1 2026, and close expected Q2 2026. DTC revenue mix has grown from 22% to 43.2%, and subscription customers have more than doubled from 48,000 to 115,407. Operational KPIs are at or near targets. Key exit-readiness milestones (VDR population, management presentations) are complete.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2025 revenue of $147.7M and EBITDA of $23.5M (15.9% margin), ahead of budget by 3.1%.",
+          "topic": "Q4 Financial Performance"
+        },
+        {
+          "quote": "3 buyers shortlisted; final-round mgmt presentations Nov. Presentations Nov 3\u201314; final bids expected Dec 2025.",
+          "topic": "Exit Process Status"
+        },
+        {
+          "quote": "Subscriber churn at 3.8% \u2014 record low; strong DD data point.",
+          "topic": "Subscription Retention Pre-Exit"
+        },
+        {
+          "quote": "Definitive agreement target Q1 2026. Close expected Q2 2026.",
+          "topic": "Exit Timeline Outlook"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 85900000.0,
+        "ebitda_margin": 0.159,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (22% to 43.2% of revenue)",
+          "Subscription customer growth (48K to 115K+)",
+          "Roasting facility expansion (3 to 5 facilities)",
+          "Average order value improvement ($68 to $81.50)"
+        ],
+        "risks": [
+          "Exit timeline execution risk",
+          "Buyer financing risk (mitigated by strategic lead bidder with no financing contingency)",
+          "Performance vs. CIM base case (currently tracking positive)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2025,
+          "quarter": 4,
+          "revenue_usd": 147700000.0,
+          "ebitda_usd": 23500000.0,
+          "ebitda_margin": 0.159
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_009",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "ic_memo",
+      "title": "Investment Committee Memorandum \u2014 Entry \u2014 Crestview Coffee Roasters, Inc.",
+      "date": "2019-04-17",
+      "summary": "Atlas Crossing Partners Fund III entry IC memo recommending acquisition of Crestview Coffee Roasters, Inc. at $493M enterprise value (13.5x LTM Adj. EBITDA). Crestview is a vertically integrated DTC premium coffee brand with $270M LTM revenue and $36.5M LTM EBITDA. The investment thesis centers on subscription flywheel recurring revenue, DTC channel expansion (22% to 44% of mix), roasting capacity-driven margin expansion, and fragmented specialty coffee market consolidation. Base case projects a Year 5 exit at ~$1.01B EV yielding 2.7x MoIC and 22% gross IRR. Total sources/uses of $509M funded by $213M senior secured debt, $264M sponsor equity, and $32M management rollover. IC recommendation is unanimous: INVEST \u2014 PROCEED TO CLOSE.",
+      "key_quotes": [
+        {
+          "quote": "DTC subscription flywheel creates durable recurring revenue with exceptional unit economics. Subscription revenue is growing at 38% YoY and carries 71% gross margin vs. 52% for wholesale.",
+          "topic": "Subscription unit economics"
+        },
+        {
+          "quote": "We believe this is one of the highest-quality consumer-DTC assets we have evaluated and that the entry valuation of 13.5x EBITDA is justified by the subscription unit economics, brand strength, and margin expansion opportunity.",
+          "topic": "Investment recommendation"
+        },
+        {
+          "quote": "Current DTC e-commerce (22% of revenue) is heavily underpenetrated vs. comparable DTC CPG brands that achieve 40\u201360% DTC mix at scale.",
+          "topic": "DTC channel expansion"
+        },
+        {
+          "quote": "Crestview has the brand, supply chain depth, and operational infrastructure to consolidate 2\u20133 regional roasters during the hold period, expanding geographic presence and manufacturing capacity at attractive entry prices.",
+          "topic": "Market consolidation"
+        },
+        {
+          "quote": "Negotiated 4-year employment agreement with 18-month gardening clause and $8M retention package; COO Elena Ruiz (ex-Blue Apron COO) is capable successor in near term; Korn Ferry completed senior leadership bench assessment with favorable findings.",
+          "topic": "Founder dependency mitigant"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters, Inc.",
+        "revenue_ltm_usd": 270000000.0,
+        "ebitda_ltm_usd": 36500000.0,
+        "ebitda_margin": 0.135,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 493000000.0,
+        "ev_ebitda_multiple": 13.5,
+        "growth_drivers": [
+          "DTC subscription flywheel with 84% 12-month retention and 6.8x LTV/CAC",
+          "Expansion of DTC/e-commerce channel from 22% to 44% of revenue",
+          "Roasting capacity additions reducing third-party tolling costs and improving margins",
+          "Stable wholesale and B2B cash flow funding DTC investment",
+          "Fragmented specialty coffee market consolidation of 2\u20133 regional roasters"
+        ],
+        "risks": [
+          "Coffee commodity price volatility (green coffee beans)",
+          "DTC customer acquisition cost inflation (paid social, search)",
+          "Subscription churn acceleration in economic downturn",
+          "Key-man dependency on Founder/CEO Tom Crestview",
+          "Food safety and supply chain disruption risk"
+        ]
+      },
+      "memo_purpose": "entry",
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "ltm_entry": {
+          "revenue_usd": 270000000.0,
+          "ebitda_usd": 36500000.0,
+          "ebitda_margin": 0.135,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_1": {
+          "revenue_usd": 298000000.0,
+          "ebitda_usd": 41000000.0,
+          "ebitda_margin": 0.138,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2": {
+          "revenue_usd": 328000000.0,
+          "ebitda_usd": 46000000.0,
+          "ebitda_margin": 0.14,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3": {
+          "revenue_usd": 366000000.0,
+          "ebitda_usd": 54000000.0,
+          "ebitda_margin": 0.148,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4": {
+          "revenue_usd": 410000000.0,
+          "ebitda_usd": 64000000.0,
+          "ebitda_margin": 0.156,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5_exit": {
+          "revenue_usd": 460000000.0,
+          "ebitda_usd": 75000000.0,
+          "ebitda_margin": 0.163,
+          "ev_usd": 1012500000.0,
+          "moic": 2.7,
+          "irr": 0.22
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
     }
   ]
 }

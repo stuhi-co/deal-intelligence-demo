@@ -46,6 +46,7 @@ subsector:
     - pet_food
     - pet_supplies
     - packaged_food
+    - specialty_beverage
     - food_distribution
     - automotive_aftermarket
     - outdoor_hardgoods
@@ -168,6 +169,7 @@ display_names:
     pet_food: "Pet Food"
     pet_supplies: "Pet Supplies"
     packaged_food: "Packaged Food"
+    specialty_beverage: "Specialty Beverage"
     food_distribution: "Food Distribution"
     automotive_aftermarket: "Automotive Aftermarket"
     industrial_components: "Industrial Components"
