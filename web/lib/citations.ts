@@ -304,33 +304,36 @@ const criteriaDoc: Extractor = (_input, _result) => ({
   date: today(),
 });
 
+// Sources rail = real documents only. Everything else (deal records,
+// variance reports, analyses, comparisons, macro snapshots, the criteria
+// table) is structured data, not a source — those tools are still useful
+// to the model for reasoning but they don't earn a row in the rail. The
+// system prompt forces the model to back every factual claim with a
+// `search_documents` or `get_document` call so the user can verify in Drive.
 const EXTRACTORS: Record<string, Extractor | "skip"> = {
-  list_deals: "skip",
-  source_similar_companies: "skip",
-
-  get_deal: dealRecord("deal record"),
-  get_deal_financials: dealRecord("entry financials"),
-  get_deal_outcome: outcomeMemo,
-
-  get_portco_performance: portcoPerf,
-  get_underwriting_case: dealRecord("underwriting case"),
-  compare_portco_vs_underwriting: variance("variance: actuals vs underwriting"),
-  compare_exit_vs_underwriting: variance("variance: exit vs underwriting"),
-
-  find_precedent_deals: precedentSearch,
-  compare_deals: sideBySide,
-  analyze_exit_drivers: exitAnalysis,
-
+  // Documents only — these surface in the rail.
   search_documents: docHit,
   get_document: fullDoc,
   parse_cim: fullDoc,
-  evaluate_cim_against_criteria: cimEval,
 
-  get_macro_snapshot: macroSnap,
-  compare_macro: macroCompareEx,
-
-  get_company_profile: companyProfile,
-  get_investment_criteria: criteriaDoc,
+  // Everything else is reasoning fuel, not a source.
+  list_deals: "skip",
+  source_similar_companies: "skip",
+  get_deal: "skip",
+  get_deal_financials: "skip",
+  get_deal_outcome: "skip",
+  get_portco_performance: "skip",
+  get_underwriting_case: "skip",
+  compare_portco_vs_underwriting: "skip",
+  compare_exit_vs_underwriting: "skip",
+  find_precedent_deals: "skip",
+  compare_deals: "skip",
+  analyze_exit_drivers: "skip",
+  evaluate_cim_against_criteria: "skip",
+  get_macro_snapshot: "skip",
+  compare_macro: "skip",
+  get_company_profile: "skip",
+  get_investment_criteria: "skip",
 };
 
 /** Returns a citation for the given tool call, or null if the tool is a

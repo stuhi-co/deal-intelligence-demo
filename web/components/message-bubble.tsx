@@ -126,7 +126,7 @@ function ActivityPanel({
         onClick={() => setOpen((v) => !v)}
         aria-expanded={open}
       >
-        <span className="activity-caret">{open ? "▾" : "▸"}</span>
+        <span className="activity-caret">{open ? "▼" : "▶"}</span>
         <span className="activity-label">Activity</span>
         <span className="activity-sub">{summary}</span>
         {isStreaming && (

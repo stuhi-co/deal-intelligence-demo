@@ -793,11 +793,16 @@ input, textarea { font: inherit; color: inherit; }
 }
 .activity-head:hover { color: var(--fg); }
 .activity-caret {
-  font-size: 9px;
-  color: var(--fg-faint);
-  width: 10px;
-  display: inline-block;
+  font-size: 13px;
+  line-height: 1;
+  color: var(--fg-soft);
+  width: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 100ms ease;
 }
+.activity-head:hover .activity-caret { color: var(--fg); }
 .activity-label {
   font-weight: 600;
   font-size: 11px;

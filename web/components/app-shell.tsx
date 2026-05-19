@@ -123,23 +123,24 @@ export function AppShell() {
         setCurrentId(sessionId);
       }
 
-      setMessages((m) => {
-        const next = [...m, userMsg, seedAsst];
-        messagesRef.current = next;
-        return next;
-      });
+      // Local accumulator updated SYNCHRONOUSLY on every patch — React's
+      // setMessages updater is async, so reading messagesRef in the finally
+      // block could otherwise see a state from before the final "done" patch
+      // has flushed (chat would persist with status="streaming").
+      let buf: ChatMessage[] = [...messagesRef.current, userMsg, seedAsst];
+      messagesRef.current = buf;
+      setMessages(buf);
       setIsLoading(true);
 
-      const patchAsst = (patch: (a: AssistantMessage) => AssistantMessage) =>
-        setMessages((m) => {
-          const next = m.map((msg) =>
-            msg.id === assistantId && msg.role === "assistant"
-              ? patch(msg as AssistantMessage)
-              : msg,
-          );
-          messagesRef.current = next;
-          return next;
-        });
+      const patchAsst = (patch: (a: AssistantMessage) => AssistantMessage) => {
+        buf = buf.map((msg) =>
+          msg.id === assistantId && msg.role === "assistant"
+            ? patch(msg as AssistantMessage)
+            : msg,
+        );
+        messagesRef.current = buf;
+        setMessages(buf);
+      };
 
       const t0 = Date.now();
       try {
@@ -191,7 +192,17 @@ export function AppShell() {
         }));
       } finally {
         setIsLoading(false);
-        const finalMessages = messagesRef.current;
+        // Defensive: any assistant message still marked streaming becomes
+        // done so a refresh later doesn't render the bubble as interrupted.
+        buf = buf.map((m) =>
+          m.role === "assistant" && m.status === "streaming"
+            ? { ...m, status: "done" as const }
+            : m,
+        );
+        messagesRef.current = buf;
+        setMessages(buf);
+
+        const finalMessages = buf;
         // Pure updater: find-or-create by sessionId. Idempotent under React
         // StrictMode double-invoke — the second run finds the row we just
         // inserted and updates it in place.
