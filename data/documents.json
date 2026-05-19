@@ -12035,6 +12035,855 @@
       "period_actuals": [],
       "full_text_excerpt": "...",
       "expert_id": null
+    },
+    {
+      "doc_id": "doc_pinecrest_foods_013",
+      "deal_id": "deal_pinecrest_foods_2022",
+      "doc_type": "financial_model",
+      "title": "Atlas Crossing Partners | Pinecrest Foods | LBO Model \u2014 Overview",
+      "date": "2020-09-01",
+      "summary": "Full LBO model for Pinecrest Foods (Atlas Crossing Partners Fund III), covering entry in September 2020 through projected FY2027E exit. The workbook includes an overview & assumptions sheet with sources & uses ($168.75M entry EV at 12.5\u00d7 EBITDA), a detailed income statement (FY2020A\u2013FY2027E), a debt schedule tracking a senior term loan and PIK mezz facility, and a returns summary. Base case projects exit EV of $314.6M at 11.0\u00d7 FY2027E EBITDA of $28.6M, producing a gross MOIC of 2.86\u00d7 and gross IRR of ~16.2% on a 7-year hold. An add-on acquisition (Harvest Ridge Snacks, ~$38M) is modeled in Q2 2023. Revenue grows from $65.4M at entry to $162.4M at exit; EBITDA margin compresses modestly from 20.6% to 17.6% over the hold period.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Pinecrest Foods",
+        "revenue_ltm_usd": 65400000.0,
+        "ebitda_ltm_usd": 13500000.0,
+        "ebitda_margin": 0.206,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 168750000.0,
+        "ev_ebitda_multiple": 12.5,
+        "growth_drivers": [
+          "Organic revenue growth (~14% CAGR FY2020\u2013FY2025A)",
+          "Add-on acquisition of Harvest Ridge Snacks in Q2 2023 (~$38M)",
+          "Gross margin stability at 44% throughout hold period",
+          "Free cash flow sweep for debt paydown"
+        ],
+        "risks": [
+          "PIK mezz debt accretes significantly (from $20.2M to $48.4M by FY2027E), increasing net debt at exit",
+          "EBITDA margin compression from 20.6% to 17.6% over hold period",
+          "High entry leverage (7.1\u00d7 Debt/EBITDA at entry)",
+          "Integration risk from Harvest Ridge Snacks add-on",
+          "Negative/near-zero unlevered FCF in entry year (FY2020A: -$0.5M)",
+          "Bear case at 7.0\u00d7 exit multiple yields sub-1.0\u00d7 MOIC"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "year_1_fy2020": {
+          "revenue_usd": 65400000.0,
+          "ebitda_usd": 13500000.0,
+          "ebitda_margin": 0.206,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2_fy2021": {
+          "revenue_usd": 74800000.0,
+          "ebitda_usd": 15800000.0,
+          "ebitda_margin": 0.211,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3_fy2022": {
+          "revenue_usd": 88500000.0,
+          "ebitda_usd": 18500000.0,
+          "ebitda_margin": 0.209,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4_fy2023": {
+          "revenue_usd": 112400000.0,
+          "ebitda_usd": 22400000.0,
+          "ebitda_margin": 0.199,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5_fy2024": {
+          "revenue_usd": 128600000.0,
+          "ebitda_usd": 24800000.0,
+          "ebitda_margin": 0.193,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_6_fy2025": {
+          "revenue_usd": 140200000.0,
+          "ebitda_usd": 26500000.0,
+          "ebitda_margin": 0.189,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_fy2026": {
+          "revenue_usd": 152800000.0,
+          "ebitda_usd": 27800000.0,
+          "ebitda_margin": 0.182,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_exit_fy2027": {
+          "revenue_usd": 162400000.0,
+          "ebitda_usd": 28600000.0,
+          "ebitda_margin": 0.176,
+          "ev_usd": 314600000.0,
+          "moic": 2.86,
+          "irr": 0.162
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_057",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "financial_model",
+      "title": "Atlas Crossing Partners | Crestview Coffee Holdings | LBO Model \u2014 Overview",
+      "date": "2019-04-01",
+      "summary": "Full LBO model for Crestview Coffee Holdings, sponsored by Atlas Crossing Partners Fund III. Entry in April 2019 at $162M EV (12.0\u00d7 LTM EBITDA of $13.5M on $88.2M revenue). Model projects exit in FY2026E at $313.5M EV (11.0\u00d7 $28.5M EBITDA) over a 7-year hold, yielding a base case Gross MOIC of 3.29\u00d7 and Gross IRR of ~20.6% (Net MOIC ~2.70\u00d7, Net IRR ~16.5%). Includes an interim recap of $28.0M in October 2024. Capital structure at entry: $67.5M Senior TL (5.0\u00d7 EBITDA), $20.25M Sub/Mezz PIK (1.5\u00d7), and $74.25M equity. Workbook contains Overview & Assumptions, Income Statement (FY2019A\u2013FY2026E), Debt Schedule, and Returns Summary with full sensitivity tables.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Crestview Coffee Holdings",
+        "revenue_ltm_usd": 88200000.0,
+        "ebitda_ltm_usd": 13500000.0,
+        "ebitda_margin": 0.153,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 162000000.0,
+        "ev_ebitda_multiple": 12.0,
+        "growth_drivers": [
+          "Revenue growth from $88.2M at entry to $175.8M at exit (~2\u00d7 over 7 years)",
+          "EBITDA margin expansion from 15.3% at entry to 16.2% at exit",
+          "Interim dividend recapitalization of $28.0M in October 2024",
+          "Consistent gross margin of 48% throughout hold period",
+          "Excess cash flow sweep on senior term loan accelerating deleveraging"
+        ],
+        "risks": [
+          "Heavily levered entry at 6.6\u00d7 Debt/EBITDA in FY2019A",
+          "Negative revenue growth in FY2020A (\u22129.9% YoY), likely COVID impact",
+          "PIK mezz debt accreting from $20.2M to $50.0M by FY2026E, increasing net debt",
+          "Total debt grows to $102.9M by FY2026E despite amortization on senior loan",
+          "Thin unlevered free cash flow in early years; negative in FY2019A and FY2021A",
+          "Commodity exposure typical for coffee roasting businesses"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "year_1": {
+          "revenue_usd": 88200000.0,
+          "ebitda_usd": 13500000.0,
+          "ebitda_margin": 0.153,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2": {
+          "revenue_usd": 79500000.0,
+          "ebitda_usd": 10200000.0,
+          "ebitda_margin": 0.128,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3": {
+          "revenue_usd": 105200000.0,
+          "ebitda_usd": 15800000.0,
+          "ebitda_margin": 0.15,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4": {
+          "revenue_usd": 125800000.0,
+          "ebitda_usd": 22400000.0,
+          "ebitda_margin": 0.178,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5": {
+          "revenue_usd": 138400000.0,
+          "ebitda_usd": 23800000.0,
+          "ebitda_margin": 0.172,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_6": {
+          "revenue_usd": 150200000.0,
+          "ebitda_usd": 25400000.0,
+          "ebitda_margin": 0.169,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_exit": {
+          "revenue_usd": 175800000.0,
+          "ebitda_usd": 28500000.0,
+          "ebitda_margin": 0.162,
+          "ev_usd": 313500000.0,
+          "moic": 3.29,
+          "irr": 0.206
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_vanguard_auto_015",
+      "deal_id": "deal_vanguard_auto_2021",
+      "doc_type": "financial_model",
+      "title": "Atlas Crossing Partners | Vanguard Auto | LBO Model \u2014 Overview",
+      "date": "2020-07-01",
+      "summary": "LBO model for Vanguard Auto Parts (Atlas Crossing Partners Fund III), underwriting a July 2020 platform entry at an 11.0\u00d7 EV/EBITDA entry multiple on $19.8M LTM EBITDA (entry EV: $218M). The model projects a 7-year hold to FY2027E exit, incorporating two add-on acquisitions (Precision, FleetFirst). Base case exit EV of $431.2M at 11.0\u00d7 on $39.2M EBITDA generates a gross MOIC of 3.34\u00d7 and gross IRR of ~18.8% (net MOIC ~2.74\u00d7, net IRR ~15.0%). The debt structure consists of a $99M Senior TL (5.0\u00d7 EBITDA at 6.8%) and $29.7M Sub/Mezz PIK (1.5\u00d7 EBITDA at 11.5%), with $89.3M of Atlas Crossing equity (~41% of EV). Revenue grows from $112M at entry to $211.5M at exit; EBITDA margin expands modestly from 17.7% to 18.5%. The model includes full income statement, debt schedule with amortization/PIK accretion, and a returns sensitivity table across five EBITDA and exit multiple scenarios.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Vanguard Auto Parts",
+        "revenue_ltm_usd": 112000000.0,
+        "ebitda_ltm_usd": 19800000.0,
+        "ebitda_margin": 0.177,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 218000000.0,
+        "ev_ebitda_multiple": 11.0,
+        "growth_drivers": [
+          "Add-on acquisitions (Precision and FleetFirst)",
+          "Organic revenue growth ~7-10% annually through mid-hold",
+          "EBITDA margin expansion from operational leverage",
+          "Excess cash flow sweep accelerating debt paydown"
+        ],
+        "risks": [
+          "High initial leverage (6.5\u00d7 Debt/EBITDA at entry)",
+          "PIK debt accreting from $29.7M to $70.9M by exit, adding to net debt",
+          "Revenue decline in FY2021A (-6.4% YoY) highlights cyclicality risk",
+          "Integration risk from two add-on acquisitions",
+          "Automotive aftermarket sector exposure to cyclicality"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "year_1_fy2020": {
+          "revenue_usd": 112000000.0,
+          "ebitda_usd": 19800000.0,
+          "ebitda_margin": 0.177,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2_fy2021": {
+          "revenue_usd": 104800000.0,
+          "ebitda_usd": 15800000.0,
+          "ebitda_margin": 0.151,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3_fy2022": {
+          "revenue_usd": 133500000.0,
+          "ebitda_usd": 22400000.0,
+          "ebitda_margin": 0.168,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4_fy2023": {
+          "revenue_usd": 155200000.0,
+          "ebitda_usd": 28600000.0,
+          "ebitda_margin": 0.184,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5_fy2024": {
+          "revenue_usd": 171800000.0,
+          "ebitda_usd": 31800000.0,
+          "ebitda_margin": 0.185,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_6_fy2025": {
+          "revenue_usd": 185400000.0,
+          "ebitda_usd": 34500000.0,
+          "ebitda_margin": 0.186,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_fy2026": {
+          "revenue_usd": 198200000.0,
+          "ebitda_usd": 36800000.0,
+          "ebitda_margin": 0.186,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_8_exit_fy2027": {
+          "revenue_usd": 211500000.0,
+          "ebitda_usd": 39200000.0,
+          "ebitda_margin": 0.185,
+          "ev_usd": 431200000.0,
+          "moic": 3.34,
+          "irr": 0.188
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_wholesum_foods_distribution_013",
+      "deal_id": "deal_wholesum_foods_distribution_2022",
+      "doc_type": "financial_model",
+      "title": "Atlas Crossing Partners | Wholesum Foods, Inc. | LBO Model \u2014 Overview",
+      "date": "2018-07-01",
+      "summary": "Full LBO model for Wholesum Foods, Inc. (Fund III), covering the July 2018 entry through a projected Q3 2026 exit. Includes sources & uses at entry (Entry EV $214M, 11.6\u00d7 EBITDA), a nine-year income statement with actuals through FY2024A and projections through FY2026E, a detailed debt schedule (Senior TL at 5.5\u00d7 + Mezz PIK at 2.0\u00d7), and a returns summary. Base case projects Exit EV of $212.8M at 9.5\u00d7 FY2026E EBITDA of $22.4M; includes a $49.8M partial recap in October 2024. Base case gross MOIC of 2.8\u00d7 and gross IRR of ~19.2% on an 8-year hold; net MOIC ~2.3\u00d7 and net IRR ~15.4%. EBITDA margin has compressed from 22.5% at entry to ~16% by exit. Returns sensitivity tables across 5 exit multiples and 5 EBITDA scenarios are provided.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Wholesum Foods, Inc.",
+        "revenue_ltm_usd": 82100000.0,
+        "ebitda_ltm_usd": 18500000.0,
+        "ebitda_margin": 0.225,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 214000000.0,
+        "ev_ebitda_multiple": 11.6,
+        "growth_drivers": [
+          "Organic revenue growth from $82M (2018) to $138M (2026E)",
+          "Partial recapitalization in October 2024 generating $49.8M proceeds",
+          "Debt paydown on senior term loan via mandatory amortization and cash flow sweep"
+        ],
+        "risks": [
+          "PIK mezz debt accreting significantly \u2014 ending balance grows from $37M to $98.6M by exit",
+          "EBITDA margin compression from 22.5% at entry to ~16% by FY2026E",
+          "High total leverage (7.5\u00d7 Debt/EBITDA through mid-hold period)",
+          "Modest revenue growth (2\u20135% YoY in later years)",
+          "Net debt at exit ($98.0M) constrains equity value"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "year_1_2018": {
+          "revenue_usd": 82100000.0,
+          "ebitda_usd": 18500000.0,
+          "ebitda_margin": 0.225,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2_2019": {
+          "revenue_usd": 96500000.0,
+          "ebitda_usd": 21200000.0,
+          "ebitda_margin": 0.22,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3_2020": {
+          "revenue_usd": 101400000.0,
+          "ebitda_usd": 19800000.0,
+          "ebitda_margin": 0.195,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4_2021": {
+          "revenue_usd": 112800000.0,
+          "ebitda_usd": 22600000.0,
+          "ebitda_margin": 0.2,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5_2022": {
+          "revenue_usd": 119200000.0,
+          "ebitda_usd": 20800000.0,
+          "ebitda_margin": 0.174,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_6_2023": {
+          "revenue_usd": 121800000.0,
+          "ebitda_usd": 19800000.0,
+          "ebitda_margin": 0.163,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_2024": {
+          "revenue_usd": 126400000.0,
+          "ebitda_usd": 20400000.0,
+          "ebitda_margin": 0.161,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_8_2025": {
+          "revenue_usd": 131200000.0,
+          "ebitda_usd": 21100000.0,
+          "ebitda_margin": 0.161,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_9_exit_2026": {
+          "revenue_usd": 138000000.0,
+          "ebitda_usd": 22400000.0,
+          "ebitda_margin": 0.162,
+          "ev_usd": 212800000.0,
+          "moic": 2.8,
+          "irr": 0.192
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_001",
+      "deal_id": null,
+      "doc_type": "lp_annual_report",
+      "title": "Atlas Crossing Partners FY2023 Annual LP Report \u2014 Fund III",
+      "date": "2023-12-31",
+      "summary": "Annual LP report for Atlas Crossing Partners Fund III covering the year ended December 31, 2023. Fund III is a $420M fully committed vehicle with five active platform companies (Wholesum Foods, Crestview Coffee, Vanguard Auto Parts, Pinecrest Foods, Forgelight Manufacturing) and one full exit (Brightline Industrial to Parker Hannifin at 2.4\u00d7 MOIC / 22.1% gross IRR). Aggregate portfolio revenue reached $428M (+9.5% YoY) and EBITDA $62.8M (+10.0%). Fund-level metrics: gross IRR 19.8%, gross MOIC 1.72\u00d7, net IRR 15.9% (est.), TVPI 1.65\u00d7, DPI 0.32\u00d7, NAV $218.4M at year-end. Cumulative distributions of $120.5M were driven by the Brightline exit ($68.4M) and a Wholesum partial recap ($52.1M). Key FY2024 priorities include commencing the Wholesum exit process, closing the Vanguard Tri-State Parts add-on, reducing leverage at Crestview, and beginning Fund IV LP outreach. Audited by Deloitte & Touche LLP (unqualified opinion).",
+      "key_quotes": [
+        {
+          "quote": "The headline story of FY2023 was the sale of Brightline Industrial to Parker Hannifin, which closed in June 2023 at a 2.4\u00d7 MOIC and 22.1% gross IRR. This was Fund III's first full exit and returned $68.4M to limited partners in Q4 2023.",
+          "topic": "FY2023 first full exit \u2014 Brightline Industrial"
+        },
+        {
+          "quote": "Both events brought cumulative Fund III distributions to $120.5M against $371.2M called, for a DPI of 0.32\u00d7 at year-end.",
+          "topic": "Cumulative fund distributions and DPI"
+        },
+        {
+          "quote": "Our portfolio companies with floating-rate debt (Wholesum, Vanguard) saw $3.8M of incremental annual interest expense vs. our 2021 underwrite models.",
+          "topic": "Macro and interest rate environment impact"
+        },
+        {
+          "quote": "Year-end leverage 11.4\u00d7 EBITDA. Board approved accelerated debt paydown plan: $7\u20139M annual FCF directed to mandatory amortization. Target sub-10\u00d7 by FY2025.",
+          "topic": "Crestview Coffee leverage risk"
+        },
+        {
+          "quote": "Year-end EBITDA margin 17.0% vs. 15.8% at underwriting. Benefit from direct materials sourcing renegotiation completed Q2 2023 ($0.4M annual savings).",
+          "topic": "Forgelight Manufacturing outperformance"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 428000000.0,
+        "ebitda_ltm_usd": 62800000.0,
+        "ebitda_margin": 0.147,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Organic portfolio revenue growth (+9.5% YoY)",
+          "Geographic expansion at Crestview Coffee (31 new locations)",
+          "Proprietary SKU mix expansion at Vanguard Auto Parts",
+          "Add-on acquisition strategy (Pacific Harvest, Tri-State Parts pipeline)",
+          "New distribution hub and OEM relationships at portfolio companies"
+        ],
+        "risks": [
+          "Elevated interest rate environment increasing debt service costs ($3.8M incremental interest expense vs. underwrite)",
+          "High leverage at Crestview Coffee (11.4\u00d7 EBITDA) and Pinecrest Foods (34.8\u00d7)",
+          "Commodity input cost inflation (palm oil, dairy, packaging)",
+          "Customer concentration at Pinecrest Foods (top customer 38% of revenue)",
+          "Slower M&A market impacting exit timing and valuation multiples"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": 0.221,
+        "moic": 2.4,
+        "holding_period_years": null,
+        "exit_year": 2023,
+        "exit_ev_usd": 81200000.0,
+        "entry_ev_usd": null,
+        "exit_type": "strategic_sale"
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2023,
+          "quarter": null,
+          "revenue_usd": 428000000.0,
+          "ebitda_usd": 62800000.0,
+          "ebitda_margin": 0.147
+        },
+        {
+          "year": 2022,
+          "quarter": null,
+          "revenue_usd": 391000000.0,
+          "ebitda_usd": 57100000.0,
+          "ebitda_margin": 0.146
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_002",
+      "deal_id": null,
+      "doc_type": "lp_annual_report",
+      "title": "Atlas Crossing Partners \u2014 FY2024 Annual LP Report (Fund III)",
+      "date": "2024-12-31",
+      "summary": "Annual LP Report for Atlas Crossing Partners Fund III covering the year ended December 31, 2024, audited by Deloitte & Touche LLP. Fund III is a $420M fully-committed lower-middle-market buyout fund with a gross IRR of 20.9%, net IRR of ~16.9%, and TVPI/Gross MOIC of 1.88\u00d7. DPI reached 0.62\u00d7 on $230.1M in cumulative distributions. FY2024 featured two major capital return events: the second Wholesum Foods dividend recap ($49.8M) and the exit of Meridian Facility Management to Warburg Pincus ($59.8M). Active portfolio companies include Wholesum Foods (food distribution), Crestview Coffee (specialty beverage/QSR), Vanguard Auto Parts (auto distribution), Pinecrest Foods (specialty food ingredients), and Forgelight Manufacturing (light industrial). Aggregate portfolio revenue grew 10.3% YoY to $461M; aggregate EBITDA grew 7.3% to $66.4M. Key FY2025 priorities: Wholesum exit process (Goldman Sachs engaged), Tri-State Parts bolt-on close for Vanguard, and Fund IV launch targeted H1 2026.",
+      "key_quotes": [
+        {
+          "quote": "Two significant events defined the year from a capital return standpoint: (1) a second partial recapitalization of Wholesum Foods in Q3 2024 returning $49.8M to LPs; and (2) the sale of Meridian Facility Management (a Fund II asset completing its runoff) contributing $59.8M in Q4 2024. Total Fund III distributions for FY2024 were $109.6M, bringing our cumulative DPI to 0.62\u00d7 as of December 31, 2024.",
+          "topic": "FY2024 Capital Returns"
+        },
+        {
+          "quote": "Cumulative Wholesum distributions $101.9M \u2014 exceeding original equity invested of $75.25M. QofE finalized Q4 2024. Goldman Sachs selected as sell-side banker; formal process expected Q2\u2013Q3 2025 (subsequently delayed to Q2 2026).",
+          "topic": "Wholesum Foods Exit Preparation"
+        },
+        {
+          "quote": "Revenue of $140.2M vs. plan of $138M. Driven by fleet account wins (4 contracts, $3.8M annualized) and proprietary SKU mix expansion to 37%.",
+          "topic": "Vanguard Auto Parts Performance"
+        },
+        {
+          "quote": "Lower-MM M&A volume recovered modestly (+8% vs. 2023) but remained well below 2021 peak. Key dynamic: growing inventory of processes from founders who deferred exits during 2022\u20132023 rate environment. We saw 52 new opportunities in 2024 (vs. 41 in 2023), with a higher proportion of proprietary introductions (42%).",
+          "topic": "Market Environment \u2014 M&A"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 461000000.0,
+        "ebitda_ltm_usd": 66400000.0,
+        "ebitda_margin": 0.144,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Input cost relief benefiting Pinecrest Foods and Wholesum",
+          "Vanguard Auto fleet account wins and proprietary SKU expansion",
+          "Crestview Coffee system location expansion (+38 new locations)",
+          "Add-on strategy \u2014 Tri-State Parts LOI for Vanguard",
+          "Pacific Harvest integration driving Wholesum revenue growth"
+        ],
+        "risks": [
+          "High leverage at Crestview Coffee (10.8\u00d7 net leverage)",
+          "Customer concentration at Pinecrest Foods (34% top customer)",
+          "Tariff uncertainty on imported food ingredients",
+          "Pinecrest commodity exposure (palm oil, sunflower)",
+          "Wholesale/secondary exit timing risk for Wholesum"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": 0.209,
+        "moic": 1.88,
+        "holding_period_years": null,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "entry_ev_usd": null,
+        "exit_type": null
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2024,
+          "quarter": null,
+          "revenue_usd": 461000000.0,
+          "ebitda_usd": 66400000.0,
+          "ebitda_margin": 0.144
+        },
+        {
+          "year": 2023,
+          "quarter": null,
+          "revenue_usd": 418000000.0,
+          "ebitda_usd": 61900000.0,
+          "ebitda_margin": 0.148
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_003",
+      "deal_id": null,
+      "doc_type": "lp_quarterly_report",
+      "title": "Atlas Crossing Partners \u2014 Q1 2026 LP Quarterly Report (Fund III)",
+      "date": "2026-03-31",
+      "summary": "Atlas Crossing Partners' Q1 2026 LP Quarterly Report for Fund III (vintage 2020, $420M committed, fully called). As of March 31, 2026, the fund reports Gross IRR of 21.4%, Gross MOIC of 1.94\u00d7, Net IRR of 17.6%, DPI of 0.62\u00d7, TVPI of 1.94\u00d7, and closing NAV of $252.4M. The portfolio comprises five active platforms \u2014 Wholesum Foods (specialty food distribution), Crestview Coffee (QSR/specialty beverage), Vanguard Auto Parts (specialty auto distribution), Pinecrest Foods (specialty food ingredients), and Forgelight Manufacturing (light industrial). Aggregate LTM revenue of $512M grew 11.4% YoY; aggregate LTM EBITDA of $74M grew 9.8%. Wholesum Foods is in active exit preparation (QofE complete, Goldman Sachs engaged, formal process expected Q2\u2013Q3 2026). Vanguard Auto Parts crossed $200M annualized revenue ahead of schedule. Forgelight Manufacturing signed an add-on LOI (Project Kestrel, $31M EV). Fund IV fundraise at $168M committed (42% of $400M target); first close targeted August 2026. Cumulative LP distributions total $230.1M.",
+      "key_quotes": [
+        {
+          "quote": "We completed a comprehensive sell-side Quality of Earnings process in Q4 2025 and are in advanced discussions with potential buyers and strategic partners. We expect to provide an update on Wholesum's exit trajectory by Q2 2026.",
+          "topic": "Exit pipeline \u2014 Wholesum Foods"
+        },
+        {
+          "quote": "Vanguard Auto Parts delivered its strongest quarter to date, crossing $200M in annualized revenue for the first time, ahead of our underwriting schedule by approximately two quarters.",
+          "topic": "Vanguard Auto Parts milestone"
+        },
+        {
+          "quote": "Active holdings marked at cost or last-round valuation; partially realized (Wholesum recap Oct 2024) at exit proceeds.",
+          "topic": "Fund III performance vs. underwriting"
+        },
+        {
+          "quote": "Seller multiples in our core sectors (Business Services, Spec. Distribution) remain compressed vs. 2021 peaks \u2014 we are seeing processes clearing at 8.5\u201310.5\u00d7 EBITDA vs. 11\u201314\u00d7 in 2021.",
+          "topic": "Market commentary \u2014 M&A multiples"
+        },
+        {
+          "quote": "We have commitments of $168M (42% of target) as of May 2026. We expect to hold a first close in August and are grateful for the LP re-up support we have received.",
+          "topic": "Fund IV fundraise progress"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 512000000.0,
+        "ebitda_ltm_usd": 74000000.0,
+        "ebitda_margin": 0.145,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Organic revenue growth across all five portfolio platforms (+11.4% YoY aggregate)",
+          "Wholesum Foods new SKU launches and geographic distribution expansion",
+          "Vanguard Auto Parts crossing $200M annualized revenue; Tri-State Parts add-on integration",
+          "Crestview Coffee same-store sales growth (+8.4%) and new market expansion (22 states)",
+          "Forgelight Manufacturing margin expansion and add-on LOI (Project Kestrel)"
+        ],
+        "risks": [
+          "Labor inflation (~3.8% weighted basis) above original underwriting assumptions",
+          "High leverage across several portfolio companies (Vanguard 11.1\u00d7, Forgelight 18.3\u00d7, Crestview 9.7\u00d7)",
+          "Wholesum Foods exit outcome uncertainty; actual proceeds may differ materially from scenarios",
+          "Commodity cost exposure at Pinecrest Foods (palm oil, sunflower)",
+          "MOIC (1.94\u00d7) and EBITDA growth (1.6\u00d7 avg.) currently tracking below underwriting targets (2.5\u20133.0\u00d7 and 2.2\u00d7 respectively)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2026,
+          "quarter": 1,
+          "revenue_usd": 512000000.0,
+          "ebitda_usd": 74000000.0,
+          "ebitda_margin": 0.145
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_004",
+      "deal_id": null,
+      "doc_type": "lp_quarterly_report",
+      "title": "Atlas Crossing Partners Fund III \u2014 Q3 2025 LP Quarterly Report",
+      "date": "2025-09-30",
+      "summary": "LP Quarterly Report for Atlas Crossing Partners Fund III as of September 30, 2025. Fund III is fully committed at $420M with a Gross IRR of 20.6%, Gross MOIC of 1.86\u00d7, Net IRR of 16.8%, DPI of 0.62\u00d7, and closing NAV of $237.2M. The portfolio consists of five active platforms: Wholesum Foods (specialty food distribution), Crestview Coffee (QSR/specialty beverage), Vanguard Auto Parts (specialty auto distribution), Pinecrest Foods (specialty food ingredients), and Forgelight Manufacturing (light industrial). Aggregate LTM revenue across the portfolio is $488M with $69M EBITDA at a 14.1% margin. Key Q3 activities include the signing of a Tri-State Parts LOI (Vanguard add-on, $28M EV), ongoing Pacific Harvest integration at Wholesum, and exit preparation commenced for Wholesum. Fund IV fundraise is planned for H1 2026. Macro commentary highlights a 25bps Fed rate cut in September 2025 and improving M&A conditions in the lower-middle market.",
+      "key_quotes": [
+        {
+          "quote": "Gross IRR 20.6% (Underwrite: 22\u201325%, Tracking); Gross MOIC 1.86\u00d7 (Underwrite: 2.5\u20133.0\u00d7, On-track); Net IRR 16.8% (Underwrite: 18\u201321%, Tracking).",
+          "topic": "Fund performance vs. underwriting"
+        },
+        {
+          "quote": "Exit preparation begun \u2014 Engaged QofE advisor (EY) for sell-side quality of earnings. No external process launched; expect to select banker Q4 2025 / Q1 2026.",
+          "topic": "Wholesum Foods exit preparation"
+        },
+        {
+          "quote": "Net leverage at 10.7\u00d7 EBITDA. Strong FCF generation ($8.4M TTM) being directed to mandatory amortization; targeting 9.5\u00d7 by end of FY2026.",
+          "topic": "Crestview Coffee leverage"
+        },
+        {
+          "quote": "Sponsor-to-sponsor and sponsor-to-strategic deal volume up 11% in Q3 2025 vs. Q3 2024 per Pitchbook. Lower-middle-market ($75\u2013300M EV) remains less competitive than large-cap \u2014 we are consistently seeing 3\u20135 credible bidders in processes vs. 8\u201312 in 2021.",
+          "topic": "Market conditions \u2014 M&A activity"
+        },
+        {
+          "quote": "In preparation for Fund IV fundraise (launch H1 2026), we have begun LP relationship reactivation and are seeing strong re-up intent from Fund I\u2013III investors.",
+          "topic": "Fund IV outlook"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 488000000.0,
+        "ebitda_ltm_usd": 69000000.0,
+        "ebitda_margin": 0.141,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Geographic expansion (Crestview Coffee \u2014 33 new locations YTD)",
+          "Add-on acquisitions (Tri-State Parts LOI, Pacific Harvest integration)",
+          "Organic revenue growth across Vanguard Auto (+8.1%) and Forgelight (+4.8%)",
+          "Digital loyalty channel growth at Crestview Coffee (1.1M members, 27% of system sales)",
+          "New OEM contracts at Forgelight Manufacturing ($2.1M combined annualized revenue)",
+          "Proprietary SKU mix expansion at Vanguard Auto"
+        ],
+        "risks": [
+          "Elevated leverage across multiple portfolio companies (Crestview 10.7\u00d7, Vanguard 12.7\u00d7, Forgelight 19.1\u00d7)",
+          "Input cost inflation at Wholesum Foods (~4.2% YoY, net 40bps EBITDA margin impact)",
+          "Customer concentration at Pinecrest Foods (top customer 31% of revenue)",
+          "Commodity exposure at Pinecrest Foods (palm/sunflower oil prices)",
+          "Potential tariff expansion on imported raw materials (Pinecrest Foods inputs)",
+          "Returns tracking below underwritten case (Gross IRR 20.6% vs. 22\u201325% UW; MOIC 1.86\u00d7 vs. 2.5\u20133.0\u00d7 UW)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": 0.168,
+        "moic": 1.86,
+        "holding_period_years": null,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "entry_ev_usd": null,
+        "exit_type": "held"
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2025,
+          "quarter": 3,
+          "revenue_usd": 488000000.0,
+          "ebitda_usd": 69000000.0,
+          "ebitda_margin": 0.141
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_005",
+      "deal_id": null,
+      "doc_type": "lp_quarterly_report",
+      "title": "Atlas Crossing Partners Fund III \u2014 Q4 2025 LP Quarterly Report",
+      "date": "2025-12-31",
+      "summary": "LP Quarterly Report for Atlas Crossing Partners Fund III as of Q4 2025 (quarter ended December 31, 2025). The $420M fund is fully committed with a Gross IRR of 21.1%, Gross MOIC of 1.90\u00d7, Net IRR of 17.2%, DPI of 0.62\u00d7, and TVPI of 1.90\u00d7. Closing NAV was $246.2M with cumulative distributions of $230.1M. The fund holds five active platforms: Wholesum Foods (food distribution, in sell-side process), Crestview Coffee (QSR/specialty beverage, deleveraging), Vanguard Auto Parts (specialty auto distribution, post-Tri-State integration), Pinecrest Foods (specialty food ingredients), and Forgelight Manufacturing (light industrial, LOI signed for bolt-on). Aggregate portfolio LTM revenue was $499M and LTM EBITDA was $71M (14.2% margin). Fund IV launch is set for February 2026 with a target first close of $150\u2013200M.",
+      "key_quotes": [
+        {
+          "quote": "Gross MOIC 2.5\u20133.0\u00d7 [underwrite], 1.90\u00d7 [current], On-track. Net IRR 18\u201321% [underwrite], 17.2% [current], Tracking.",
+          "topic": "Fund III Performance vs. Underwrite"
+        },
+        {
+          "quote": "GS engaged as sell-side M&A advisor in November 2025. CIM preparation underway; formal process expected Q2\u2013Q3 2026.",
+          "topic": "Wholesum Foods Exit Process"
+        },
+        {
+          "quote": "The most notable dynamic: a meaningful increase in founder/family-owned business processes as sellers who delayed in 2022\u20132023 (awaiting better terms) are now coming to market. This plays to our proprietary sourcing strength.",
+          "topic": "M&A Market Commentary"
+        },
+        {
+          "quote": "Fund IV formal launch set for February 2026. PPM has been circulated to select LP prospects for review. Re-up LPs from Fund III will be given a 30-day priority window ahead of any first close. Target first close: $150\u2013200M by August 2026.",
+          "topic": "Fund IV Launch"
+        },
+        {
+          "quote": "All five Fund III platforms closed FY2025 at or ahead of internal plan. Aggregate EBITDA growth of 9.2% YoY reflects continued organic expansion and the Tri-State Parts contribution.",
+          "topic": "Portfolio Year-End Assessment"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 499000000.0,
+        "ebitda_ltm_usd": 71000000.0,
+        "ebitda_margin": 0.142,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Organic expansion across five platforms",
+          "Add-on acquisitions (Tri-State Parts closed Q4 2025, Forgelight bolt-on LOI signed)",
+          "OEM contract ramp at Forgelight",
+          "New CPG accounts at Pinecrest",
+          "Crestview store expansion (42 new locations in FY2025)",
+          "Wholesum Foods exit process initiated with Goldman Sachs as sell-side advisor"
+        ],
+        "risks": [
+          "High leverage across portfolio (Vanguard 12.3\u00d7, Pinecrest 31.1\u00d7, Forgelight 18.9\u00d7, Crestview 10.3\u00d7)",
+          "Integration risk from Tri-State Parts acquisition",
+          "Wholesum Foods exit timeline execution risk",
+          "Commodity input cost exposure at Pinecrest Foods",
+          "Returns tracking below underwrite targets (Gross MOIC 1.90\u00d7 vs. 2.5\u20133.0\u00d7 UW)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": 0.172,
+        "moic": 1.9,
+        "holding_period_years": null,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "entry_ev_usd": null,
+        "exit_type": "held"
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2025,
+          "quarter": 4,
+          "revenue_usd": 499000000.0,
+          "ebitda_usd": 71000000.0,
+          "ebitda_margin": 0.142
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_006",
+      "deal_id": null,
+      "doc_type": "pitch_deck",
+      "title": "Atlas Crossing Partners Fund IV \u2014 LP Presentation",
+      "date": "2026-05-01",
+      "summary": "LP pitch deck for Atlas Crossing Partners Fund IV, a Chicago-based middle-market buyout fund targeting $400M ($450M hard cap) with a first close targeted August 2026 and final close February 2027. The fund continues the firm's strategy from Funds I\u2013III: control buyouts of lower-middle-market businesses ($75\u2013400M EV, $10\u201350M EBITDA) in Business Services, Specialty Distribution, and Industrial/Light Manufacturing. As of May 2026, $168M (42% of target) has been committed. The deck covers firm history (founded 2012, $910M raised across Funds I\u2013III), investment team, track record (25.8% weighted gross IRR, 2.6\u00d7 gross MOIC across all funds), active Fund III portfolio, Fund IV structure and terms (2.0% mgmt fee, 20% carry over 8% hurdle), value creation methodology, and current pipeline (3 deals in active diligence). Target gross IRR of 22\u201328% and gross MOIC of 2.5\u20133.5\u00d7.",
+      "key_quotes": [
+        {
+          "quote": "We operate as a true sector-agnostic-within-thesis firm \u2014 we do not chase macro cycles. Our edge is operational: we put the right operating executive in place within the first 90 days and run a structured Value Creation Plan for every holding.",
+          "topic": "Investment philosophy"
+        },
+        {
+          "quote": "Average EBITDA growth across Fund I\u2013III platforms: 2.1\u00d7 from entry to exit. Average hold-period entry multiple: 9.4\u00d7. Average exit multiple: 10.8\u00d7. The spread is real, but operational improvement drives the majority of value creation.",
+          "topic": "Track record summary"
+        },
+        {
+          "quote": "Rate environment has compressed seller multiples in the lower-middle-market; 2025\u20132027 vintage expected to benefit from reduced competition from large-cap PE.",
+          "topic": "Market timing"
+        },
+        {
+          "quote": "38% of deals in the last 24 months were either proprietary or limited auction with \u22643 bidders. We consistently win deals at lower multiples than marketed processes.",
+          "topic": "Proprietary sourcing"
+        },
+        {
+          "quote": "GP commits \u22653% ($12M+) from personal capital. The entire investment team participates in carried interest. No key-person events; zero senior departures in 14 years. We eat what we cook.",
+          "topic": "GP alignment"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund IV",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": null,
+        "ebitda_margin": null,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Proprietary and limited-auction sourcing (38% of deals) reducing competition and entry multiples",
+          "Market dislocation in lower-middle-market creating favorable entry pricing (2025\u20132027 vintage)",
+          "Operational value creation via 100-day plans, operating partner placement, and add-on M&A (avg. 1.8 add-ons per platform)",
+          "EBITDA margin expansion of 200\u2013400 bps per platform targeted",
+          "Deep LP re-up base providing fundraising momentum"
+        ],
+        "risks": [
+          "Unrealized Fund III holdings (3 of 5 platforms not yet exited) carry mark-to-market risk",
+          "Fund IV fundraise still in progress at 42% of target as of May 2026",
+          "Hold period risk given active portfolio average hold already 4\u20138 years",
+          "Integration risk from add-on acquisition strategy",
+          "Key-person dependency on co-founders Michael Tang and Simon Harrington"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
     }
   ]
 }

@@ -68,6 +68,9 @@ class DocType(StrEnum):
     funds_flow = "funds_flow"
     ioi_tracker = "ioi_tracker"
     final_bid_comparison = "final_bid_comparison"
+    lp_annual_report = "lp_annual_report"
+    lp_quarterly_report = "lp_quarterly_report"
+    pitch_deck = "pitch_deck"
 
 
 class ExitType(StrEnum):

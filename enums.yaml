@@ -129,6 +129,9 @@ doc_type:
   - funds_flow
   - ioi_tracker
   - final_bid_comparison
+  - lp_annual_report
+  - lp_quarterly_report
+  - pitch_deck
 
 macro_metric:
   - gdp_growth

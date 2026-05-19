@@ -53,6 +53,27 @@ def staging_paths(deal_slug: str) -> StagingPaths:
     )
 
 
+@dataclass
+class AppendStagingPaths:
+    """Per-append staging dir under data/_ingested/<slug>/_appends/<ts>/.
+    Sibling to the original deal staging so the resolver outputs aren't disturbed."""
+
+    root: Path
+    documents_jsonl: Path
+    report_md: Path
+    taxonomy_proposals_yaml: Path
+
+
+def append_staging_paths(deal_slug: str, timestamp: str) -> AppendStagingPaths:
+    root = repo_root() / "data" / "_ingested" / deal_slug / "_appends" / timestamp
+    return AppendStagingPaths(
+        root=root,
+        documents_jsonl=root / "documents.jsonl",
+        report_md=root / "report.md",
+        taxonomy_proposals_yaml=root / "taxonomy_proposals.yaml",
+    )
+
+
 def _strip_aux_fields(d: dict) -> dict:
     """Remove TaggerOutput aux fields that don't belong in data/documents.json."""
     return {k: v for k, v in d.items() if k not in {"deal_context", "taxonomy_proposals", "extraction_warnings"}}
@@ -68,10 +89,15 @@ def _normalize_proposal(s: str) -> str:
 
 def _aggregate_proposals(tagged: list[tuple[FileRef, TaggerOutput]]) -> list[dict]:
     """Dedupe taxonomy proposals across docs by (field, normalized_proposed_value).
-    Keep the highest-confidence original spelling for each normalized stem."""
+    Keep the highest-confidence original spelling for each normalized stem.
+
+    Drops proposals where proposed_value matches closest_existing after normalization
+    — those are tagger noise (the value is already in the enum, no proposal needed)."""
     by_key: dict[tuple[str, str], dict] = {}
     for _, t in tagged:
         for p in t.taxonomy_proposals:
+            if _normalize_proposal(p.proposed_value) == _normalize_proposal(p.closest_existing):
+                continue
             key = (p.field, _normalize_proposal(p.proposed_value))
             d = p.model_dump()
             if key not in by_key or d["confidence"] > by_key[key]["confidence"]:
@@ -245,6 +271,122 @@ def _build_report(
         lines.append("")
 
     return "\n".join(lines)
+
+
+# -----------------------------------------------------------------------------
+# Append-only staging + commit (net-new docs for an already-ingested deal)
+# -----------------------------------------------------------------------------
+
+
+def write_append_staging(
+    *,
+    deal_slug: str,
+    deal_id: str | None,
+    tagged: list[tuple[FileRef, TaggerOutput]],
+    doc_ids: dict[str, str],
+) -> AppendStagingPaths:
+    """Stage net-new docs under data/_ingested/<slug>/_appends/<timestamp>/.
+
+    Writes documents.jsonl, taxonomy_proposals.yaml, and a brief report.md.
+    Returns the AppendStagingPaths so a caller can commit if --commit was set."""
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    paths = append_staging_paths(deal_slug, timestamp)
+    paths.root.mkdir(parents=True, exist_ok=True)
+
+    with paths.documents_jsonl.open("w") as f:
+        for fref, output in tagged:
+            doc_id = doc_ids[fref.path]
+            f.write(json.dumps(_doc_record(doc_id=doc_id, deal_id=deal_id, output=output), default=_json_default) + "\n")
+
+    proposals = _aggregate_proposals(tagged)
+    paths.taxonomy_proposals_yaml.write_text(yaml.safe_dump({"proposals": proposals}, sort_keys=False))
+
+    lines: list[str] = [
+        f"# Append ingestion — {deal_slug}",
+        "",
+        f"Deal ID: `{deal_id}`",
+        f"Timestamp: `{timestamp}`",
+        f"Net-new docs: {len(tagged)}",
+        "",
+        "## Tagged documents",
+        "",
+    ]
+    for fref, output in tagged:
+        doc_id = doc_ids[fref.path]
+        lines.append(f"- `{fref.path}` → `{doc_id}` ({output.doc_type.value}) — {output.title}")
+    if proposals:
+        lines += ["", "## Taxonomy proposals", ""]
+        for p in proposals:
+            lines.append(f"- {p['field']}: proposed=`{p['proposed_value']}` (used `{p['closest_existing']}`)")
+    paths.report_md.write_text("\n".join(lines) + "\n")
+
+    return paths
+
+
+def commit_appended_docs_to_fixtures(
+    staging: AppendStagingPaths,
+    deal_id: str | None,
+    *,
+    skip_taxonomy_gate: bool = False,
+) -> None:
+    """Append staged docs to data/documents.json. When deal_id is set, also extends
+    that deal's source_documents. When deal_id is None, the docs are committed as
+    firm-level (e.g., LP reports, pitch decks) with no deal linkage.
+
+    Refuses if taxonomy_proposals.yaml is non-empty unless skip_taxonomy_gate is True
+    (firm docs legitimately fall outside the deal taxonomy — sector/subsector etc.
+    don't apply to fund-level reports). Runs check_consistency.py after."""
+    proposals_doc = yaml.safe_load(staging.taxonomy_proposals_yaml.read_text()) or {}
+    proposals = proposals_doc.get("proposals") or []
+    if not skip_taxonomy_gate:
+        enforce_commit_gate(proposals)
+
+    docs: list[dict] = []
+    with staging.documents_jsonl.open() as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                docs.append(json.loads(line))
+    if not docs:
+        raise RuntimeError("no staged docs to append")
+
+    deals_path = repo_root() / "data" / "deals.json"
+    documents_path = repo_root() / "data" / "documents.json"
+
+    deals_blob = json.loads(deals_path.read_text())
+    documents_blob = json.loads(documents_path.read_text())
+
+    deal = None
+    if deal_id is not None:
+        deal = next((d for d in deals_blob["deals"] if d["deal_id"] == deal_id), None)
+        if deal is None:
+            raise RuntimeError(f"deal_id {deal_id!r} not found in data/deals.json")
+
+    existing_doc_ids = {d["doc_id"] for d in documents_blob["documents"]}
+    for d in docs:
+        if d["doc_id"] in existing_doc_ids:
+            raise RuntimeError(f"doc_id {d['doc_id']!r} already exists in data/documents.json")
+
+    documents_blob["documents"].extend(docs)
+    if deal is not None:
+        deal.setdefault("source_documents", [])
+        deal["source_documents"].extend(d["doc_id"] for d in docs)
+        deals_path.write_text(json.dumps(deals_blob, indent=2))
+    documents_path.write_text(json.dumps(documents_blob, indent=2))
+
+    script = repo_root() / "scripts" / "check_consistency.py"
+    result = subprocess.run(
+        ["uv", "run", "python", str(script)],
+        cwd=repo_root(),
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        print(f"⚠ check_consistency.py failed after append (exit {result.returncode}):")
+        print(result.stdout)
+        print(result.stderr)
+    else:
+        print(result.stdout.strip() or "consistency check passed.")
 
 
 # -----------------------------------------------------------------------------
