@@ -132,5 +132,30 @@
     "qualifying_doc_count": 8,
     "confidence_threshold_used": 0.9,
     "total_tagged_docs": 12
+  },
+  "underwriting_case": {
+    "year_1": {
+      "revenue_usd": 988000000.0,
+      "ebitda_usd": 84000000.0,
+      "ebitda_margin": 0.085
+    },
+    "year_2": {
+      "revenue_usd": 1096000000.0,
+      "ebitda_usd": 98000000.0,
+      "ebitda_margin": 0.089
+    },
+    "year_3": {
+      "revenue_usd": 1205000000.0,
+      "ebitda_usd": 112000000.0,
+      "ebitda_margin": 0.093
+    },
+    "year_4_exit": {
+      "revenue_usd": 1309000000.0,
+      "ebitda_usd": 122000000.0,
+      "ebitda_margin": 0.093,
+      "ev_usd": 1220000000.0,
+      "moic": 3.4,
+      "irr": 0.358
+    }
   }
 }

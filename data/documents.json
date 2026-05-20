@@ -1,552 +1,6 @@
 {
   "documents": [
     {
-      "doc_id": "doc_8429",
-      "deal_id": "deal_falcon_2025",
-      "doc_type": "cim",
-      "title": "Project Falcon \u2014 Confidential Information Memorandum",
-      "date": "2026-02-20",
-      "expert_id": null,
-      "summary": "Sell-side CIM for MedTech Services, a southeast-US outsourced clinical services platform with $142M revenue and 19.7% EBITDA margin. Roll-up thesis on a fragmented sub-vertical with founder-led targets.",
-      "key_quotes": [],
-      "structured": {
-        "company": "MedTech Services Inc.",
-        "revenue_ltm_usd": 142000000,
-        "ebitda_ltm_usd": 28000000,
-        "ebitda_margin": 0.197,
-        "revenue_cagr_3yr": 0.14,
-        "growth_drivers": [
-          "recurring contract base",
-          "M&A pipeline of 8 targets",
-          "expansion into adjacent payer services"
-        ],
-        "risks": [
-          "top-3 payer represents 31% of revenue",
-          "labor inflation in clinical roles"
-        ]
-      },
-      "full_text_excerpt": "MedTech Services Inc. is a leading provider of outsourced clinical services to regional health systems..."
-    },
-    {
-      "doc_id": "doc_8430",
-      "deal_id": "deal_falcon_2025",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Channel Pricing Dynamics in Outsourced Clinical Services",
-      "date": "2026-04-02",
-      "expert_id": "expert_jdoe",
-      "summary": "30-minute call with Jane Doe, former VP of Network Strategy at a top-5 national payer, on pricing leverage between clinical service vendors and payers.",
-      "key_quotes": [
-        {
-          "quote": "Channel pricing power has declined materially over the past 18 months as payers consolidated negotiating leverage and tied reimbursement to outcome-based contracts. Vendors that don't own the patient relationship are getting squeezed 200-300 bps per renewal cycle.",
-          "topic": "channel_pricing_power"
-        },
-        {
-          "quote": "The winners are the platforms with proprietary outcome data \u2014 they can defend price. Pure-play staffing models cannot.",
-          "topic": "competitive_dynamics"
-        }
-      ],
-      "full_text_excerpt": "Q: How has pricing power shifted in this space over the past two years? A: Channel pricing power has declined materially..."
-    },
-    {
-      "doc_id": "doc_8431",
-      "deal_id": "deal_falcon_2025",
-      "doc_type": "dd_report",
-      "title": "Project Falcon \u2014 Commercial DD (Bain)",
-      "date": "2026-04-18",
-      "expert_id": null,
-      "summary": "Bain commercial DD validates market size and growth but flags payer-concentration risk.",
-      "key_quotes": [],
-      "full_text_excerpt": "Market size estimated at $14.2B with 4-6% organic growth. Top-3 payer dependency is the most material risk to underwriting..."
-    },
-    {
-      "doc_id": "doc_8455",
-      "deal_id": "deal_falcon_2025",
-      "doc_type": "ic_memo",
-      "title": "Project Falcon \u2014 Preliminary IC Memo",
-      "date": "2026-04-30",
-      "expert_id": null,
-      "summary": "Preliminary IC memo recommending continuation to confirmatory DD at $285M EV (10.2x EBITDA).",
-      "key_quotes": [],
-      "full_text_excerpt": "Recommendation: proceed to confirmatory diligence. Entry multiple of 10.2x is in line with precedents (Acme 10.5x, HealthRoll 9.0x)..."
-    },
-    {
-      "doc_id": "doc_9102",
-      "deal_id": "deal_orion_2026",
-      "doc_type": "cim",
-      "title": "Project Orion \u2014 CIM",
-      "date": "2026-03-10",
-      "expert_id": null,
-      "summary": "Specialty industrial distributor, $198M revenue, 11.1% margin.",
-      "key_quotes": [],
-      "full_text_excerpt": "Orion Industrial Supply is a midwest specialty distributor..."
-    },
-    {
-      "doc_id": "doc_9103",
-      "deal_id": "deal_orion_2026",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Specialty Distribution Cycle Risk",
-      "date": "2026-04-15",
-      "expert_id": "expert_mfeld",
-      "summary": "Industrial distribution veteran on the current cycle.",
-      "key_quotes": [
-        {
-          "quote": "We're late-cycle. Inventory builds are slowing across the channel.",
-          "topic": "cyclicality"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_9120",
-      "deal_id": "deal_orion_2026",
-      "doc_type": "ic_memo",
-      "title": "Project Orion \u2014 IC Memo (Pre-LOI)",
-      "date": "2026-04-25",
-      "expert_id": null,
-      "summary": "Recommendation to submit LOI at 10.5x.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_3201",
-      "deal_id": "deal_acme_2021",
-      "doc_type": "cim",
-      "title": "Acme MedSupply \u2014 CIM",
-      "date": "2021-05-15",
-      "expert_id": null,
-      "summary": "Outsourced clinical services platform; $118M revenue.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_3202",
-      "deal_id": "deal_acme_2021",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Outsourced Clinical Services Demand",
-      "date": "2021-06-20",
-      "expert_id": "expert_jdoe",
-      "summary": "Jane Doe on post-COVID demand normalization in clinical services.",
-      "key_quotes": [
-        {
-          "quote": "Outsourced clinical services demand normalized in Q1 2021 but contract pricing held firm \u2014 vendors with multi-year MSAs are insulated.",
-          "topic": "pricing_power"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_3210",
-      "deal_id": "deal_acme_2021",
-      "doc_type": "ic_memo",
-      "title": "Acme MedSupply \u2014 Final IC Memo",
-      "date": "2021-08-10",
-      "expert_id": null,
-      "summary": "Approved at $220M EV.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_2101",
-      "deal_id": "deal_techflow_2019",
-      "doc_type": "cim",
-      "title": "TechFlow Distribution \u2014 CIM",
-      "date": "2019-09-05",
-      "expert_id": null,
-      "summary": "Specialty distributor, $165M revenue.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_2102",
-      "deal_id": "deal_techflow_2019",
-      "doc_type": "ic_memo",
-      "title": "TechFlow Distribution \u2014 IC Memo",
-      "date": "2019-12-01",
-      "expert_id": null,
-      "summary": "Approved at $175M EV (9.2x).",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_4401",
-      "deal_id": "deal_atlas_2022",
-      "doc_type": "cim",
-      "title": "Atlas Health Group \u2014 CIM",
-      "date": "2022-04-15",
-      "expert_id": null,
-      "summary": "Outsourced clinical platform, northeast.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_4402",
-      "deal_id": "deal_atlas_2022",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Management Reference (Atlas CEO)",
-      "date": "2022-06-30",
-      "expert_id": "expert_bstone",
-      "summary": "Reference call flagged concerns on Atlas management depth.",
-      "key_quotes": [
-        {
-          "quote": "Strong founder but limited second-line bench. Two senior departures in the last 12 months.",
-          "topic": "management_quality"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_4410",
-      "deal_id": "deal_atlas_2022",
-      "doc_type": "ic_memo",
-      "title": "Atlas \u2014 Pass Memo",
-      "date": "2022-08-14",
-      "expert_id": null,
-      "summary": "Recommend pass: management quality + customer concentration.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_5501",
-      "deal_id": "deal_cascade_2024",
-      "doc_type": "cim",
-      "title": "Cascade Software Holdings \u2014 CIM",
-      "date": "2024-10-10",
-      "expert_id": null,
-      "summary": "Vertical SaaS roll-up candidate.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_5502",
-      "deal_id": "deal_cascade_2024",
-      "doc_type": "dd_report",
-      "title": "Cascade \u2014 Tech DD (early)",
-      "date": "2024-11-05",
-      "expert_id": null,
-      "summary": "Stack heterogeneity raised integration risk.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_2801",
-      "deal_id": "deal_healthroll_2020",
-      "doc_type": "cim",
-      "title": "HealthRoll Partners \u2014 CIM",
-      "date": "2020-06-22",
-      "expert_id": null,
-      "summary": "Founder-led clinical platform.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_2802",
-      "deal_id": "deal_healthroll_2020",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Regulatory Landscape",
-      "date": "2020-08-12",
-      "expert_id": "expert_lwong",
-      "summary": "Regulatory exposure assessment.",
-      "key_quotes": [
-        {
-          "quote": "State-level reimbursement rules will tighten but the federal floor protects core revenue.",
-          "topic": "regulatory_exposure"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_2810",
-      "deal_id": "deal_healthroll_2020",
-      "doc_type": "ic_memo",
-      "title": "HealthRoll \u2014 IC Memo",
-      "date": "2020-09-22",
-      "expert_id": null,
-      "summary": "Approved at $180M EV (9.0x).",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_6601",
-      "deal_id": "deal_midstates_2022",
-      "doc_type": "cim",
-      "title": "MidStates Components \u2014 CIM",
-      "date": "2022-02-10",
-      "expert_id": null,
-      "summary": "MRO distribution platform.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_6602",
-      "deal_id": "deal_midstates_2022",
-      "doc_type": "ic_memo",
-      "title": "MidStates \u2014 IC Memo",
-      "date": "2022-05-15",
-      "expert_id": null,
-      "summary": "Approved at $195M EV.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_kibble_cim",
-      "deal_id": "deal_kibble_2024",
-      "doc_type": "cim",
-      "title": "Project Kibble \u2014 CIM",
-      "date": "2024-03-15",
-      "expert_id": null,
-      "summary": "Premium dry/wet pet food brand with strong D2C subscription channel.",
-      "key_quotes": [],
-      "structured": {
-        "company": "Pawsome Premium Foods Inc.",
-        "revenue_ltm_usd": 168000000,
-        "ebitda_ltm_usd": 27000000,
-        "ebitda_margin": 0.161,
-        "revenue_cagr_3yr": 0.21,
-        "growth_drivers": [
-          "D2C subscription (42% of revenue)",
-          "specialty retail expansion",
-          "fresh/freeze-dried adjacency launch"
-        ],
-        "risks": [
-          "protein cost volatility",
-          "private-label encroachment in mid-tier"
-        ]
-      },
-      "full_text_excerpt": "Pawsome Premium Foods has built a $168M revenue premium pet food brand with industry-leading subscription retention..."
-    },
-    {
-      "doc_id": "doc_kibble_ic",
-      "deal_id": "deal_kibble_2024",
-      "doc_type": "ic_memo",
-      "title": "Project Kibble \u2014 IC Memo",
-      "date": "2024-07-01",
-      "expert_id": null,
-      "summary": "Recommend close at $360M EV (13.3x).",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_kibble_expert_1",
-      "deal_id": "deal_kibble_2024",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Premium Pet Food Channel Pricing",
-      "date": "2024-05-20",
-      "expert_id": "expert_rgarza",
-      "summary": "Pet specialty retail veteran on premium pricing durability.",
-      "key_quotes": [
-        {
-          "quote": "Premium pet food retains pricing power as long as brand owns the subscription relationship. Channel pricing power has declined for brands sold primarily through mass and grocery.",
-          "topic": "channel_pricing_power"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_whisker_cim",
-      "deal_id": "deal_whisker_2025",
-      "doc_type": "cim",
-      "title": "Project Whisker \u2014 CIM",
-      "date": "2025-10-25",
-      "expert_id": null,
-      "summary": "Natural/limited-ingredient pet food, $92M revenue, founder-led.",
-      "key_quotes": [],
-      "structured": {
-        "company": "Whisker Naturals LLC",
-        "revenue_ltm_usd": 92000000,
-        "ebitda_ltm_usd": 14500000,
-        "ebitda_margin": 0.158,
-        "revenue_cagr_3yr": 0.28,
-        "growth_drivers": [
-          "natural ingredient trend",
-          "Amazon FBA channel",
-          "veterinary endorsements"
-        ],
-        "risks": [
-          "one customer (Chewy) = 34% of revenue",
-          "single-source protein supplier"
-        ]
-      },
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_whisker_expert_1",
-      "deal_id": "deal_whisker_2025",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Natural Pet Food Trends",
-      "date": "2025-11-30",
-      "expert_id": "expert_rgarza",
-      "summary": "Natural/limited-ingredient is the fastest-growing segment.",
-      "key_quotes": [
-        {
-          "quote": "Natural and limited-ingredient is growing 15-20% annually while mass-market is flat.",
-          "topic": "segment_growth"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_whisker_expert_2",
-      "deal_id": "deal_whisker_2025",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Chewy Vendor Dynamics",
-      "date": "2026-01-10",
-      "expert_id": "expert_tpark",
-      "summary": "Former Chewy category buyer on vendor concentration risk.",
-      "key_quotes": [
-        {
-          "quote": "Chewy can de-list a vendor with 90 days notice. Single-channel exposure above 30% should be a yellow flag.",
-          "topic": "customer_concentration"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_paws_cim",
-      "deal_id": "deal_paws_2023",
-      "doc_type": "cim",
-      "title": "Project Paws \u2014 CIM",
-      "date": "2023-06-25",
-      "expert_id": null,
-      "summary": "Mid-tier dry pet food, $78M revenue.",
-      "key_quotes": [],
-      "structured": {
-        "company": "BarkBites Inc.",
-        "revenue_ltm_usd": 78000000,
-        "ebitda_ltm_usd": 8500000,
-        "ebitda_margin": 0.109,
-        "growth_drivers": [
-          "grocery distribution expansion"
-        ],
-        "risks": [
-          "private-label encroachment",
-          "thin margins"
-        ]
-      },
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_paws_expert_1",
-      "deal_id": "deal_paws_2023",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Private Label in Pet Food",
-      "date": "2023-08-08",
-      "expert_id": "expert_rgarza",
-      "summary": "Private-label share is gaining fast in mid-tier dry pet food.",
-      "key_quotes": [
-        {
-          "quote": "Private-label share in mid-tier dry food moved from 18% to 26% in 18 months. Brands without premiumization or differentiated channel access are getting squeezed.",
-          "topic": "private_label_pressure"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_crunch_cim",
-      "deal_id": "deal_crunch_2026",
-      "doc_type": "cim",
-      "title": "Project Crunch \u2014 CIM (Corporate Divestiture)",
-      "date": "2026-04-15",
-      "expert_id": null,
-      "summary": "Carve-out of a $215M pet food division from a CPG parent.",
-      "key_quotes": [],
-      "structured": {
-        "company": "Crunch Pet Co.",
-        "revenue_ltm_usd": 215000000,
-        "ebitda_ltm_usd": 31000000,
-        "ebitda_margin": 0.144,
-        "growth_drivers": [
-          "margin uplift from standalone cost base",
-          "SKU rationalization"
-        ],
-        "risks": [
-          "TSA dependency on parent",
-          "shared manufacturing assets"
-        ]
-      },
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_crunch_expert_1",
-      "deal_id": "deal_crunch_2026",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 CPG Carve-out Operational Risk",
-      "date": "2026-05-01",
-      "expert_id": "expert_mfeld",
-      "summary": "Operational risks in CPG carve-outs.",
-      "key_quotes": [
-        {
-          "quote": "Shared manufacturing on carve-outs typically costs 18-24 months of management attention and 100-200 bps of margin during transition.",
-          "topic": "carve_out_risk"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_forge_ic",
-      "deal_id": "deal_forge_2018",
-      "doc_type": "ic_memo",
-      "title": "Forge Precision \u2014 IC Memo",
-      "date": "2018-07-20",
-      "expert_id": null,
-      "summary": "Approved at $215M EV (9.8x).",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_forge_expert_1",
-      "deal_id": "deal_forge_2018",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Lean Ops in Precision Manufacturing",
-      "date": "2018-06-12",
-      "expert_id": "expert_sokafor",
-      "summary": "Margin expansion playbook for precision components.",
-      "key_quotes": [
-        {
-          "quote": "300-500 bps of margin is recoverable in precision components through SKU rationalization and OEE programs within 24 months.",
-          "topic": "margin_expansion"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_polymer_ic",
-      "deal_id": "deal_polymer_2019",
-      "doc_type": "ic_memo",
-      "title": "Polymer Process \u2014 IC Memo",
-      "date": "2019-05-02",
-      "expert_id": null,
-      "summary": "Approved at $280M EV.",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_polymer_expert_1",
-      "deal_id": "deal_polymer_2019",
-      "doc_type": "expert_call",
-      "title": "Expert Call \u2014 Specialty Chemicals Pricing",
-      "date": "2019-03-18",
-      "expert_id": "expert_sokafor",
-      "summary": "Pricing discipline opportunity in fragmented process manufacturing.",
-      "key_quotes": [
-        {
-          "quote": "Most process manufacturers underprice by 200-400 bps relative to value delivered.",
-          "topic": "pricing_discipline"
-        }
-      ],
-      "full_text_excerpt": "..."
-    },
-    {
-      "doc_id": "doc_packtech_ic",
-      "deal_id": "deal_packtech_2022",
-      "doc_type": "ic_memo",
-      "title": "PackTech \u2014 IC Memo",
-      "date": "2022-12-10",
-      "expert_id": null,
-      "summary": "Approved at $245M EV (10.2x).",
-      "key_quotes": [],
-      "full_text_excerpt": "..."
-    },
-    {
       "doc_id": "doc_project_aurora_001",
       "deal_id": "deal_project_aurora_2026",
       "doc_type": "ic_memo",
@@ -11260,6 +10714,2174 @@
           "ebitda_margin": 0.1324
         }
       ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_pegasus_001",
+      "deal_id": "deal_project_pegasus_2021",
+      "doc_type": "cim",
+      "title": "Project Pegasus \u2014 Stride & Co. Confidential Information Memorandum",
+      "date": "2021-09-01",
+      "summary": "Houlihan Lokey sell-side CIM for Stride & Co. (\"Project Pegasus\"), a purpose-driven premium DTC activewear brand founded in 2016 and headquartered in Los Angeles, CA. The Company offers performance apparel made from sustainably-sourced and recycled materials, complemented by the Stride Studio\u2122 subscription membership (62K members, $21.7M ARR, 115% NRR). LTM Q2'21 revenue of $78M (+32% YoY) and Adj. EBITDA of $6.5M (8.3% margin). Asking EV of ~$130M (20x LTM EBITDA / 1.7x LTM Revenue). Management projects revenue growing to $235M and EBITDA to $54M by FY2025 driven by Studio membership expansion, men's line ramp, and international growth. Management team owns 71% of the company on a fully diluted basis. IOIs due October 8, 2021.",
+      "key_quotes": [
+        {
+          "quote": "Stride has grown from $8M in FY2017 to $78M LTM with no outside capital beyond its 2019 Series B.",
+          "topic": "Financial scale and growth"
+        },
+        {
+          "quote": "Stride Studio membership (62K members, $29/mo) drives 115% NRR; members purchase 3.8x more than non-members.",
+          "topic": "Subscription NRR quality"
+        },
+        {
+          "quote": "Legging ASP of $128 \u2014 premium to Lululemon ($98) and Athleta ($89) core SKUs \u00b7 10 product drops per year; avg. sell-through of 94% within 30 days \u2014 almost zero end-of-season markdown.",
+          "topic": "Pricing power vs. peers"
+        },
+        {
+          "quote": "DTC CAC of $38 (organic-heavy strategy); LTV of $680 (avg. 3.5-year relationship, 4.6 orders/yr) \u00b7 LTV / CAC 17.9x \u2014 Exceptional for consumer DTC \u2014 benchmark is 3\u20135x.",
+          "topic": "Unit economics"
+        },
+        {
+          "quote": "Management team owns 71% of the business on a fully diluted basis \u2014 highly aligned with outcome.",
+          "topic": "Management alignment"
+        }
+      ],
+      "structured": {
+        "company": "Stride & Co.",
+        "revenue_ltm_usd": 78400000.0,
+        "ebitda_ltm_usd": 6500000.0,
+        "ebitda_margin": 0.083,
+        "revenue_cagr_3yr": 0.413,
+        "ev_proposed_usd": 130000000.0,
+        "ev_ebitda_multiple": 20.0,
+        "growth_drivers": [
+          "Stride Studio\u2122 subscription membership with 115% NRR and ~$21.7M ARR growing ~55% YoY",
+          "Men's performance line launched Q2 2021 tracking to $11M annualized",
+          "International expansion (UK/Canada) with <11% of revenue today vs. $28B ex-US TAM",
+          "DTC channel mix shift improving blended gross margins (48.1% FY2018 \u2192 56.2% LTM)",
+          "Organic community strategy driving CAC down 41% since FY2019; LTV/CAC of 17.9x",
+          "Planned footwear and yoga mat product adjacencies with strong brand purchase intent"
+        ],
+        "risks": [
+          "Founders own 71% of equity \u2014 significant founder dependency",
+          "Manufacturing concentrated in 3 B Corp factories (Vietnam and Portugal)",
+          "Premium price positioning ($128 ASP vs. Lululemon $98) vulnerable to consumer trade-down",
+          "Subscription business model adds regulatory/consumer protection complexity in international markets",
+          "Company has taken $26M in Series B preferred \u2014 overhang in capital structure"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_pegasus_002",
+      "deal_id": "deal_project_pegasus_2021",
+      "doc_type": "teaser",
+      "title": "Project Pegasus \u2014 Executive Teaser",
+      "date": "2021-09-01",
+      "summary": "Sell-side teaser prepared by Houlihan Lokey (exclusive advisor) for Stride & Co. (\"Pegasus\"), a Los Angeles-based premium DTC activewear brand founded in 2016. The Company offers performance apparel made from sustainably-sourced/recycled materials and has built a digital-first community anchored by the Stride Studio\u2122 subscription membership (~62K members, $29/mo, $21.7M ARR). LTM revenue of $78M (+32% YoY) with $6.5M Adj. EBITDA (8.3% margin). Asking EV of ~$130M (~20x LTM EBITDA / 1.7x LTM Revenue). Key investment highlights include high-velocity DTC brand, differentiated sustainable product, capital-light outsourced manufacturing model, durable recurring revenue from Studio membership, international whitespace, and a founder-led management team owning 71% of the business. Management projects revenue growing to ~$235M by FY2025E with EBITDA margins expanding to ~13.9% by FY2022E.",
+      "key_quotes": [
+        {
+          "quote": "Stride Studio membership (62K members, $29/mo) drives 115% NRR; members purchase 3.8x more than non-members",
+          "topic": "Brand community and NRR"
+        },
+        {
+          "quote": "Legging ASP of $128 \u2014 premium to Lululemon ($98) and Athleta ($89) core SKUs",
+          "topic": "Pricing power vs. peers"
+        },
+        {
+          "quote": "Blended gross margin 56.2% LTM \u2014 expanding from 48.1% in FY2018 as mix shifts to direct DTC",
+          "topic": "Capital-light model and gross margin"
+        },
+        {
+          "quote": "Management team owns 71% of the business on a fully diluted basis \u2014 highly aligned with outcome",
+          "topic": "Founder alignment"
+        },
+        {
+          "quote": "Stride has grown from $8M in FY2017 to $78M LTM with no outside capital beyond its 2019 Series B",
+          "topic": "Growth from inception"
+        }
+      ],
+      "structured": {
+        "company": "Stride & Co.",
+        "revenue_ltm_usd": 78400000.0,
+        "ebitda_ltm_usd": 6500000.0,
+        "ebitda_margin": 0.083,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 130000000.0,
+        "ev_ebitda_multiple": 20.0,
+        "growth_drivers": [
+          "High-velocity DTC brand with 415K active customers and 82 NPS",
+          "Stride Studio\u2122 membership ($29/mo, 62K members, $21.7M ARR, 115% NRR) driving recurring revenue and repeat purchases",
+          "Sustainably-sourced product platform with pricing power above Lululemon and Athleta",
+          "Capital-light model with outsourced manufacturing and 56.2% gross margin",
+          "International expansion (UK/CA currently <11% of revenue) into $28B ex-US market",
+          "Men's line and footwear adjacencies in early stages",
+          "Experienced founder team with deep activewear DNA (Lululemon, Patagonia, Nike, Peloton pedigree)"
+        ],
+        "risks": [
+          "Early-stage profitability \u2014 8.3% EBITDA margin at LTM scale",
+          "Significant management/founder ownership concentration (71% FD) \u2014 founder dependency risk",
+          "Manufacturing fully outsourced to 3 B Corp factories \u2014 supply chain concentration",
+          "Growth projections are management estimates, not independently verified by Houlihan Lokey",
+          "Premium price point and DTC model subject to consumer spending cyclicality"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2018,
+          "quarter": null,
+          "revenue_usd": 28000000.0,
+          "ebitda_usd": 1500000.0,
+          "ebitda_margin": 0.054
+        },
+        {
+          "year": 2019,
+          "quarter": null,
+          "revenue_usd": 42100000.0,
+          "ebitda_usd": 3500000.0,
+          "ebitda_margin": 0.083
+        },
+        {
+          "year": 2020,
+          "quarter": null,
+          "revenue_usd": 59200000.0,
+          "ebitda_usd": 5200000.0,
+          "ebitda_margin": 0.088
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_quarry_001",
+      "deal_id": "deal_project_quarry_2019",
+      "doc_type": "cim",
+      "title": "Project Quarry \u2014 Consolidated Rock Industries Confidential Information Memorandum",
+      "date": "2019-03-01",
+      "summary": "Harris Williams & Co. sell-side CIM for Consolidated Rock Industries (\"CRI\"), a founder-led regional aggregates producer operating 14 permitted quarry sites across Utah, Nevada, Colorado, and Idaho. CRI produces crushed stone, construction sand & gravel, ready-mix concrete, and industrial minerals. LTM Q1'19 revenue of $245M, Adj. EBITDA of $44M (18.0% margin), with an asking EV of ~$350M (7.9x LTM EBITDA). The investment thesis centers on an irreplaceable permitted reserve base (~580M tons, 30+ years of production), structural supply constraints from permitting barriers, strong pricing power (#1\u20132 position in 6 MSAs), vertical integration via owned fleet and ready-mix operations, and a proven roll-up strategy with an active bolt-on pipeline. CEO David Mercer, the founder with 62% equity, is leading a transition via a targeted sale process with IOIs due April 5, 2019.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Consolidated Rock Industries",
+        "revenue_ltm_usd": 245100000.0,
+        "ebitda_ltm_usd": 44100000.0,
+        "ebitda_margin": 0.18,
+        "revenue_cagr_3yr": 0.141,
+        "ev_proposed_usd": 350000000.0,
+        "ev_ebitda_multiple": 7.9,
+        "growth_drivers": [
+          "Irreplaceable permitted reserve base with 30+ year production horizon",
+          "Infrastructure tailwind from IIJA ($550B+ in construction spending through 2028)",
+          "Strong pricing power \u2014 20% ASP premium over regional average due to permit scarcity",
+          "Vertically integrated operations with owned 220-vehicle fleet and ready-mix division",
+          "Active bolt-on M&A pipeline \u2014 6 targets identified, 3 in late-stage negotiation (~$85M combined EV)",
+          "Western US population growth and supply-constrained permitting environment"
+        ],
+        "risks": [
+          "Founder dependency \u2014 CEO David Mercer owns 62% equity and is central to strategy",
+          "Cyclicality tied to construction activity (residential, commercial, infrastructure)",
+          "Customer concentration \u2014 top 20 accounts represent 58% of revenue, managed by single VP Sales",
+          "Regulatory/permitting exposure \u2014 new quarry permitting takes 8\u201315 years in Mountain West",
+          "Commodity exposure \u2014 aggregate pricing sensitive to regional supply/demand dynamics",
+          "Integration risk from active roll-up acquisition strategy"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2016,
+          "quarter": null,
+          "revenue_usd": 165000000.0,
+          "ebitda_usd": 28100000.0,
+          "ebitda_margin": 0.17
+        },
+        {
+          "year": 2017,
+          "quarter": null,
+          "revenue_usd": 192400000.0,
+          "ebitda_usd": 33000000.0,
+          "ebitda_margin": 0.172
+        },
+        {
+          "year": 2018,
+          "quarter": null,
+          "revenue_usd": 218300000.0,
+          "ebitda_usd": 38000000.0,
+          "ebitda_margin": 0.174
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_quarry_002",
+      "deal_id": "deal_project_quarry_2019",
+      "doc_type": "teaser",
+      "title": "Project Quarry \u2014 Executive Teaser",
+      "date": "2019-03-01",
+      "summary": "Harris Williams & Co. sell-side teaser for Project Quarry / Consolidated Rock Industries (\"CRI\"), a regional aggregates producer operating 14 permitted quarry sites across Utah, Nevada, Colorado, and Idaho. CRI offers ~580M tons of permitted mineral reserves (30+ years of capacity), a 220-vehicle owned fleet, and a vertically integrated ready-mix concrete division. LTM Q1'19 revenue of $245M and Adj. EBITDA of $44M (18.0% margin); asking EV of ~$350M (~7.9x LTM Adj. EBITDA). The investment thesis centers on an irreplaceable permitted reserve base, infrastructure end-market tailwinds (IIJA), strong local market pricing power, and a founder-led roll-up strategy with 6 identified bolt-on targets in adjacent Mountain West markets.",
+      "key_quotes": [
+        {
+          "quote": "With over 580M tons of permitted mineral reserves, CRI offers an acquiror 30+ years of fully-permitted production capacity \u2014 a near-irreplaceable asset given increasingly restrictive permitting environments.",
+          "topic": "Reserve base scarcity"
+        },
+        {
+          "quote": "Crushed stone ASP of $14.20/ton vs. regional average $11.80/ton \u2014 20% premium reflects permit scarcity \u00b7 Pricing increased 6.2% in FY2018 with no volume impact.",
+          "topic": "Pricing power"
+        },
+        {
+          "quote": "CEO David Mercer has identified 6 bolt-on quarry targets in adjacent markets (WY, MT, AZ) \u00b7 3 targets in late-stage negotiation; combined EV ~$85M at 5\u20136x EBITDA (immediate accretion).",
+          "topic": "Roll-up pipeline"
+        }
+      ],
+      "structured": {
+        "company": "Consolidated Rock Industries",
+        "revenue_ltm_usd": 245100000.0,
+        "ebitda_ltm_usd": 44000000.0,
+        "ebitda_margin": 0.18,
+        "revenue_cagr_3yr": 0.142,
+        "ev_proposed_usd": 350000000.0,
+        "ev_ebitda_multiple": 7.9,
+        "growth_drivers": [
+          "Irreplaceable permitted reserve base with 30+ years of production capacity",
+          "Infrastructure end-market tailwind from IIJA ($550B+ in construction spending through 2028)",
+          "Strong pricing power \u2014 #1 or #2 market position in each of 6 served metro areas",
+          "Vertically integrated with owned 220-vehicle fleet and ready-mix concrete division",
+          "Founder-led acquisitive roll-up strategy with 6 identified bolt-on targets"
+        ],
+        "risks": [
+          "Highly regional footprint concentrated in Mountain West (UT, NV, CO, ID)",
+          "Infrastructure/public works revenue mix (48%) creates some cyclicality exposure",
+          "Founder dependency \u2014 CEO David Mercer leading M&A pipeline",
+          "Integration risk from active bolt-on acquisition pipeline (~$85M combined EV)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_sundial_001",
+      "deal_id": "deal_project_sundial_2022",
+      "doc_type": "cim",
+      "title": "Project Sundial \u2014 Confidential Information Memorandum: Slumber Smart, Inc.",
+      "date": "2022-04-01",
+      "summary": "Goldman Sachs-prepared CIM for Slumber Smart, Inc. (\"Project Sundial\"), a Boulder, CO-based premium sleep-tech hardware and software platform. The Company designs and sells an integrated ecosystem of smart mattress pads (SlumberPod\u2122), biometric monitoring hardware, and AI-powered sleep coaching software (SlumberOS\u2122). LTM revenue of $145M growing at 28% YoY, with $18M Adj. EBITDA (12.4% margin) and $29M subscription ARR at 115% NRR. Goldman Sachs is running a limited sell-side auction with a guided enterprise value of ~$200M (11.1x LTM EBITDA). Management projects revenue growing to $340M by FY2026 with EBITDA margins expanding to 21.8%. Key investment themes include a proprietary hardware-software flywheel, premium DTC economics (LTV/CAC of 10.6x), and a structurally growing sleep-wellness TAM.",
+      "key_quotes": [
+        {
+          "quote": "Slumber Smart holds 35% share in the smart mattress sub-segment \u2014 2.5x next closest competitor",
+          "topic": "Market position"
+        },
+        {
+          "quote": "$29M ARR growing ~60% YoY; subscription attached to 73% of hardware sold in trailing 12 months. 115% Net Revenue Retention.",
+          "topic": "Subscription economics"
+        },
+        {
+          "quote": "CAC of ~$180 and an LTV of ~$1,900, yielding a <6-month payback period.",
+          "topic": "Unit economics"
+        },
+        {
+          "quote": "Enterprise Value (guidance): ~$200M \u2014 11.1x LTM Adj. EBITDA",
+          "topic": "Valuation guidance"
+        },
+        {
+          "quote": "Each night of use feeds the SlumberAI model \u2014 accuracy improves with scale, creating embedded switching cost. Software platform (SlumberOS) handles 95M+ nightly data points; 3.2M+ nights of training data accumulated.",
+          "topic": "Proprietary AI moat"
+        }
+      ],
+      "structured": {
+        "company": "Slumber Smart, Inc.",
+        "revenue_ltm_usd": 145100000.0,
+        "ebitda_ltm_usd": 18000000.0,
+        "ebitda_margin": 0.124,
+        "revenue_cagr_3yr": 0.26,
+        "ev_proposed_usd": 200000000.0,
+        "ev_ebitda_multiple": 11.1,
+        "growth_drivers": [
+          "Subscription ARR growing ~60% YoY; $29M ARR with 73% hardware attach rate",
+          "115% Net Revenue Retention from Basic-to-Premium subscription upsell",
+          "DTC model driving 45%+ gross margins and superior unit economics (LTV/CAC of 10.6x)",
+          "Retail expansion to Nordstrom, Crate & Barrel, and Best Buy",
+          "International expansion (UK, AU launched; Europe DE/FR/NL targeted for 2023)",
+          "Adjacent SKU pipeline: SlumberPillow, SlumberCrib, SlumberPro B2B",
+          "Gross margin expansion from 45.5% to 51.8% driven by growing software mix"
+        ],
+        "risks": [
+          "Founder/CEO dependency \u2014 Maya Chen holds 6 of 10 granted patents and built the company from inception",
+          "Manufacturing concentration in Taiwan (single OEM source)",
+          "Hardware gross margins (~44%) dilute blended profitability; competitive pressure from Eight Sleep",
+          "Consumer discretionary spending sensitivity; high ASP ($999\u2013$1,799) limits addressable market",
+          "Relatively modest EBITDA base ($18M LTM) at a premium entry multiple (~11x)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_sundial_002",
+      "deal_id": "deal_project_sundial_2022",
+      "doc_type": "teaser",
+      "title": "Project Sundial \u2014 Executive Teaser",
+      "date": "2022-04-01",
+      "summary": "Goldman Sachs-run limited auction teaser for Project Sundial / Slumber Smart, Inc., a Boulder, CO-based premium sleep-tech hardware and software company founded in 2014. LTM revenue of $145M (+28% YoY), LTM Adj. EBITDA of $18M (12.4% margin), and subscription ARR of $29M (~185K subscribers, 115% NRR). Asking EV of ~$200M (11.1x LTM EBITDA). Process timeline runs April\u2013June 2022. Investment highlights emphasize category leadership in sleep-tech, a hardware+software flywheel (SlumberOS), high-growth SaaS subscription layer, strong DTC unit economics, and international expansion whitespace. Founder-led by CEO Maya Chen (ex-Fitbit).",
+      "key_quotes": [
+        {
+          "quote": "Building the leading platform for precision sleep optimization",
+          "topic": "Category positioning"
+        },
+        {
+          "quote": "Subscription revenue ($29M ARR) is growing ~60% YoY with 115% NRR. The software layer is on a path to represent 30%+ of revenue by 2025, supporting a richer valuation profile.",
+          "topic": "SaaS subscription growth"
+        },
+        {
+          "quote": "CAC of $180 against LTV of $1,900+ (hardware + 3yr sub). Payback period <6 months on DTC channel.",
+          "topic": "Unit economics"
+        },
+        {
+          "quote": "The SlumberOS platform creates a proprietary data loop: each night of sleep data improves algorithm accuracy, deepening engagement and creating switching costs that generic hardware cannot replicate.",
+          "topic": "Competitive moat"
+        }
+      ],
+      "structured": {
+        "company": "Slumber Smart, Inc.",
+        "revenue_ltm_usd": 145000000.0,
+        "ebitda_ltm_usd": 18000000.0,
+        "ebitda_margin": 0.124,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 200000000.0,
+        "ev_ebitda_multiple": 11.1,
+        "growth_drivers": [
+          "High-growth SaaS subscription layer ($29M ARR, ~60% YoY, 115% NRR)",
+          "Hardware+software flywheel creating switching costs via SlumberOS platform",
+          "Expanding DTC and retail distribution (Nordstrom, Crate & Barrel) with strong unit economics (CAC $180, LTV $1,900+)",
+          "International geographic expansion (UK, AU launched 2021; DE, FR targeted 2023)",
+          "Adjacent product SKUs in late-stage development (smart pillow, crib monitor)"
+        ],
+        "risks": [
+          "Low household penetration of sleep-tech hardware (<2% US) may slow adoption",
+          "Founder/management dependency \u2014 CEO is founder Maya Chen",
+          "International expansion execution risk",
+          "Hardware ASP of $1,450 creates consumer affordability sensitivity"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_tideway_001",
+      "deal_id": "deal_project_tideway_2023",
+      "doc_type": "cim",
+      "title": "Project Tideway \u2014 Confidential Information Memorandum: Meridian Marine Services",
+      "date": "2023-06-01",
+      "summary": "Jefferies LLC-prepared CIM for Project Tideway, the sale process for Meridian Marine Services, a Houston-based provider of integrated offshore logistics, vessel chartering, and port services to the Gulf of Mexico energy sector. Meridian operates a fleet of 38 vessels (PSVs, fast crew boats, anchor handling tugs) with owned shore bases at Port Fourchon, LA and Ingleside, TX. LTM Q1'23 revenue of $185M and Adj. EBITDA of $32M (17.3% margin). Asking EV of ~$280M (8.75x LTM EBITDA). The company was founded in 2008 by Kirk Dolan (ex-Tidewater COO) and has completed 3 fleet acquisitions since 2018. Shell and BP collectively represent 41% of LTM revenue. The process is structured as a limited auction with IOIs due July 14, 2023, run exclusively by Jefferies.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Meridian Marine Services",
+        "revenue_ltm_usd": 185400000.0,
+        "ebitda_ltm_usd": 32100000.0,
+        "ebitda_margin": 0.173,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 280000000.0,
+        "ev_ebitda_multiple": 8.75,
+        "growth_drivers": [
+          "Gulf of Mexico deepwater rig count at highest since 2015 driving PSV demand",
+          "PSV spot day rates up 38% YoY; contracted fleet re-pricing at renewal",
+          "IEA projects Gulf deepwater production to grow 12% by 2028",
+          "$285M contract backlog (1.5x LTM revenue) providing revenue visibility through 2025",
+          "Modern fleet (avg. age 7.2 years) with fuel efficiency advantage vs. industry",
+          "Shore base & port services generate $18M stable, asset-light revenue",
+          "Identified bolt-on acquisition targets (2 Gulf operators, ~12 vessels)"
+        ],
+        "risks": [
+          "Customer concentration: Shell and BP collectively 41% of LTM revenue",
+          "Founder/CEO Kirk Dolan owns 58% of equity \u2014 key-man dependency",
+          "Cyclicality: revenue highly correlated with offshore E&P capex and rig count",
+          "Leverage: 3.9x net leverage ratio with $138M total debt",
+          "Fuel cost exposure on ~22% of contracts without cost-plus structure",
+          "Seasonal demand for anchor handling tug (AHT) services",
+          "Regulatory exposure: US Coast Guard compliance, STCW, classification society requirements"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_tideway_002",
+      "deal_id": "deal_project_tideway_2023",
+      "doc_type": "teaser",
+      "title": "Project Tideway \u2014 Executive Teaser",
+      "date": "2023-06-01",
+      "summary": "Jefferies-run sell-side teaser for Project Tideway, the marketed sale of Meridian Marine Services \u2014 a Houston-based provider of offshore logistics, vessel chartering, and port services to the Gulf of Mexico energy sector. Meridian operates a 38-vessel fleet (PSVs, crew boats, anchor handling tugs), owns shore bases in Fourchon, LA and Ingleside, TX, and counts Shell, BP, Chevron, and Murphy Oil as key clients. LTM (Q1'23) revenue is $185M with Adj. EBITDA of $32M (17.3% margin). Asking EV is ~$280M (~8.75x LTM Adj. EBITDA). The investment thesis centers on a contracted revenue backlog ($285M), fleet value at a 54% discount to replacement cost, energy sector tailwinds, and a management team with a demonstrated M&A track record. The process was at teaser-distribution stage as of June 2023.",
+      "key_quotes": [
+        {
+          "quote": "#2 PSV operator in the Gulf of Mexico by fleet capacity; #1 in shallow-water crew transfer \u00b7 Average customer relationship of 8.4 years; Shell and BP collectively 41% of LTM revenue",
+          "topic": "Market Position"
+        },
+        {
+          "quote": "Fleet replacement cost estimated at $520M+ \u2014 acquiring Meridian at $280M represents a 54% discount to asset value",
+          "topic": "Asset Value"
+        },
+        {
+          "quote": "$285M contract backlog as of March 2023 \u2014 1.5x LTM revenue; 78% under term contracts (avg. 2.3yr remaining)",
+          "topic": "Contracted Backlog"
+        },
+        {
+          "quote": "Gulf of Mexico deepwater rig count at 22 active units \u2014 highest since 2015; PSV demand directly correlated \u00b7 Vessel day rates recovering: PSV spot rates up 38% YoY",
+          "topic": "Energy Sector Tailwinds"
+        }
+      ],
+      "structured": {
+        "company": "Meridian Marine Services",
+        "revenue_ltm_usd": 185400000.0,
+        "ebitda_ltm_usd": 32100000.0,
+        "ebitda_margin": 0.173,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 280000000.0,
+        "ev_ebitda_multiple": 8.75,
+        "growth_drivers": [
+          "Strong Gulf of Mexico deepwater rig count recovery (22 active units, highest since 2015)",
+          "PSV spot day rates up 38% YoY with contracted fleet re-pricing at renewal",
+          "IEA projects Gulf deepwater production growth of 12% by 2028; E&P capex up 18% YoY",
+          "$285M contracted backlog (1.5x LTM revenue) providing multi-year revenue visibility",
+          "Cost-plus and CPI escalation clauses on major contracts protecting against inflation",
+          "Shore-base operations generating $18M of stable, asset-light revenue",
+          "Identified bolt-on acquisition targets (2 Gulf operators, ~12 vessels at distressed pricing)"
+        ],
+        "risks": [
+          "Customer concentration: Shell and BP collectively represent 41% of LTM revenue",
+          "Cyclicality tied to E&P operator capital expenditure budgets and rig count",
+          "Commodity price exposure indirectly through E&P client activity levels",
+          "Chartered vessel exposure in addition to owned fleet (operational leverage)",
+          "Management projections not independently verified by Jefferies"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_vellum_001",
+      "deal_id": "deal_project_vellum_2024",
+      "doc_type": "cim",
+      "title": "Project Vellum \u2014 Confidential Information Memorandum: Ascot Paper Products",
+      "date": "2024-02-01",
+      "summary": "Lincoln International has prepared this CIM on behalf of Ascot Paper Products (\"Ascot\"), a Portland, OR-based manufacturer and distributor of premium specialty paper products \u2014 including fine writing papers, art & illustration papers, archival document papers, and premium packaging substrates. Founded in 2001 by Richard Hartley (68% family-owned), Ascot operates two facilities (Portland manufacturing; Memphis distribution) with ~290 employees. LTM Q4'23 revenue of $95M and Adj. EBITDA of $14M (14.7% margin). The Company is being marketed at a ~$140M EV (10.0x LTM Adj. EBITDA) in a targeted sell-side process led by Lincoln International with IOIs due March 15, 2024. Key investment themes include defensible niche positioning via ISO 9706 archival certification and proprietary coating formulas, premium pricing power (30\u201345x premium over commodity paper), durable institutional customer base (Library of Congress, Smithsonian) on 5-year supply agreements, and a high-growth DTC/e-commerce channel (65% CAGR FY2021\u2013FY2023). The balance sheet is debt-free with $11M cash. This is a first-generation family liquidity event with Margaret Hartley designated as CEO successor.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Ascot Paper Products",
+        "revenue_ltm_usd": 95100000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.147,
+        "revenue_cagr_3yr": 0.05,
+        "ev_proposed_usd": 140000000.0,
+        "ev_ebitda_multiple": 10.0,
+        "growth_drivers": [
+          "DTC and e-commerce channel expansion (65% CAGR FY2021\u2013FY2023; ascot.com + Amazon)",
+          "Premium pricing power with minimal volume impact (4\u20136% annual price increases in FY2022\u2013FY2023)",
+          "Institutional archival supply agreements with Library of Congress, Smithsonian, and 12 university archives",
+          "Specialty packaging substrate segment growing +28% in FY2023 with new luxury brand pipeline",
+          "Channel mix shift to higher-margin DTC (58% GM) from wholesale (28% GM) structurally accretive to margins",
+          "FSC certification and sustainability credentials opening new institutional preferred-supplier relationships"
+        ],
+        "risks": [
+          "Founder/family dependency \u2014 Richard Hartley personally manages institutional relationships; first-generation sale",
+          "Customer concentration \u2014 top 20 accounts represent 62% of revenue",
+          "Small DTC/e-commerce base relative to wholesale despite high CAGR",
+          "Single manufacturing facility in Portland, OR creates operational concentration risk",
+          "Premium specialty paper niche is small (~$210M served market) limiting scale potential",
+          "Management projections not independently verified"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_vellum_002",
+      "deal_id": "deal_project_vellum_2024",
+      "doc_type": "teaser",
+      "title": "Project Vellum \u2014 Executive Teaser",
+      "date": "2024-02-01",
+      "summary": "Executive teaser prepared by Lincoln International (exclusive advisor) for Project Vellum, the sale process for Ascot Paper Products \u2014 a Portland, OR-based manufacturer and distributor of premium specialty paper products (fine writing, art, archival, and packaging substrates). The company was founded in 2001 and is majority family-owned (Hartley family, 68%), representing a first-generation founder transition. LTM revenue is $95M with LTM Adj. EBITDA of $14M (14.7% margin); asking EV is ~$140M (~10.0x LTM Adj. EBITDA). Key investment highlights include defensible niche positioning via patents and certifications, premium pricing power, a durable institutional customer base with long tenure, a fast-growing DTC/e-commerce channel, FSC-certified sustainability credentials, and a clean balance sheet with zero debt. Management projects revenue growing from $102M (FY2024E) to $137M (FY2028E) with margin expansion to ~17%+.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Ascot Paper Products",
+        "revenue_ltm_usd": 95100000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.147,
+        "revenue_cagr_3yr": 0.05,
+        "ev_proposed_usd": 140000000.0,
+        "ev_ebitda_multiple": 10.0,
+        "growth_drivers": [
+          "DTC/e-commerce channel expansion (65% CAGR FY2021\u2013FY2023)",
+          "Premium pricing power with 30\u201345x premium to commodity paper",
+          "Institutional archival customer growth with 5-year supply agreements",
+          "Channel mix shift toward higher-margin DTC (58% GM vs. 28% wholesale)",
+          "Sustainability credentials driving institutional and consumer demand",
+          "Potential bolt-on acquisition capacity post-close (zero debt, $11M cash)"
+        ],
+        "risks": [
+          "Top 20 accounts represent 62% of revenue \u2014 customer concentration",
+          "Single manufacturing facility in Portland, OR \u2014 operational concentration",
+          "Family-owned with Hartley family at 68% \u2014 founder dependency on transition",
+          "Management projections not independently verified by Lincoln International",
+          "Specialty/niche market with limited addressable market size disclosed"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_beacon_001",
+      "deal_id": "deal_project_beacon_2023",
+      "doc_type": "cim",
+      "title": "Project Beacon \u2013 Confidential Information Memorandum: Lighthouse Logistics Group",
+      "date": "2023-09-01",
+      "summary": "William Blair-prepared CIM for Lighthouse Logistics Group (\"Project Beacon\"), a technology-enabled regional LTL and final-mile freight provider headquartered in Charlotte, NC. The company operates 14 terminals across the Southeast and Mid-Atlantic, a fleet of 680 vehicles, and a proprietary route-optimization platform (BeaconOS). LTM Sep 2023 revenue of $218M and Adj. EBITDA of $33.7M (15.5% margin). The e-commerce final-mile segment grew 41% YoY and represents 28% of revenue, with a target of 40%+ by 2026. BeaconOS is also white-labeled to 3PLs generating $2.1M ARR. The process kicked off in Aug 2023 with a Q1 2024 targeted signing/close. Implied EV of ~$310M based on 9.2x LTM EBITDA. Platform acquisition opportunity in a highly fragmented Southeast LTL market.",
+      "key_quotes": [
+        {
+          "quote": "BeaconOS route optimization reduces cost-per-stop by 14% vs. manual dispatch; 97.4% OTD rate \u2014 top decile for regional LTL",
+          "topic": "Proprietary technology moat"
+        },
+        {
+          "quote": "Final-mile e-commerce segment grew 41% YoY; now 28% of revenue, targeted at 40%+ by 2026",
+          "topic": "E-commerce growth"
+        },
+        {
+          "quote": "Southeast LTL market estimated at $8.4B; top-5 regional players hold <30% share; Lighthouse is #3 by terminals",
+          "topic": "Market fragmentation and consolidation opportunity"
+        },
+        {
+          "quote": "7-year average customer tenure; top-20 customers represent 52% of revenue with no single customer >8%",
+          "topic": "Customer concentration"
+        },
+        {
+          "quote": "BeaconOS white-labeled to 2 regional 3PLs \u2014 SaaS revenue stream of $2.1M ARR at 80%+ gross margin",
+          "topic": "SaaS licensing revenue"
+        }
+      ],
+      "structured": {
+        "company": "Lighthouse Logistics Group",
+        "revenue_ltm_usd": 218300000.0,
+        "ebitda_ltm_usd": 33700000.0,
+        "ebitda_margin": 0.155,
+        "revenue_cagr_3yr": 0.138,
+        "ev_proposed_usd": 310200000.0,
+        "ev_ebitda_multiple": 9.2,
+        "growth_drivers": [
+          "Final-mile e-commerce segment growing 41% YoY; targeted at 40%+ of revenue by 2026",
+          "BeaconOS proprietary route optimization reduces cost-per-stop by 14%; top-decile 97.4% OTD rate",
+          "BeaconOS SaaS licensing to 3PLs generating $2.1M ARR at 80%+ gross margins",
+          "Healthcare logistics vertical growing at 3-year CAGR of 24%; provides counter-cyclical stability",
+          "Highly fragmented Southeast LTL market ($8.4B TAM) with active bolt-on acquisition pipeline"
+        ],
+        "risks": [
+          "Top-20 customers represent 52% of revenue \u2014 moderate customer concentration",
+          "~22% of volume sourced through freight brokers, exposing margins to broker rate fluctuations",
+          "Asset base includes 680 vehicles with ongoing fleet refresh capital requirements",
+          "Integration risk from planned tuck-in terminal acquisitions",
+          "Cyclicality inherent in LTL freight volumes tied to industrial and retail end markets"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_beacon_002",
+      "deal_id": "deal_project_beacon_2023",
+      "doc_type": "teaser",
+      "title": "PROJECT BEACON \u2014 Executive Summary Teaser | Lighthouse Logistics Group",
+      "date": "2023-09-01",
+      "summary": "William Blair-distributed sell-side teaser for Project Beacon, Lighthouse Logistics Group \u2014 a technology-enabled regional LTL and final-mile freight provider headquartered in Charlotte, NC, operating 14 terminals across the Southeast and Mid-Atlantic U.S. LTM revenue of $218M and LTM Adj. EBITDA of $33.7M (15.5% margin). Seller is asking ~$310M (9.2x LTM EBITDA). Key investment highlights include proprietary BeaconOS route optimization technology, a rapidly growing e-commerce/final-mile segment (41% YoY, 28% of revenue), a fragmented regional LTL market opportunity, and a diversified revenue base with counter-cyclical healthcare exposure. Process launched September 2023 through William Blair.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Lighthouse Logistics Group",
+        "revenue_ltm_usd": 218000000.0,
+        "ebitda_ltm_usd": 33700000.0,
+        "ebitda_margin": 0.155,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 310000000.0,
+        "ev_ebitda_multiple": 9.2,
+        "growth_drivers": [
+          "Proprietary BeaconOS route optimization platform driving 14% cost-per-stop reduction vs. manual dispatch",
+          "High-growth final-mile e-commerce segment up 41% YoY, now 28% of revenue targeting 40%+ by 2026",
+          "Highly fragmented Southeast LTL market (~$8.4B TAM) with top-5 players holding <30% share \u2014 consolidation opportunity",
+          "Counter-cyclical healthcare vertical (19% of revenue) with 3-year CAGR of 24%",
+          "97.4% on-time delivery rate \u2014 top decile for regional LTL"
+        ],
+        "risks": [
+          "Cyclicality inherent in freight/logistics volumes tied to broader economic activity",
+          "Top client represents <8% of revenue \u2014 moderate customer concentration",
+          "Execution risk in scaling final-mile e-commerce mix to 40%+ target",
+          "Regional concentration in Southeast/Mid-Atlantic may limit addressable market"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_ember_001",
+      "deal_id": "deal_project_ember_2024",
+      "doc_type": "cim",
+      "title": "Project Ember \u2013 Cascade Outdoor Brands Confidential Information Memorandum",
+      "date": "2024-04-01",
+      "summary": "Harris Williams sell-side CIM for Cascade Outdoor Brands (\"Project Ember\"), a Denver, CO-based premium designer and manufacturer of technical outdoor hardgoods (tents, shelters, ultralight cookware) sold under two owned brands \u2014 Ridgeline (mid-market, $95 ASP) and Summit Series (premium, $285 ASP). LTM Apr 2024 revenue of $112M and Adj. EBITDA of $14.0M (12.5% margin). DTC e-commerce represents 44% of revenue, up from 29% three years ago. The Company has 58K paid loyalty members, 3 issued patents, international revenue in 22 countries, and an OEM/licensing royalty stream ($3.2M ARR). Indicative EV implied at ~$175M (12.5x LTM EBITDA). Sale process initiated April 2024; closing targeted Q3 2024.",
+      "key_quotes": [
+        {
+          "quote": "Ridgeline targets weekend campers and trail runners (ASP $95); Summit Series serves thru-hikers and mountaineers (ASP $285) \u2014 Brand separation prevents channel conflict; Ridgeline sold at REI and Target; Summit Series exclusively at specialty and DTC.",
+          "topic": "Brand positioning"
+        },
+        {
+          "quote": "DTC e-commerce grew from 29% to 44% of revenue over 3 years; gross margin 15pp higher than wholesale channel.",
+          "topic": "DTC channel growth"
+        },
+        {
+          "quote": "Subscription loyalty program ('Summit Club') with 58K paying members at $49/yr; 91% year-1 retention.",
+          "topic": "Loyalty program"
+        },
+        {
+          "quote": "AeroShield\u2122 fabric technology (2 patents): 22% lighter than competitive Dyneema composites at comparable strength... HexLite\u2122 cookware alloy (1 patent): 18% lighter than titanium with equivalent heat distribution; $3.2M in royalty-bearing licenses to 2 OEM brands.",
+          "topic": "Proprietary technology"
+        },
+        {
+          "quote": "International revenue +34% YoY, led by Germany, Japan, and Australia; 22 distributor relationships in place.",
+          "topic": "International growth"
+        }
+      ],
+      "structured": {
+        "company": "Cascade Outdoor Brands",
+        "revenue_ltm_usd": 112000000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.125,
+        "revenue_cagr_3yr": 0.107,
+        "ev_proposed_usd": 175000000.0,
+        "ev_ebitda_multiple": 12.5,
+        "growth_drivers": [
+          "DTC e-commerce channel expansion (29% to 44% of revenue over 3 years)",
+          "International revenue growth (+34% YoY) with underpenetrated EU and Asia-Pacific markets",
+          "Summit Club loyalty subscription program (58K paying members, 91% year-1 retention)",
+          "Proprietary AeroShield\u2122 and HexLite\u2122 IP generating OEM licensing royalties ($3.2M ARR)",
+          "Japan DTC joint venture in diligence (projected $4M incremental Year 1 revenue)",
+          "Premiumization via Summit Series brand (ASP $285, NPS 74)"
+        ],
+        "risks": [
+          "Manufacturing concentration in Vietnam and Taiwan (4 partners)",
+          "Founder-led company with two REI veterans; key-person dependency",
+          "Wholesale channel (REI, Target) dependence for Ridgeline brand",
+          "Cyclical outdoor consumer discretionary spending",
+          "International distributor/JV execution risk"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_project_ember_002",
+      "deal_id": "deal_project_ember_2024",
+      "doc_type": "teaser",
+      "title": "Project Ember \u2014 Executive Summary Teaser: Cascade Outdoor Brands",
+      "date": "2024-04-01",
+      "summary": "Harris Williams sell-side teaser for Cascade Outdoor Brands (\"Project Ember\"), a Denver, CO-based premium designer and manufacturer of technical outdoor hardgoods (tents, shelters, ultralight cookware) sold under two owned brands \u2014 Ridgeline (mid-market, $95 ASP) and Summit Series (premium, $285 ASP). The company was founded in 2009 by two former REI product managers and distributes through DTC e-commerce (44%), specialty outdoor retail (38%), and international distributors across 22 countries (18%). LTM Revenue of $112M and LTM Adj. EBITDA of $14M (12.5% margin). Asking price of ~$175M (12.5x LTM Adj. EBITDA). Key highlights include DTC-led margin expansion, proprietary AeroShield\u2122 material innovation (3 patents), and strong international momentum (+34% YoY).",
+      "key_quotes": [],
+      "structured": {
+        "company": "Cascade Outdoor Brands",
+        "revenue_ltm_usd": 112000000.0,
+        "ebitda_ltm_usd": 14000000.0,
+        "ebitda_margin": 0.125,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 175000000.0,
+        "ev_ebitda_multiple": 12.5,
+        "growth_drivers": [
+          "DTC e-commerce channel expansion (grew from 29% to 44% of revenue over 3 years)",
+          "International revenue growth (+34% YoY) across 22 distributor relationships",
+          "Proprietary AeroShield\u2122 fabric technology with 3 patents and 2 pending",
+          "Two distinct brands spanning mid-market (Ridgeline) and premium (Summit Series) outdoor segments",
+          "15pp gross margin advantage in DTC vs. wholesale channel"
+        ],
+        "risks": [
+          "Supply chain concentration \u2014 4 manufacturing partners in Vietnam and Taiwan",
+          "Founder-led business (two former REI product managers)",
+          "Dependence on specialty outdoor retail partners (REI, Backcountry, EVO) for 38% of revenue"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_001",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q1 2026 Board of Directors Package",
+      "date": "2026-05-08",
+      "summary": "Final board package for Crestview Coffee Roasters as an Atlas Crossing Partners Fund II portfolio company ahead of an imminent exit transaction. Q1 2026 revenue was $146.7M (+9.2% YoY) and EBITDA was $23.5M (16.0% margin), both ahead of budget by ~3\u20135%. HSR clearance was received with no second request and close was targeted for April 30, 2026. Key KPIs \u2014 118K subscription customers and 44% DTC mix \u2014 hit exit targets. Fund II gross MOIC is estimated at ~2.8x. This is explicitly noted as the final Crestview board package.",
+      "key_quotes": [
+        {
+          "quote": "This is Crestview's final board meeting as an Atlas Crossing portfolio company. The HSR waiting period expired with no second request.",
+          "topic": "Exit process / transaction status"
+        },
+        {
+          "quote": "Fund II gross MOIC estimated ~2.8x. This is the final Crestview board package.",
+          "topic": "Realized returns estimate"
+        },
+        {
+          "quote": "118K subscribers; 44% DTC mix \u2014 both above exit targets",
+          "topic": "KPI performance vs. exit targets"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 88400000.0,
+        "ebitda_margin": 0.16,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (44% of revenue vs. 22% at entry)",
+          "Subscription customer growth (118K vs. 48K at entry)",
+          "Roasting facility expansion (5 facilities vs. 3 at entry)",
+          "Average order value improvement ($82 vs. $68 at entry)"
+        ],
+        "risks": [
+          "Post-close transition risk (mitigated by transition agreements)",
+          "Close execution risk (deemed very low; all conditions satisfied)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": null,
+        "moic": 2.8,
+        "holding_period_years": null,
+        "exit_year": 2026,
+        "exit_ev_usd": null,
+        "entry_ev_usd": null,
+        "exit_type": "strategic_sale"
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2026,
+          "quarter": 1,
+          "revenue_usd": 146700000.0,
+          "ebitda_usd": 23500000.0,
+          "ebitda_margin": 0.16
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_002",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2019 Board of Directors Package",
+      "date": "2020-02-06",
+      "summary": "Q4 2019 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). Revenue of $77.2M and EBITDA of $10.6M (13.7% margin) came in 3.1% and 6.0% ahead of budget, respectively. LTM EBITDA of $37.7M vs. entry baseline of $36.5M; net leverage of 5.8x vs. entry 5.9x. DTC channel and subscription growth are primary strategic initiatives, alongside a Pacific Northwest bolt-on scan with 5 regional roasters under NDA (Cascade Roasting management meeting held January 2020). ERP/NetSuite rollout on track. Q1 2020 revenue guidance of $76.8M with Cascade Roasting LOI targeted.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2019 revenue of $77.2M and EBITDA of $10.6M (13.7% margin), ahead of budget by 3.1%.",
+          "topic": "Q4 financial performance"
+        },
+        {
+          "quote": "Q4 holiday season delivered record DTC orders, validating the channel investment thesis.",
+          "topic": "DTC channel validation"
+        },
+        {
+          "quote": "5 regional roasters under NDA; Cascade Roasting management meeting Jan 2020.",
+          "topic": "Bolt-on M&A pipeline"
+        },
+        {
+          "quote": "Q1 2020 expected revenue $76.8M. DTC replatform go-live target Q1 2020. Cascade Roasting LOI target Q1 2020.",
+          "topic": "Next quarter outlook"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 37700000.0,
+        "ebitda_margin": 0.137,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion and replatform",
+          "Subscription model launch targeting 118,000 customers",
+          "Pacific Northwest bolt-on acquisitions (Cascade Roasting)",
+          "Roasting facility expansion (3 to 5 facilities)",
+          "Holiday season record DTC orders"
+        ],
+        "risks": [
+          "Integration pace of strategic initiatives",
+          "DTC unit economics at scale",
+          "Green coffee commodity pricing exposure"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2019,
+          "quarter": 4,
+          "revenue_usd": 77200000.0,
+          "ebitda_usd": 10600000.0,
+          "ebitda_margin": 0.137
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_003",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2020 Board of Directors Package",
+      "date": "2021-02-06",
+      "summary": "Q4 2020 board package for Crestview Coffee Roasters (Fund II portfolio company). The company delivered Q4 revenue of $89.6M and EBITDA of $12.6M (14.1% margin), beating budget by ~3\u20135%. The Cascade Roasting bolt-on acquisition closed in Q4, adding Seattle production capacity and 18,000 DTC subscribers. DTC mix expanded to 26.9% of revenue vs. 22% at entry. LTM EBITDA stands at $44.7M vs. $36.5M at entry. Key risks include COVID-driven corporate channel weakness (\u201335% YoY) offset by DTC outperformance, freight cost inflation, and Cascade integration (tracking well). Q1 2021 revenue guidance of $89.1M; Blue Mountain Coffee bolt-on pipeline active.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 44700000.0,
+        "ebitda_margin": 0.141,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (26.9% of revenue vs. 22% at entry)",
+          "Subscription customer growth (63,556 vs. 48,000 at entry)",
+          "Cascade Roasting acquisition adding Seattle production capacity and 18,000 incremental DTC subscribers",
+          "ERP unification enabling operational scale",
+          "Blue Mountain Coffee bolt-on pipeline active"
+        ],
+        "risks": [
+          "COVID-driven corporate channel demand down ~35% YoY; recovery expected H2 2021",
+          "Supply chain / freight cost inflation (+12%)",
+          "Cascade Roasting integration execution risk"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2020,
+          "quarter": 4,
+          "revenue_usd": 89600000.0,
+          "ebitda_usd": 12600000.0,
+          "ebitda_margin": 0.141
+        },
+        {
+          "year": 2020,
+          "quarter": null,
+          "revenue_usd": null,
+          "ebitda_usd": 44700000.0,
+          "ebitda_margin": null
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_004",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2021 Board of Directors Package",
+      "date": "2022-02-06",
+      "summary": "Q4 2021 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). The company delivered Q4 revenue of $98.1M (+9.5% YoY) and EBITDA of $14.2M (14.4% margin), beating budget by 3.0% and 6.0% respectively. LTM EBITDA stands at $51.7M vs. $36.5M at entry; net leverage improved to 5.2x from entry 5.9x. Key strategic highlights include subscription growth exceeding plan (73,926 subscribers vs. 75K plan), a corporate channel relaunch with 14 new accounts, approval of Portland 2 roasting facility, and an advanced LOI on the Blue Mountain Coffee add-on acquisition. Green coffee commodity inflation (+18% YoY) is the primary near-term risk.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2021 revenue of $98.1M and EBITDA of $14.2M (14.4% margin), ahead of budget by 3.0%.",
+          "topic": "Q4 performance vs. budget"
+        },
+        {
+          "quote": "80K+ subscribers vs. 75K plan; churn rate 4.2% vs. 5.5% target",
+          "topic": "Subscription growth"
+        },
+        {
+          "quote": "Blue Mountain Coffee eval. \u2014 Advanced: LOI signed; due diligence underway",
+          "topic": "Add-on acquisition status"
+        },
+        {
+          "quote": "Green coffee prices +18% YoY; pricing power partially offsetting",
+          "topic": "Commodity risk"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 51700000.0,
+        "ebitda_margin": 0.144,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC subscription channel growth (30.1% of revenue vs. 22.0% at entry)",
+          "Corporate catering channel recovery as offices reopened",
+          "New enterprise accounts including 3 Fortune 500 companies",
+          "Roasting capacity expansion (Portland 2 facility approved)",
+          "Blue Mountain Coffee acquisition in advanced diligence"
+        ],
+        "risks": [
+          "Green coffee commodity price inflation (+18% YoY)",
+          "Subscription churn management (currently 4.2% vs. 5.5% target)",
+          "Corporate channel competition from commodity office coffee providers",
+          "Integration risk from pending Blue Mountain Coffee add-on acquisition"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2021,
+          "quarter": 4,
+          "revenue_usd": 98100000.0,
+          "ebitda_usd": 14200000.0,
+          "ebitda_margin": 0.144
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_005",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2022 Board of Directors Package",
+      "date": "2023-02-06",
+      "summary": "Q4 2022 board package for Crestview Coffee Roasters (Fund II portfolio company). Q4 revenue of $113.8M (+16.0% YoY) and EBITDA of $16.8M (14.8% margin) beat budget by 3.2% and 5.0%, respectively. LTM EBITDA of $60.7M vs. entry baseline of $36.5M reflects strong growth. Net leverage improved to 5.2x from entry of 5.9x. Key strategic progress includes Blue Mountain acquisition integration, a Canada international DTC pilot (3,200 subscribers in 8 weeks), pricing power realization (+11% net revenue per subscriber), and completion of the Portland 2 roasting facility. DTC mix at 33.4% (up from 22.0% at entry) and subscription customers at 84,296 (up from 48,000 at entry). Key risks include input cost inflation and international execution complexity.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2022 revenue of $113.8M and EBITDA of $16.8M (14.8% margin), ahead of budget by 3.2%.",
+          "topic": "Q4 financial performance"
+        },
+        {
+          "quote": "International DTC pilot launched in Canada \u2014 early results show 2x higher AOV vs. US domestic, validating the expansion thesis.",
+          "topic": "International DTC pilot validation"
+        },
+        {
+          "quote": "2 price increases executed (Apr/Oct); net revenue per subscriber +11%.",
+          "topic": "Pricing power"
+        },
+        {
+          "quote": "LTM EBITDA: $60.7M \u2026 Entry: $36.5M",
+          "topic": "LTM EBITDA growth vs. entry"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 60700000.0,
+        "ebitda_margin": 0.148,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (33.4% of revenue, up from 22.0% at entry)",
+          "Subscription customer growth (84K vs. 48K at entry)",
+          "International expansion \u2014 Canada DTC pilot live, UK planned Q1 2023",
+          "Blue Mountain add-on acquisition integration",
+          "Pricing power \u2014 two price increases in 2022, +11% net revenue per subscriber",
+          "New Portland 2 roasting facility adding +40% capacity"
+        ],
+        "risks": [
+          "Blue Mountain integration risk (rated low; IMO in place)",
+          "Input cost inflation \u2014 green coffee prices (forward contracts through Q2 2023)",
+          "International execution complexity \u2014 regulatory and logistics"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2022,
+          "quarter": 4,
+          "revenue_usd": 113800000.0,
+          "ebitda_usd": 16800000.0,
+          "ebitda_margin": 0.148
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_006",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2023 Board of Directors Package",
+      "date": "2024-02-06",
+      "summary": "Q4 2023 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). The company delivered Q4 2023 revenue of $124.0M and EBITDA of $18.8M (15.2% margin), beating budget by 3.1% on revenue and 5.0% on EBITDA. LTM EBITDA stands at $68.8M vs. entry of $36.5M, with net leverage improved to 4.7x from entry of 5.9x. DTC mix has grown to 36.7% of revenue (from 22.0% at entry), subscription customers at ~94.7K vs. 48K at entry. The IC has approved exit preparation targeting an H2 2025 sell-side process; banker shortlist is being prepared and Houlihan Lokey engagement is targeted for Q1 2024. Key strategic initiatives include a Whole Foods retail channel pilot (320 stores live), ESG/B-Corp certification in progress, and international subscription scaling (Canada 14K subs, UK pilot live).",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2023 revenue of $124.0M and EBITDA of $18.8M (15.2% margin), ahead of budget by 3.1%.",
+          "topic": "Q4 financial performance"
+        },
+        {
+          "quote": "The IC has approved beginning exit preparation, targeting a sell-side process in H2 2025.",
+          "topic": "Exit preparation"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 68800000.0,
+        "ebitda_margin": 0.152,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (36.7% of revenue vs. 22.0% at entry)",
+          "Subscription customer growth (~94.7K vs. 48K at entry)",
+          "Retail channel pilot (Whole Foods 320 stores live)",
+          "International subscription scaling (Canada + UK)"
+        ],
+        "risks": [
+          "Retail margin dilution (~8ppts below DTC GM)",
+          "Exit market timing uncertainty",
+          "International scaling complexity (UK logistics)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2023,
+          "quarter": 4,
+          "revenue_usd": 124000000.0,
+          "ebitda_usd": 18800000.0,
+          "ebitda_margin": 0.152
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_007",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2024 Board of Directors Package",
+      "date": "2025-02-06",
+      "summary": "Q4 2024 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). Company delivered Q4 revenue of $135.3M and EBITDA of $21.0M (15.5% margin), both ahead of budget. LTM EBITDA stands at $76.9M, net leverage at 4.4x (down from 5.9x at entry). DTC represents ~40% of revenue with 105K+ subscription customers tracking toward 110K+ exit milestone. Houlihan Lokey engaged as sell-side advisor; CIM outline complete with management presentation IC review planned for Q2. Board package covers financial performance, operational KPIs, strategic initiatives (exit process, subscription growth, retail expansion, management equity refresh), and risk review. Exit process underway with first-round bids targeted Q4 2024 per the timeline.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2024 revenue of $135.3M and EBITDA of $21.0M (15.5% margin), ahead of budget by 3.0%.",
+          "topic": "Q4 Performance vs. Budget"
+        },
+        {
+          "quote": "DTC now represents 42% of revenue and subscription customers crossed 110,000 \u2014 both key strategic value drivers for the exit process.",
+          "topic": "Exit Process Initiation"
+        },
+        {
+          "quote": "Net Leverage 4.4x \u2026 Entry: 5.9x",
+          "topic": "Leverage Improvement"
+        },
+        {
+          "quote": "LTM EBITDA $76.9M \u2026 Entry: $36.5M",
+          "topic": "LTM EBITDA Growth"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 76900000.0,
+        "ebitda_margin": 0.155,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (42% of revenue)",
+          "Subscription customer growth (110K+ subscribers, 41% of revenue recurring)",
+          "Retail expansion (Target pilot live in 180 stores, Kroger initiated)",
+          "Green coffee input costs at 5-year lows supporting margin upside"
+        ],
+        "risks": [
+          "Exit process confidentiality risk",
+          "Retail channel gross margin dilution at scale",
+          "Input cost environment (currently favorable)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2024,
+          "quarter": 4,
+          "revenue_usd": 135300000.0,
+          "ebitda_usd": 21000000.0,
+          "ebitda_margin": 0.155
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_008",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "board_package",
+      "title": "Crestview Coffee Roasters \u2014 Q4 2025 Board of Directors Package",
+      "date": "2026-02-06",
+      "summary": "Q4 2025 board package for Crestview Coffee Roasters (Atlas Crossing Partners Fund II). The company delivered Q4 2025 revenue of $147.7M (+9.2% YoY) and EBITDA of $23.5M (15.9% margin), both ahead of budget by ~3\u20135%. LTM EBITDA stands at $85.9M vs. an entry baseline of $36.5M, reflecting significant hold-period growth. Net leverage has decreased from 5.9x at entry to 4.2x. The company is actively in a final-round exit process with three shortlisted buyers, a definitive agreement targeted for Q1 2026, and close expected Q2 2026. DTC revenue mix has grown from 22% to 43.2%, and subscription customers have more than doubled from 48,000 to 115,407. Operational KPIs are at or near targets. Key exit-readiness milestones (VDR population, management presentations) are complete.",
+      "key_quotes": [
+        {
+          "quote": "Crestview Coffee Roasters delivered Q4 2025 revenue of $147.7M and EBITDA of $23.5M (15.9% margin), ahead of budget by 3.1%.",
+          "topic": "Q4 Financial Performance"
+        },
+        {
+          "quote": "3 buyers shortlisted; final-round mgmt presentations Nov. Presentations Nov 3\u201314; final bids expected Dec 2025.",
+          "topic": "Exit Process Status"
+        },
+        {
+          "quote": "Subscriber churn at 3.8% \u2014 record low; strong DD data point.",
+          "topic": "Subscription Retention Pre-Exit"
+        },
+        {
+          "quote": "Definitive agreement target Q1 2026. Close expected Q2 2026.",
+          "topic": "Exit Timeline Outlook"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": 85900000.0,
+        "ebitda_margin": 0.159,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "DTC channel expansion (22% to 43.2% of revenue)",
+          "Subscription customer growth (48K to 115K+)",
+          "Roasting facility expansion (3 to 5 facilities)",
+          "Average order value improvement ($68 to $81.50)"
+        ],
+        "risks": [
+          "Exit timeline execution risk",
+          "Buyer financing risk (mitigated by strategic lead bidder with no financing contingency)",
+          "Performance vs. CIM base case (currently tracking positive)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2025,
+          "quarter": 4,
+          "revenue_usd": 147700000.0,
+          "ebitda_usd": 23500000.0,
+          "ebitda_margin": 0.159
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_009",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "ic_memo",
+      "title": "Investment Committee Memorandum \u2014 Entry \u2014 Crestview Coffee Roasters, Inc.",
+      "date": "2019-04-17",
+      "summary": "Atlas Crossing Partners Fund III entry IC memo recommending acquisition of Crestview Coffee Roasters, Inc. at $493M enterprise value (13.5x LTM Adj. EBITDA). Crestview is a vertically integrated DTC premium coffee brand with $270M LTM revenue and $36.5M LTM EBITDA. The investment thesis centers on subscription flywheel recurring revenue, DTC channel expansion (22% to 44% of mix), roasting capacity-driven margin expansion, and fragmented specialty coffee market consolidation. Base case projects a Year 5 exit at ~$1.01B EV yielding 2.7x MoIC and 22% gross IRR. Total sources/uses of $509M funded by $213M senior secured debt, $264M sponsor equity, and $32M management rollover. IC recommendation is unanimous: INVEST \u2014 PROCEED TO CLOSE.",
+      "key_quotes": [
+        {
+          "quote": "DTC subscription flywheel creates durable recurring revenue with exceptional unit economics. Subscription revenue is growing at 38% YoY and carries 71% gross margin vs. 52% for wholesale.",
+          "topic": "Subscription unit economics"
+        },
+        {
+          "quote": "We believe this is one of the highest-quality consumer-DTC assets we have evaluated and that the entry valuation of 13.5x EBITDA is justified by the subscription unit economics, brand strength, and margin expansion opportunity.",
+          "topic": "Investment recommendation"
+        },
+        {
+          "quote": "Current DTC e-commerce (22% of revenue) is heavily underpenetrated vs. comparable DTC CPG brands that achieve 40\u201360% DTC mix at scale.",
+          "topic": "DTC channel expansion"
+        },
+        {
+          "quote": "Crestview has the brand, supply chain depth, and operational infrastructure to consolidate 2\u20133 regional roasters during the hold period, expanding geographic presence and manufacturing capacity at attractive entry prices.",
+          "topic": "Market consolidation"
+        },
+        {
+          "quote": "Negotiated 4-year employment agreement with 18-month gardening clause and $8M retention package; COO Elena Ruiz (ex-Blue Apron COO) is capable successor in near term; Korn Ferry completed senior leadership bench assessment with favorable findings.",
+          "topic": "Founder dependency mitigant"
+        }
+      ],
+      "structured": {
+        "company": "Crestview Coffee Roasters, Inc.",
+        "revenue_ltm_usd": 270000000.0,
+        "ebitda_ltm_usd": 36500000.0,
+        "ebitda_margin": 0.135,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 493000000.0,
+        "ev_ebitda_multiple": 13.5,
+        "growth_drivers": [
+          "DTC subscription flywheel with 84% 12-month retention and 6.8x LTV/CAC",
+          "Expansion of DTC/e-commerce channel from 22% to 44% of revenue",
+          "Roasting capacity additions reducing third-party tolling costs and improving margins",
+          "Stable wholesale and B2B cash flow funding DTC investment",
+          "Fragmented specialty coffee market consolidation of 2\u20133 regional roasters"
+        ],
+        "risks": [
+          "Coffee commodity price volatility (green coffee beans)",
+          "DTC customer acquisition cost inflation (paid social, search)",
+          "Subscription churn acceleration in economic downturn",
+          "Key-man dependency on Founder/CEO Tom Crestview",
+          "Food safety and supply chain disruption risk"
+        ]
+      },
+      "memo_purpose": "entry",
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "ltm_entry": {
+          "revenue_usd": 270000000.0,
+          "ebitda_usd": 36500000.0,
+          "ebitda_margin": 0.135,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_1": {
+          "revenue_usd": 298000000.0,
+          "ebitda_usd": 41000000.0,
+          "ebitda_margin": 0.138,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2": {
+          "revenue_usd": 328000000.0,
+          "ebitda_usd": 46000000.0,
+          "ebitda_margin": 0.14,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3": {
+          "revenue_usd": 366000000.0,
+          "ebitda_usd": 54000000.0,
+          "ebitda_margin": 0.148,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4": {
+          "revenue_usd": 410000000.0,
+          "ebitda_usd": 64000000.0,
+          "ebitda_margin": 0.156,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5_exit": {
+          "revenue_usd": 460000000.0,
+          "ebitda_usd": 75000000.0,
+          "ebitda_margin": 0.163,
+          "ev_usd": 1012500000.0,
+          "moic": 2.7,
+          "irr": 0.22
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_pinecrest_foods_013",
+      "deal_id": "deal_pinecrest_foods_2022",
+      "doc_type": "financial_model",
+      "title": "Atlas Crossing Partners | Pinecrest Foods | LBO Model \u2014 Overview",
+      "date": "2020-09-01",
+      "summary": "Full LBO model for Pinecrest Foods (Atlas Crossing Partners Fund III), covering entry in September 2020 through projected FY2027E exit. The workbook includes an overview & assumptions sheet with sources & uses ($168.75M entry EV at 12.5\u00d7 EBITDA), a detailed income statement (FY2020A\u2013FY2027E), a debt schedule tracking a senior term loan and PIK mezz facility, and a returns summary. Base case projects exit EV of $314.6M at 11.0\u00d7 FY2027E EBITDA of $28.6M, producing a gross MOIC of 2.86\u00d7 and gross IRR of ~16.2% on a 7-year hold. An add-on acquisition (Harvest Ridge Snacks, ~$38M) is modeled in Q2 2023. Revenue grows from $65.4M at entry to $162.4M at exit; EBITDA margin compresses modestly from 20.6% to 17.6% over the hold period.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Pinecrest Foods",
+        "revenue_ltm_usd": 65400000.0,
+        "ebitda_ltm_usd": 13500000.0,
+        "ebitda_margin": 0.206,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 168750000.0,
+        "ev_ebitda_multiple": 12.5,
+        "growth_drivers": [
+          "Organic revenue growth (~14% CAGR FY2020\u2013FY2025A)",
+          "Add-on acquisition of Harvest Ridge Snacks in Q2 2023 (~$38M)",
+          "Gross margin stability at 44% throughout hold period",
+          "Free cash flow sweep for debt paydown"
+        ],
+        "risks": [
+          "PIK mezz debt accretes significantly (from $20.2M to $48.4M by FY2027E), increasing net debt at exit",
+          "EBITDA margin compression from 20.6% to 17.6% over hold period",
+          "High entry leverage (7.1\u00d7 Debt/EBITDA at entry)",
+          "Integration risk from Harvest Ridge Snacks add-on",
+          "Negative/near-zero unlevered FCF in entry year (FY2020A: -$0.5M)",
+          "Bear case at 7.0\u00d7 exit multiple yields sub-1.0\u00d7 MOIC"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "year_1_fy2020": {
+          "revenue_usd": 65400000.0,
+          "ebitda_usd": 13500000.0,
+          "ebitda_margin": 0.206,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2_fy2021": {
+          "revenue_usd": 74800000.0,
+          "ebitda_usd": 15800000.0,
+          "ebitda_margin": 0.211,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3_fy2022": {
+          "revenue_usd": 88500000.0,
+          "ebitda_usd": 18500000.0,
+          "ebitda_margin": 0.209,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4_fy2023": {
+          "revenue_usd": 112400000.0,
+          "ebitda_usd": 22400000.0,
+          "ebitda_margin": 0.199,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5_fy2024": {
+          "revenue_usd": 128600000.0,
+          "ebitda_usd": 24800000.0,
+          "ebitda_margin": 0.193,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_6_fy2025": {
+          "revenue_usd": 140200000.0,
+          "ebitda_usd": 26500000.0,
+          "ebitda_margin": 0.189,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_fy2026": {
+          "revenue_usd": 152800000.0,
+          "ebitda_usd": 27800000.0,
+          "ebitda_margin": 0.182,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_exit_fy2027": {
+          "revenue_usd": 162400000.0,
+          "ebitda_usd": 28600000.0,
+          "ebitda_margin": 0.176,
+          "ev_usd": 314600000.0,
+          "moic": 2.86,
+          "irr": 0.162
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_crestview_coffee_057",
+      "deal_id": "deal_crestview_coffee_2019",
+      "doc_type": "financial_model",
+      "title": "Atlas Crossing Partners | Crestview Coffee Holdings | LBO Model \u2014 Overview",
+      "date": "2019-04-01",
+      "summary": "Full LBO model for Crestview Coffee Holdings, sponsored by Atlas Crossing Partners Fund III. Entry in April 2019 at $162M EV (12.0\u00d7 LTM EBITDA of $13.5M on $88.2M revenue). Model projects exit in FY2026E at $313.5M EV (11.0\u00d7 $28.5M EBITDA) over a 7-year hold, yielding a base case Gross MOIC of 3.29\u00d7 and Gross IRR of ~20.6% (Net MOIC ~2.70\u00d7, Net IRR ~16.5%). Includes an interim recap of $28.0M in October 2024. Capital structure at entry: $67.5M Senior TL (5.0\u00d7 EBITDA), $20.25M Sub/Mezz PIK (1.5\u00d7), and $74.25M equity. Workbook contains Overview & Assumptions, Income Statement (FY2019A\u2013FY2026E), Debt Schedule, and Returns Summary with full sensitivity tables.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Crestview Coffee Holdings",
+        "revenue_ltm_usd": 88200000.0,
+        "ebitda_ltm_usd": 13500000.0,
+        "ebitda_margin": 0.153,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 162000000.0,
+        "ev_ebitda_multiple": 12.0,
+        "growth_drivers": [
+          "Revenue growth from $88.2M at entry to $175.8M at exit (~2\u00d7 over 7 years)",
+          "EBITDA margin expansion from 15.3% at entry to 16.2% at exit",
+          "Interim dividend recapitalization of $28.0M in October 2024",
+          "Consistent gross margin of 48% throughout hold period",
+          "Excess cash flow sweep on senior term loan accelerating deleveraging"
+        ],
+        "risks": [
+          "Heavily levered entry at 6.6\u00d7 Debt/EBITDA in FY2019A",
+          "Negative revenue growth in FY2020A (\u22129.9% YoY), likely COVID impact",
+          "PIK mezz debt accreting from $20.2M to $50.0M by FY2026E, increasing net debt",
+          "Total debt grows to $102.9M by FY2026E despite amortization on senior loan",
+          "Thin unlevered free cash flow in early years; negative in FY2019A and FY2021A",
+          "Commodity exposure typical for coffee roasting businesses"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "year_1": {
+          "revenue_usd": 88200000.0,
+          "ebitda_usd": 13500000.0,
+          "ebitda_margin": 0.153,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2": {
+          "revenue_usd": 79500000.0,
+          "ebitda_usd": 10200000.0,
+          "ebitda_margin": 0.128,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3": {
+          "revenue_usd": 105200000.0,
+          "ebitda_usd": 15800000.0,
+          "ebitda_margin": 0.15,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4": {
+          "revenue_usd": 125800000.0,
+          "ebitda_usd": 22400000.0,
+          "ebitda_margin": 0.178,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5": {
+          "revenue_usd": 138400000.0,
+          "ebitda_usd": 23800000.0,
+          "ebitda_margin": 0.172,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_6": {
+          "revenue_usd": 150200000.0,
+          "ebitda_usd": 25400000.0,
+          "ebitda_margin": 0.169,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_exit": {
+          "revenue_usd": 175800000.0,
+          "ebitda_usd": 28500000.0,
+          "ebitda_margin": 0.162,
+          "ev_usd": 313500000.0,
+          "moic": 3.29,
+          "irr": 0.206
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_vanguard_auto_015",
+      "deal_id": "deal_vanguard_auto_2021",
+      "doc_type": "financial_model",
+      "title": "Atlas Crossing Partners | Vanguard Auto | LBO Model \u2014 Overview",
+      "date": "2020-07-01",
+      "summary": "LBO model for Vanguard Auto Parts (Atlas Crossing Partners Fund III), underwriting a July 2020 platform entry at an 11.0\u00d7 EV/EBITDA entry multiple on $19.8M LTM EBITDA (entry EV: $218M). The model projects a 7-year hold to FY2027E exit, incorporating two add-on acquisitions (Precision, FleetFirst). Base case exit EV of $431.2M at 11.0\u00d7 on $39.2M EBITDA generates a gross MOIC of 3.34\u00d7 and gross IRR of ~18.8% (net MOIC ~2.74\u00d7, net IRR ~15.0%). The debt structure consists of a $99M Senior TL (5.0\u00d7 EBITDA at 6.8%) and $29.7M Sub/Mezz PIK (1.5\u00d7 EBITDA at 11.5%), with $89.3M of Atlas Crossing equity (~41% of EV). Revenue grows from $112M at entry to $211.5M at exit; EBITDA margin expands modestly from 17.7% to 18.5%. The model includes full income statement, debt schedule with amortization/PIK accretion, and a returns sensitivity table across five EBITDA and exit multiple scenarios.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Vanguard Auto Parts",
+        "revenue_ltm_usd": 112000000.0,
+        "ebitda_ltm_usd": 19800000.0,
+        "ebitda_margin": 0.177,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 218000000.0,
+        "ev_ebitda_multiple": 11.0,
+        "growth_drivers": [
+          "Add-on acquisitions (Precision and FleetFirst)",
+          "Organic revenue growth ~7-10% annually through mid-hold",
+          "EBITDA margin expansion from operational leverage",
+          "Excess cash flow sweep accelerating debt paydown"
+        ],
+        "risks": [
+          "High initial leverage (6.5\u00d7 Debt/EBITDA at entry)",
+          "PIK debt accreting from $29.7M to $70.9M by exit, adding to net debt",
+          "Revenue decline in FY2021A (-6.4% YoY) highlights cyclicality risk",
+          "Integration risk from two add-on acquisitions",
+          "Automotive aftermarket sector exposure to cyclicality"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "year_1_fy2020": {
+          "revenue_usd": 112000000.0,
+          "ebitda_usd": 19800000.0,
+          "ebitda_margin": 0.177,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2_fy2021": {
+          "revenue_usd": 104800000.0,
+          "ebitda_usd": 15800000.0,
+          "ebitda_margin": 0.151,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3_fy2022": {
+          "revenue_usd": 133500000.0,
+          "ebitda_usd": 22400000.0,
+          "ebitda_margin": 0.168,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4_fy2023": {
+          "revenue_usd": 155200000.0,
+          "ebitda_usd": 28600000.0,
+          "ebitda_margin": 0.184,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5_fy2024": {
+          "revenue_usd": 171800000.0,
+          "ebitda_usd": 31800000.0,
+          "ebitda_margin": 0.185,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_6_fy2025": {
+          "revenue_usd": 185400000.0,
+          "ebitda_usd": 34500000.0,
+          "ebitda_margin": 0.186,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_fy2026": {
+          "revenue_usd": 198200000.0,
+          "ebitda_usd": 36800000.0,
+          "ebitda_margin": 0.186,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_8_exit_fy2027": {
+          "revenue_usd": 211500000.0,
+          "ebitda_usd": 39200000.0,
+          "ebitda_margin": 0.185,
+          "ev_usd": 431200000.0,
+          "moic": 3.34,
+          "irr": 0.188
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_wholesum_foods_distribution_013",
+      "deal_id": "deal_wholesum_foods_distribution_2022",
+      "doc_type": "financial_model",
+      "title": "Atlas Crossing Partners | Wholesum Foods, Inc. | LBO Model \u2014 Overview",
+      "date": "2018-07-01",
+      "summary": "Full LBO model for Wholesum Foods, Inc. (Fund III), covering the July 2018 entry through a projected Q3 2026 exit. Includes sources & uses at entry (Entry EV $214M, 11.6\u00d7 EBITDA), a nine-year income statement with actuals through FY2024A and projections through FY2026E, a detailed debt schedule (Senior TL at 5.5\u00d7 + Mezz PIK at 2.0\u00d7), and a returns summary. Base case projects Exit EV of $212.8M at 9.5\u00d7 FY2026E EBITDA of $22.4M; includes a $49.8M partial recap in October 2024. Base case gross MOIC of 2.8\u00d7 and gross IRR of ~19.2% on an 8-year hold; net MOIC ~2.3\u00d7 and net IRR ~15.4%. EBITDA margin has compressed from 22.5% at entry to ~16% by exit. Returns sensitivity tables across 5 exit multiples and 5 EBITDA scenarios are provided.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Wholesum Foods, Inc.",
+        "revenue_ltm_usd": 82100000.0,
+        "ebitda_ltm_usd": 18500000.0,
+        "ebitda_margin": 0.225,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": 214000000.0,
+        "ev_ebitda_multiple": 11.6,
+        "growth_drivers": [
+          "Organic revenue growth from $82M (2018) to $138M (2026E)",
+          "Partial recapitalization in October 2024 generating $49.8M proceeds",
+          "Debt paydown on senior term loan via mandatory amortization and cash flow sweep"
+        ],
+        "risks": [
+          "PIK mezz debt accreting significantly \u2014 ending balance grows from $37M to $98.6M by exit",
+          "EBITDA margin compression from 22.5% at entry to ~16% by FY2026E",
+          "High total leverage (7.5\u00d7 Debt/EBITDA through mid-hold period)",
+          "Modest revenue growth (2\u20135% YoY in later years)",
+          "Net debt at exit ($98.0M) constrains equity value"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {
+        "year_1_2018": {
+          "revenue_usd": 82100000.0,
+          "ebitda_usd": 18500000.0,
+          "ebitda_margin": 0.225,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_2_2019": {
+          "revenue_usd": 96500000.0,
+          "ebitda_usd": 21200000.0,
+          "ebitda_margin": 0.22,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_3_2020": {
+          "revenue_usd": 101400000.0,
+          "ebitda_usd": 19800000.0,
+          "ebitda_margin": 0.195,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_4_2021": {
+          "revenue_usd": 112800000.0,
+          "ebitda_usd": 22600000.0,
+          "ebitda_margin": 0.2,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_5_2022": {
+          "revenue_usd": 119200000.0,
+          "ebitda_usd": 20800000.0,
+          "ebitda_margin": 0.174,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_6_2023": {
+          "revenue_usd": 121800000.0,
+          "ebitda_usd": 19800000.0,
+          "ebitda_margin": 0.163,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_7_2024": {
+          "revenue_usd": 126400000.0,
+          "ebitda_usd": 20400000.0,
+          "ebitda_margin": 0.161,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_8_2025": {
+          "revenue_usd": 131200000.0,
+          "ebitda_usd": 21100000.0,
+          "ebitda_margin": 0.161,
+          "ev_usd": null,
+          "moic": null,
+          "irr": null
+        },
+        "year_9_exit_2026": {
+          "revenue_usd": 138000000.0,
+          "ebitda_usd": 22400000.0,
+          "ebitda_margin": 0.162,
+          "ev_usd": 212800000.0,
+          "moic": 2.8,
+          "irr": 0.192
+        }
+      },
+      "period_actuals": [],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_001",
+      "deal_id": null,
+      "doc_type": "lp_annual_report",
+      "title": "Atlas Crossing Partners FY2023 Annual LP Report \u2014 Fund III",
+      "date": "2023-12-31",
+      "summary": "Annual LP report for Atlas Crossing Partners Fund III covering the year ended December 31, 2023. Fund III is a $420M fully committed vehicle with five active platform companies (Wholesum Foods, Crestview Coffee, Vanguard Auto Parts, Pinecrest Foods, Forgelight Manufacturing) and one full exit (Brightline Industrial to Parker Hannifin at 2.4\u00d7 MOIC / 22.1% gross IRR). Aggregate portfolio revenue reached $428M (+9.5% YoY) and EBITDA $62.8M (+10.0%). Fund-level metrics: gross IRR 19.8%, gross MOIC 1.72\u00d7, net IRR 15.9% (est.), TVPI 1.65\u00d7, DPI 0.32\u00d7, NAV $218.4M at year-end. Cumulative distributions of $120.5M were driven by the Brightline exit ($68.4M) and a Wholesum partial recap ($52.1M). Key FY2024 priorities include commencing the Wholesum exit process, closing the Vanguard Tri-State Parts add-on, reducing leverage at Crestview, and beginning Fund IV LP outreach. Audited by Deloitte & Touche LLP (unqualified opinion).",
+      "key_quotes": [
+        {
+          "quote": "The headline story of FY2023 was the sale of Brightline Industrial to Parker Hannifin, which closed in June 2023 at a 2.4\u00d7 MOIC and 22.1% gross IRR. This was Fund III's first full exit and returned $68.4M to limited partners in Q4 2023.",
+          "topic": "FY2023 first full exit \u2014 Brightline Industrial"
+        },
+        {
+          "quote": "Both events brought cumulative Fund III distributions to $120.5M against $371.2M called, for a DPI of 0.32\u00d7 at year-end.",
+          "topic": "Cumulative fund distributions and DPI"
+        },
+        {
+          "quote": "Our portfolio companies with floating-rate debt (Wholesum, Vanguard) saw $3.8M of incremental annual interest expense vs. our 2021 underwrite models.",
+          "topic": "Macro and interest rate environment impact"
+        },
+        {
+          "quote": "Year-end leverage 11.4\u00d7 EBITDA. Board approved accelerated debt paydown plan: $7\u20139M annual FCF directed to mandatory amortization. Target sub-10\u00d7 by FY2025.",
+          "topic": "Crestview Coffee leverage risk"
+        },
+        {
+          "quote": "Year-end EBITDA margin 17.0% vs. 15.8% at underwriting. Benefit from direct materials sourcing renegotiation completed Q2 2023 ($0.4M annual savings).",
+          "topic": "Forgelight Manufacturing outperformance"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 428000000.0,
+        "ebitda_ltm_usd": 62800000.0,
+        "ebitda_margin": 0.147,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Organic portfolio revenue growth (+9.5% YoY)",
+          "Geographic expansion at Crestview Coffee (31 new locations)",
+          "Proprietary SKU mix expansion at Vanguard Auto Parts",
+          "Add-on acquisition strategy (Pacific Harvest, Tri-State Parts pipeline)",
+          "New distribution hub and OEM relationships at portfolio companies"
+        ],
+        "risks": [
+          "Elevated interest rate environment increasing debt service costs ($3.8M incremental interest expense vs. underwrite)",
+          "High leverage at Crestview Coffee (11.4\u00d7 EBITDA) and Pinecrest Foods (34.8\u00d7)",
+          "Commodity input cost inflation (palm oil, dairy, packaging)",
+          "Customer concentration at Pinecrest Foods (top customer 38% of revenue)",
+          "Slower M&A market impacting exit timing and valuation multiples"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": 0.221,
+        "moic": 2.4,
+        "holding_period_years": null,
+        "exit_year": 2023,
+        "exit_ev_usd": 81200000.0,
+        "entry_ev_usd": null,
+        "exit_type": "strategic_sale"
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2023,
+          "quarter": null,
+          "revenue_usd": 428000000.0,
+          "ebitda_usd": 62800000.0,
+          "ebitda_margin": 0.147
+        },
+        {
+          "year": 2022,
+          "quarter": null,
+          "revenue_usd": 391000000.0,
+          "ebitda_usd": 57100000.0,
+          "ebitda_margin": 0.146
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_002",
+      "deal_id": null,
+      "doc_type": "lp_annual_report",
+      "title": "Atlas Crossing Partners \u2014 FY2024 Annual LP Report (Fund III)",
+      "date": "2024-12-31",
+      "summary": "Annual LP Report for Atlas Crossing Partners Fund III covering the year ended December 31, 2024, audited by Deloitte & Touche LLP. Fund III is a $420M fully-committed lower-middle-market buyout fund with a gross IRR of 20.9%, net IRR of ~16.9%, and TVPI/Gross MOIC of 1.88\u00d7. DPI reached 0.62\u00d7 on $230.1M in cumulative distributions. FY2024 featured two major capital return events: the second Wholesum Foods dividend recap ($49.8M) and the exit of Meridian Facility Management to Warburg Pincus ($59.8M). Active portfolio companies include Wholesum Foods (food distribution), Crestview Coffee (specialty beverage/QSR), Vanguard Auto Parts (auto distribution), Pinecrest Foods (specialty food ingredients), and Forgelight Manufacturing (light industrial). Aggregate portfolio revenue grew 10.3% YoY to $461M; aggregate EBITDA grew 7.3% to $66.4M. Key FY2025 priorities: Wholesum exit process (Goldman Sachs engaged), Tri-State Parts bolt-on close for Vanguard, and Fund IV launch targeted H1 2026.",
+      "key_quotes": [
+        {
+          "quote": "Two significant events defined the year from a capital return standpoint: (1) a second partial recapitalization of Wholesum Foods in Q3 2024 returning $49.8M to LPs; and (2) the sale of Meridian Facility Management (a Fund II asset completing its runoff) contributing $59.8M in Q4 2024. Total Fund III distributions for FY2024 were $109.6M, bringing our cumulative DPI to 0.62\u00d7 as of December 31, 2024.",
+          "topic": "FY2024 Capital Returns"
+        },
+        {
+          "quote": "Cumulative Wholesum distributions $101.9M \u2014 exceeding original equity invested of $75.25M. QofE finalized Q4 2024. Goldman Sachs selected as sell-side banker; formal process expected Q2\u2013Q3 2025 (subsequently delayed to Q2 2026).",
+          "topic": "Wholesum Foods Exit Preparation"
+        },
+        {
+          "quote": "Revenue of $140.2M vs. plan of $138M. Driven by fleet account wins (4 contracts, $3.8M annualized) and proprietary SKU mix expansion to 37%.",
+          "topic": "Vanguard Auto Parts Performance"
+        },
+        {
+          "quote": "Lower-MM M&A volume recovered modestly (+8% vs. 2023) but remained well below 2021 peak. Key dynamic: growing inventory of processes from founders who deferred exits during 2022\u20132023 rate environment. We saw 52 new opportunities in 2024 (vs. 41 in 2023), with a higher proportion of proprietary introductions (42%).",
+          "topic": "Market Environment \u2014 M&A"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 461000000.0,
+        "ebitda_ltm_usd": 66400000.0,
+        "ebitda_margin": 0.144,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Input cost relief benefiting Pinecrest Foods and Wholesum",
+          "Vanguard Auto fleet account wins and proprietary SKU expansion",
+          "Crestview Coffee system location expansion (+38 new locations)",
+          "Add-on strategy \u2014 Tri-State Parts LOI for Vanguard",
+          "Pacific Harvest integration driving Wholesum revenue growth"
+        ],
+        "risks": [
+          "High leverage at Crestview Coffee (10.8\u00d7 net leverage)",
+          "Customer concentration at Pinecrest Foods (34% top customer)",
+          "Tariff uncertainty on imported food ingredients",
+          "Pinecrest commodity exposure (palm oil, sunflower)",
+          "Wholesale/secondary exit timing risk for Wholesum"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": 0.209,
+        "moic": 1.88,
+        "holding_period_years": null,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "entry_ev_usd": null,
+        "exit_type": null
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2024,
+          "quarter": null,
+          "revenue_usd": 461000000.0,
+          "ebitda_usd": 66400000.0,
+          "ebitda_margin": 0.144
+        },
+        {
+          "year": 2023,
+          "quarter": null,
+          "revenue_usd": 418000000.0,
+          "ebitda_usd": 61900000.0,
+          "ebitda_margin": 0.148
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_003",
+      "deal_id": null,
+      "doc_type": "lp_quarterly_report",
+      "title": "Atlas Crossing Partners \u2014 Q1 2026 LP Quarterly Report (Fund III)",
+      "date": "2026-03-31",
+      "summary": "Atlas Crossing Partners' Q1 2026 LP Quarterly Report for Fund III (vintage 2020, $420M committed, fully called). As of March 31, 2026, the fund reports Gross IRR of 21.4%, Gross MOIC of 1.94\u00d7, Net IRR of 17.6%, DPI of 0.62\u00d7, TVPI of 1.94\u00d7, and closing NAV of $252.4M. The portfolio comprises five active platforms \u2014 Wholesum Foods (specialty food distribution), Crestview Coffee (QSR/specialty beverage), Vanguard Auto Parts (specialty auto distribution), Pinecrest Foods (specialty food ingredients), and Forgelight Manufacturing (light industrial). Aggregate LTM revenue of $512M grew 11.4% YoY; aggregate LTM EBITDA of $74M grew 9.8%. Wholesum Foods is in active exit preparation (QofE complete, Goldman Sachs engaged, formal process expected Q2\u2013Q3 2026). Vanguard Auto Parts crossed $200M annualized revenue ahead of schedule. Forgelight Manufacturing signed an add-on LOI (Project Kestrel, $31M EV). Fund IV fundraise at $168M committed (42% of $400M target); first close targeted August 2026. Cumulative LP distributions total $230.1M.",
+      "key_quotes": [
+        {
+          "quote": "We completed a comprehensive sell-side Quality of Earnings process in Q4 2025 and are in advanced discussions with potential buyers and strategic partners. We expect to provide an update on Wholesum's exit trajectory by Q2 2026.",
+          "topic": "Exit pipeline \u2014 Wholesum Foods"
+        },
+        {
+          "quote": "Vanguard Auto Parts delivered its strongest quarter to date, crossing $200M in annualized revenue for the first time, ahead of our underwriting schedule by approximately two quarters.",
+          "topic": "Vanguard Auto Parts milestone"
+        },
+        {
+          "quote": "Active holdings marked at cost or last-round valuation; partially realized (Wholesum recap Oct 2024) at exit proceeds.",
+          "topic": "Fund III performance vs. underwriting"
+        },
+        {
+          "quote": "Seller multiples in our core sectors (Business Services, Spec. Distribution) remain compressed vs. 2021 peaks \u2014 we are seeing processes clearing at 8.5\u201310.5\u00d7 EBITDA vs. 11\u201314\u00d7 in 2021.",
+          "topic": "Market commentary \u2014 M&A multiples"
+        },
+        {
+          "quote": "We have commitments of $168M (42% of target) as of May 2026. We expect to hold a first close in August and are grateful for the LP re-up support we have received.",
+          "topic": "Fund IV fundraise progress"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 512000000.0,
+        "ebitda_ltm_usd": 74000000.0,
+        "ebitda_margin": 0.145,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Organic revenue growth across all five portfolio platforms (+11.4% YoY aggregate)",
+          "Wholesum Foods new SKU launches and geographic distribution expansion",
+          "Vanguard Auto Parts crossing $200M annualized revenue; Tri-State Parts add-on integration",
+          "Crestview Coffee same-store sales growth (+8.4%) and new market expansion (22 states)",
+          "Forgelight Manufacturing margin expansion and add-on LOI (Project Kestrel)"
+        ],
+        "risks": [
+          "Labor inflation (~3.8% weighted basis) above original underwriting assumptions",
+          "High leverage across several portfolio companies (Vanguard 11.1\u00d7, Forgelight 18.3\u00d7, Crestview 9.7\u00d7)",
+          "Wholesum Foods exit outcome uncertainty; actual proceeds may differ materially from scenarios",
+          "Commodity cost exposure at Pinecrest Foods (palm oil, sunflower)",
+          "MOIC (1.94\u00d7) and EBITDA growth (1.6\u00d7 avg.) currently tracking below underwriting targets (2.5\u20133.0\u00d7 and 2.2\u00d7 respectively)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2026,
+          "quarter": 1,
+          "revenue_usd": 512000000.0,
+          "ebitda_usd": 74000000.0,
+          "ebitda_margin": 0.145
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_004",
+      "deal_id": null,
+      "doc_type": "lp_quarterly_report",
+      "title": "Atlas Crossing Partners Fund III \u2014 Q3 2025 LP Quarterly Report",
+      "date": "2025-09-30",
+      "summary": "LP Quarterly Report for Atlas Crossing Partners Fund III as of September 30, 2025. Fund III is fully committed at $420M with a Gross IRR of 20.6%, Gross MOIC of 1.86\u00d7, Net IRR of 16.8%, DPI of 0.62\u00d7, and closing NAV of $237.2M. The portfolio consists of five active platforms: Wholesum Foods (specialty food distribution), Crestview Coffee (QSR/specialty beverage), Vanguard Auto Parts (specialty auto distribution), Pinecrest Foods (specialty food ingredients), and Forgelight Manufacturing (light industrial). Aggregate LTM revenue across the portfolio is $488M with $69M EBITDA at a 14.1% margin. Key Q3 activities include the signing of a Tri-State Parts LOI (Vanguard add-on, $28M EV), ongoing Pacific Harvest integration at Wholesum, and exit preparation commenced for Wholesum. Fund IV fundraise is planned for H1 2026. Macro commentary highlights a 25bps Fed rate cut in September 2025 and improving M&A conditions in the lower-middle market.",
+      "key_quotes": [
+        {
+          "quote": "Gross IRR 20.6% (Underwrite: 22\u201325%, Tracking); Gross MOIC 1.86\u00d7 (Underwrite: 2.5\u20133.0\u00d7, On-track); Net IRR 16.8% (Underwrite: 18\u201321%, Tracking).",
+          "topic": "Fund performance vs. underwriting"
+        },
+        {
+          "quote": "Exit preparation begun \u2014 Engaged QofE advisor (EY) for sell-side quality of earnings. No external process launched; expect to select banker Q4 2025 / Q1 2026.",
+          "topic": "Wholesum Foods exit preparation"
+        },
+        {
+          "quote": "Net leverage at 10.7\u00d7 EBITDA. Strong FCF generation ($8.4M TTM) being directed to mandatory amortization; targeting 9.5\u00d7 by end of FY2026.",
+          "topic": "Crestview Coffee leverage"
+        },
+        {
+          "quote": "Sponsor-to-sponsor and sponsor-to-strategic deal volume up 11% in Q3 2025 vs. Q3 2024 per Pitchbook. Lower-middle-market ($75\u2013300M EV) remains less competitive than large-cap \u2014 we are consistently seeing 3\u20135 credible bidders in processes vs. 8\u201312 in 2021.",
+          "topic": "Market conditions \u2014 M&A activity"
+        },
+        {
+          "quote": "In preparation for Fund IV fundraise (launch H1 2026), we have begun LP relationship reactivation and are seeing strong re-up intent from Fund I\u2013III investors.",
+          "topic": "Fund IV outlook"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 488000000.0,
+        "ebitda_ltm_usd": 69000000.0,
+        "ebitda_margin": 0.141,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Geographic expansion (Crestview Coffee \u2014 33 new locations YTD)",
+          "Add-on acquisitions (Tri-State Parts LOI, Pacific Harvest integration)",
+          "Organic revenue growth across Vanguard Auto (+8.1%) and Forgelight (+4.8%)",
+          "Digital loyalty channel growth at Crestview Coffee (1.1M members, 27% of system sales)",
+          "New OEM contracts at Forgelight Manufacturing ($2.1M combined annualized revenue)",
+          "Proprietary SKU mix expansion at Vanguard Auto"
+        ],
+        "risks": [
+          "Elevated leverage across multiple portfolio companies (Crestview 10.7\u00d7, Vanguard 12.7\u00d7, Forgelight 19.1\u00d7)",
+          "Input cost inflation at Wholesum Foods (~4.2% YoY, net 40bps EBITDA margin impact)",
+          "Customer concentration at Pinecrest Foods (top customer 31% of revenue)",
+          "Commodity exposure at Pinecrest Foods (palm/sunflower oil prices)",
+          "Potential tariff expansion on imported raw materials (Pinecrest Foods inputs)",
+          "Returns tracking below underwritten case (Gross IRR 20.6% vs. 22\u201325% UW; MOIC 1.86\u00d7 vs. 2.5\u20133.0\u00d7 UW)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": 0.168,
+        "moic": 1.86,
+        "holding_period_years": null,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "entry_ev_usd": null,
+        "exit_type": "held"
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2025,
+          "quarter": 3,
+          "revenue_usd": 488000000.0,
+          "ebitda_usd": 69000000.0,
+          "ebitda_margin": 0.141
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_005",
+      "deal_id": null,
+      "doc_type": "lp_quarterly_report",
+      "title": "Atlas Crossing Partners Fund III \u2014 Q4 2025 LP Quarterly Report",
+      "date": "2025-12-31",
+      "summary": "LP Quarterly Report for Atlas Crossing Partners Fund III as of Q4 2025 (quarter ended December 31, 2025). The $420M fund is fully committed with a Gross IRR of 21.1%, Gross MOIC of 1.90\u00d7, Net IRR of 17.2%, DPI of 0.62\u00d7, and TVPI of 1.90\u00d7. Closing NAV was $246.2M with cumulative distributions of $230.1M. The fund holds five active platforms: Wholesum Foods (food distribution, in sell-side process), Crestview Coffee (QSR/specialty beverage, deleveraging), Vanguard Auto Parts (specialty auto distribution, post-Tri-State integration), Pinecrest Foods (specialty food ingredients), and Forgelight Manufacturing (light industrial, LOI signed for bolt-on). Aggregate portfolio LTM revenue was $499M and LTM EBITDA was $71M (14.2% margin). Fund IV launch is set for February 2026 with a target first close of $150\u2013200M.",
+      "key_quotes": [
+        {
+          "quote": "Gross MOIC 2.5\u20133.0\u00d7 [underwrite], 1.90\u00d7 [current], On-track. Net IRR 18\u201321% [underwrite], 17.2% [current], Tracking.",
+          "topic": "Fund III Performance vs. Underwrite"
+        },
+        {
+          "quote": "GS engaged as sell-side M&A advisor in November 2025. CIM preparation underway; formal process expected Q2\u2013Q3 2026.",
+          "topic": "Wholesum Foods Exit Process"
+        },
+        {
+          "quote": "The most notable dynamic: a meaningful increase in founder/family-owned business processes as sellers who delayed in 2022\u20132023 (awaiting better terms) are now coming to market. This plays to our proprietary sourcing strength.",
+          "topic": "M&A Market Commentary"
+        },
+        {
+          "quote": "Fund IV formal launch set for February 2026. PPM has been circulated to select LP prospects for review. Re-up LPs from Fund III will be given a 30-day priority window ahead of any first close. Target first close: $150\u2013200M by August 2026.",
+          "topic": "Fund IV Launch"
+        },
+        {
+          "quote": "All five Fund III platforms closed FY2025 at or ahead of internal plan. Aggregate EBITDA growth of 9.2% YoY reflects continued organic expansion and the Tri-State Parts contribution.",
+          "topic": "Portfolio Year-End Assessment"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund III",
+        "revenue_ltm_usd": 499000000.0,
+        "ebitda_ltm_usd": 71000000.0,
+        "ebitda_margin": 0.142,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Organic expansion across five platforms",
+          "Add-on acquisitions (Tri-State Parts closed Q4 2025, Forgelight bolt-on LOI signed)",
+          "OEM contract ramp at Forgelight",
+          "New CPG accounts at Pinecrest",
+          "Crestview store expansion (42 new locations in FY2025)",
+          "Wholesum Foods exit process initiated with Goldman Sachs as sell-side advisor"
+        ],
+        "risks": [
+          "High leverage across portfolio (Vanguard 12.3\u00d7, Pinecrest 31.1\u00d7, Forgelight 18.9\u00d7, Crestview 10.3\u00d7)",
+          "Integration risk from Tri-State Parts acquisition",
+          "Wholesum Foods exit timeline execution risk",
+          "Commodity input cost exposure at Pinecrest Foods",
+          "Returns tracking below underwrite targets (Gross MOIC 1.90\u00d7 vs. 2.5\u20133.0\u00d7 UW)"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": {
+        "irr": 0.172,
+        "moic": 1.9,
+        "holding_period_years": null,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "entry_ev_usd": null,
+        "exit_type": "held"
+      },
+      "underwriting_case_extract": {},
+      "period_actuals": [
+        {
+          "year": 2025,
+          "quarter": 4,
+          "revenue_usd": 499000000.0,
+          "ebitda_usd": 71000000.0,
+          "ebitda_margin": 0.142
+        }
+      ],
+      "full_text_excerpt": "...",
+      "expert_id": null
+    },
+    {
+      "doc_id": "doc_firm_006",
+      "deal_id": null,
+      "doc_type": "pitch_deck",
+      "title": "Atlas Crossing Partners Fund IV \u2014 LP Presentation",
+      "date": "2026-05-01",
+      "summary": "LP pitch deck for Atlas Crossing Partners Fund IV, a Chicago-based middle-market buyout fund targeting $400M ($450M hard cap) with a first close targeted August 2026 and final close February 2027. The fund continues the firm's strategy from Funds I\u2013III: control buyouts of lower-middle-market businesses ($75\u2013400M EV, $10\u201350M EBITDA) in Business Services, Specialty Distribution, and Industrial/Light Manufacturing. As of May 2026, $168M (42% of target) has been committed. The deck covers firm history (founded 2012, $910M raised across Funds I\u2013III), investment team, track record (25.8% weighted gross IRR, 2.6\u00d7 gross MOIC across all funds), active Fund III portfolio, Fund IV structure and terms (2.0% mgmt fee, 20% carry over 8% hurdle), value creation methodology, and current pipeline (3 deals in active diligence). Target gross IRR of 22\u201328% and gross MOIC of 2.5\u20133.5\u00d7.",
+      "key_quotes": [
+        {
+          "quote": "We operate as a true sector-agnostic-within-thesis firm \u2014 we do not chase macro cycles. Our edge is operational: we put the right operating executive in place within the first 90 days and run a structured Value Creation Plan for every holding.",
+          "topic": "Investment philosophy"
+        },
+        {
+          "quote": "Average EBITDA growth across Fund I\u2013III platforms: 2.1\u00d7 from entry to exit. Average hold-period entry multiple: 9.4\u00d7. Average exit multiple: 10.8\u00d7. The spread is real, but operational improvement drives the majority of value creation.",
+          "topic": "Track record summary"
+        },
+        {
+          "quote": "Rate environment has compressed seller multiples in the lower-middle-market; 2025\u20132027 vintage expected to benefit from reduced competition from large-cap PE.",
+          "topic": "Market timing"
+        },
+        {
+          "quote": "38% of deals in the last 24 months were either proprietary or limited auction with \u22643 bidders. We consistently win deals at lower multiples than marketed processes.",
+          "topic": "Proprietary sourcing"
+        },
+        {
+          "quote": "GP commits \u22653% ($12M+) from personal capital. The entire investment team participates in carried interest. No key-person events; zero senior departures in 14 years. We eat what we cook.",
+          "topic": "GP alignment"
+        }
+      ],
+      "structured": {
+        "company": "Atlas Crossing Partners Fund IV",
+        "revenue_ltm_usd": null,
+        "ebitda_ltm_usd": null,
+        "ebitda_margin": null,
+        "revenue_cagr_3yr": null,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null,
+        "growth_drivers": [
+          "Proprietary and limited-auction sourcing (38% of deals) reducing competition and entry multiples",
+          "Market dislocation in lower-middle-market creating favorable entry pricing (2025\u20132027 vintage)",
+          "Operational value creation via 100-day plans, operating partner placement, and add-on M&A (avg. 1.8 add-ons per platform)",
+          "EBITDA margin expansion of 200\u2013400 bps per platform targeted",
+          "Deep LP re-up base providing fundraising momentum"
+        ],
+        "risks": [
+          "Unrealized Fund III holdings (3 of 5 platforms not yet exited) carry mark-to-market risk",
+          "Fund IV fundraise still in progress at 42% of target as of May 2026",
+          "Hold period risk given active portfolio average hold already 4\u20138 years",
+          "Integration risk from add-on acquisition strategy",
+          "Key-person dependency on co-founders Michael Tang and Simon Harrington"
+        ]
+      },
+      "memo_purpose": null,
+      "returns_extract": null,
+      "underwriting_case_extract": {},
+      "period_actuals": [],
       "full_text_excerpt": "...",
       "expert_id": null
     }

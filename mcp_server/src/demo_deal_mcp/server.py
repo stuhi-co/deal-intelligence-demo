@@ -6,7 +6,7 @@ from mcp.server.fastmcp import FastMCP
 
 from .tools import cim, criteria, deals, documents, macro, portco, precedents, sourcing
 
-mcp = FastMCP("demo-deal-platform")
+mcp = FastMCP("atlas-crossing-partners")
 
 # --- Deal core ---
 mcp.tool()(deals.list_deals)
@@ -31,6 +31,7 @@ mcp.tool()(cim.evaluate_cim_against_criteria)
 mcp.tool()(portco.get_portco_performance)
 mcp.tool()(portco.get_underwriting_case)
 mcp.tool()(portco.compare_portco_vs_underwriting)
+mcp.tool()(portco.compare_exit_vs_underwriting)
 
 # --- Macro ---
 mcp.tool()(macro.get_macro_snapshot)

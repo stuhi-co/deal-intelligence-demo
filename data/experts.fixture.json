@@ -1,0 +1,108 @@
+{
+  "experts": [
+    {
+      "expert_id": "expert_jdoe",
+      "name": "Jane Doe",
+      "firm": "Channel Insights LLC",
+      "title": "Former VP, Network Strategy \u2014 Top-5 National Payer",
+      "expertise": [
+        "outsourced_clinical_services",
+        "payer_dynamics",
+        "channel_pricing"
+      ],
+      "deals_used_in": [
+        "deal_falcon_2025",
+        "deal_acme_2021"
+      ]
+    },
+    {
+      "expert_id": "expert_mfeld",
+      "name": "Marcus Feldman",
+      "firm": "Feldman Advisory",
+      "title": "30-Year Industrial Distribution Veteran",
+      "expertise": [
+        "specialty_distribution",
+        "mro_distribution",
+        "cyclicality",
+        "carve_outs"
+      ],
+      "deals_used_in": [
+        "deal_orion_2026",
+        "deal_crunch_2026"
+      ]
+    },
+    {
+      "expert_id": "expert_bstone",
+      "name": "Barbara Stone",
+      "firm": "Stone Healthcare Partners",
+      "title": "Healthcare Operating Executive",
+      "expertise": [
+        "healthcare_services",
+        "management_assessment"
+      ],
+      "deals_used_in": [
+        "deal_atlas_2022"
+      ]
+    },
+    {
+      "expert_id": "expert_lwong",
+      "name": "Linda Wong",
+      "firm": "Wong Regulatory Consulting",
+      "title": "Former CMS Senior Counsel",
+      "expertise": [
+        "healthcare_regulation",
+        "reimbursement"
+      ],
+      "deals_used_in": [
+        "deal_healthroll_2020"
+      ]
+    },
+    {
+      "expert_id": "expert_rgarza",
+      "name": "Ricardo Garza",
+      "firm": "Pet Industry Insights",
+      "title": "Former SVP Merchandising \u2014 Pet Specialty Retailer",
+      "expertise": [
+        "pet_food",
+        "pet_supplies",
+        "channel_pricing",
+        "private_label"
+      ],
+      "deals_used_in": [
+        "deal_kibble_2024",
+        "deal_whisker_2025",
+        "deal_paws_2023"
+      ]
+    },
+    {
+      "expert_id": "expert_tpark",
+      "name": "Tom Park",
+      "firm": "GTN Capital Network",
+      "title": "Former Category Buyer \u2014 Chewy",
+      "expertise": [
+        "pet_food",
+        "ecommerce_channels",
+        "vendor_dynamics"
+      ],
+      "deals_used_in": [
+        "deal_whisker_2025"
+      ]
+    },
+    {
+      "expert_id": "expert_sokafor",
+      "name": "Samuel Okafor",
+      "firm": "Okafor Operations Partners",
+      "title": "Former Plant President \u2014 Precision Components",
+      "expertise": [
+        "industrial_components",
+        "process_manufacturing",
+        "lean_ops",
+        "margin_expansion"
+      ],
+      "deals_used_in": [
+        "deal_forge_2018",
+        "deal_polymer_2019"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1368 @@
+{
+  "deals": [
+    {
+      "deal_id": "deal_falcon_2025",
+      "codename": "Project Falcon",
+      "aliases": [
+        "Project Falcon",
+        "MedTech Services Inc.",
+        "MedTech"
+      ],
+      "company_canonical": "MedTech Services Inc.",
+      "status": "active_diligence",
+      "stage_entered_at": "2026-03-15",
+      "lead_partner": "person_jsmith",
+      "deal_team": [
+        "person_jsmith",
+        "person_klee",
+        "person_rpatel"
+      ],
+      "sector": "healthcare_services",
+      "subsector": "outsourced_clinical_services",
+      "geography": "southeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 142000000,
+        "ebitda_ltm_usd": 28000000,
+        "ebitda_margin": 0.197,
+        "revenue_cagr_3yr": 0.14,
+        "ev_proposed_usd": 285000000,
+        "ev_ebitda_multiple": 10.2
+      },
+      "thesis_themes": [
+        "roll_up",
+        "founder_transition"
+      ],
+      "risk_flags": [
+        "payer_concentration"
+      ],
+      "source_documents": [
+        "doc_8429",
+        "doc_8430",
+        "doc_8431",
+        "doc_8455"
+      ],
+      "salesforce_opportunity_id": "0061234ABC",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_acme_2021",
+          "score": 0.87,
+          "drivers": [
+            "subsector",
+            "size",
+            "deal_type"
+          ]
+        },
+        {
+          "deal_id": "deal_healthroll_2020",
+          "score": 0.81,
+          "drivers": [
+            "subsector",
+            "thesis"
+          ]
+        },
+        {
+          "deal_id": "deal_atlas_2022",
+          "score": 0.74,
+          "drivers": [
+            "sector",
+            "size"
+          ]
+        }
+      ],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_orion_2026",
+      "codename": "Project Orion",
+      "aliases": [
+        "Project Orion",
+        "Orion Industrial Supply Co.",
+        "Orion Industrial"
+      ],
+      "company_canonical": "Orion Industrial Supply Co.",
+      "status": "active_diligence",
+      "stage_entered_at": "2026-04-02",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_klee"
+      ],
+      "sector": "industrial_distribution",
+      "subsector": "specialty_distribution",
+      "geography": "midwest_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 198000000,
+        "ebitda_ltm_usd": 22000000,
+        "ebitda_margin": 0.111,
+        "revenue_cagr_3yr": 0.09,
+        "ev_proposed_usd": 230000000,
+        "ev_ebitda_multiple": 10.5
+      },
+      "thesis_themes": [
+        "market_consolidation",
+        "margin_expansion"
+      ],
+      "risk_flags": [
+        "customer_concentration",
+        "cyclicality"
+      ],
+      "source_documents": [
+        "doc_9102",
+        "doc_9103",
+        "doc_9120"
+      ],
+      "salesforce_opportunity_id": "0067788DEF",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_techflow_2019",
+          "score": 0.83,
+          "drivers": [
+            "subsector",
+            "deal_type",
+            "size"
+          ]
+        },
+        {
+          "deal_id": "deal_midstates_2022",
+          "score": 0.71,
+          "drivers": [
+            "sector",
+            "geography"
+          ]
+        }
+      ],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_acme_2021",
+      "codename": "Acme Acquisition",
+      "aliases": [
+        "Acme Acquisition",
+        "Acme MedSupply",
+        "Acme"
+      ],
+      "company_canonical": "Acme MedSupply Inc.",
+      "status": "closed_exited",
+      "stage_entered_at": "2021-05-10",
+      "lead_partner": "person_jsmith",
+      "deal_team": [
+        "person_jsmith",
+        "person_klee"
+      ],
+      "sector": "healthcare_services",
+      "subsector": "outsourced_clinical_services",
+      "geography": "southeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 118000000,
+        "ebitda_ltm_usd": 21000000,
+        "ebitda_margin": 0.178,
+        "revenue_cagr_3yr": 0.12,
+        "ev_proposed_usd": 220000000,
+        "ev_ebitda_multiple": 10.5
+      },
+      "thesis_themes": [
+        "roll_up",
+        "founder_transition"
+      ],
+      "risk_flags": [
+        "payer_concentration"
+      ],
+      "source_documents": [
+        "doc_3201",
+        "doc_3202",
+        "doc_3210"
+      ],
+      "salesforce_opportunity_id": "0061111AAA",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_healthroll_2020",
+          "score": 0.79,
+          "drivers": [
+            "subsector",
+            "thesis"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "closed",
+        "decision_date": "2021-08-22",
+        "primary_reason": null,
+        "secondary_reasons": [],
+        "irr": 0.28,
+        "moic": 3.1,
+        "holding_period_years": 4,
+        "exit_year": 2025,
+        "exit_ev_usd": 510000000,
+        "exit_type": "strategic_sale",
+        "post_decision_tracking": "Closed at $220M EV. Exited 2025 to strategic acquirer for $510M EV (3.1x MOIC, 28% IRR). Three bolt-on acquisitions completed during ownership."
+      },
+      "underwriting_case": {
+        "year_1": {
+          "revenue_usd": 130000000,
+          "ebitda_usd": 24000000,
+          "ebitda_margin": 0.185
+        },
+        "year_3": {
+          "revenue_usd": 175000000,
+          "ebitda_usd": 35000000,
+          "ebitda_margin": 0.2
+        },
+        "year_5_exit": {
+          "revenue_usd": 220000000,
+          "ebitda_usd": 46000000,
+          "ebitda_margin": 0.21,
+          "ev_usd": 460000000,
+          "moic": 2.5,
+          "irr": 0.22
+        }
+      },
+      "portco_actuals": [
+        {
+          "year": 2021,
+          "revenue_usd": 118000000,
+          "ebitda_usd": 21000000,
+          "ebitda_margin": 0.178
+        },
+        {
+          "year": 2022,
+          "revenue_usd": 138000000,
+          "ebitda_usd": 26000000,
+          "ebitda_margin": 0.188
+        },
+        {
+          "year": 2023,
+          "revenue_usd": 168000000,
+          "ebitda_usd": 33000000,
+          "ebitda_margin": 0.196
+        },
+        {
+          "year": 2024,
+          "revenue_usd": 205000000,
+          "ebitda_usd": 43000000,
+          "ebitda_margin": 0.21
+        },
+        {
+          "year": 2025,
+          "revenue_usd": 238000000,
+          "ebitda_usd": 52000000,
+          "ebitda_margin": 0.218
+        }
+      ]
+    },
+    {
+      "deal_id": "deal_techflow_2019",
+      "codename": "TechFlow Acquisition",
+      "aliases": [
+        "TechFlow Acquisition",
+        "TechFlow Distribution Inc.",
+        "TechFlow"
+      ],
+      "company_canonical": "TechFlow Distribution Inc.",
+      "status": "closed_exited",
+      "stage_entered_at": "2019-09-03",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_rpatel"
+      ],
+      "sector": "industrial_distribution",
+      "subsector": "specialty_distribution",
+      "geography": "midwest_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 165000000,
+        "ebitda_ltm_usd": 19000000,
+        "ebitda_margin": 0.115,
+        "revenue_cagr_3yr": 0.08,
+        "ev_proposed_usd": 175000000,
+        "ev_ebitda_multiple": 9.2
+      },
+      "thesis_themes": [
+        "market_consolidation",
+        "margin_expansion"
+      ],
+      "risk_flags": [
+        "cyclicality"
+      ],
+      "source_documents": [
+        "doc_2101",
+        "doc_2102"
+      ],
+      "salesforce_opportunity_id": "0062222BBB",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_midstates_2022",
+          "score": 0.76,
+          "drivers": [
+            "sector",
+            "geography"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "closed",
+        "decision_date": "2019-12-15",
+        "primary_reason": null,
+        "secondary_reasons": [],
+        "irr": 0.19,
+        "moic": 2.2,
+        "holding_period_years": 5,
+        "exit_year": 2024,
+        "exit_ev_usd": 340000000,
+        "exit_type": "secondary_buyout",
+        "post_decision_tracking": "Closed at $175M EV. Exited 2024 to PE buyer for $340M EV (2.2x MOIC, 19% IRR). Margin expansion thesis played out \u2014 EBITDA margin grew from 11.5% to 15.8%."
+      },
+      "underwriting_case": {
+        "year_1": {
+          "revenue_usd": 175000000,
+          "ebitda_usd": 22000000,
+          "ebitda_margin": 0.126
+        },
+        "year_3": {
+          "revenue_usd": 205000000,
+          "ebitda_usd": 30000000,
+          "ebitda_margin": 0.146
+        },
+        "year_5_exit": {
+          "revenue_usd": 240000000,
+          "ebitda_usd": 38000000,
+          "ebitda_margin": 0.158,
+          "ev_usd": 360000000,
+          "moic": 2.4,
+          "irr": 0.21
+        }
+      },
+      "portco_actuals": [
+        {
+          "year": 2019,
+          "revenue_usd": 165000000,
+          "ebitda_usd": 19000000,
+          "ebitda_margin": 0.115
+        },
+        {
+          "year": 2020,
+          "revenue_usd": 158000000,
+          "ebitda_usd": 19500000,
+          "ebitda_margin": 0.123
+        },
+        {
+          "year": 2021,
+          "revenue_usd": 182000000,
+          "ebitda_usd": 25000000,
+          "ebitda_margin": 0.137
+        },
+        {
+          "year": 2022,
+          "revenue_usd": 201000000,
+          "ebitda_usd": 29500000,
+          "ebitda_margin": 0.147
+        },
+        {
+          "year": 2023,
+          "revenue_usd": 218000000,
+          "ebitda_usd": 33000000,
+          "ebitda_margin": 0.151
+        },
+        {
+          "year": 2024,
+          "revenue_usd": 232000000,
+          "ebitda_usd": 36700000,
+          "ebitda_margin": 0.158
+        }
+      ]
+    },
+    {
+      "deal_id": "deal_atlas_2022",
+      "codename": "Project Atlas",
+      "aliases": [
+        "Project Atlas",
+        "Atlas Health Group",
+        "Atlas"
+      ],
+      "company_canonical": "Atlas Health Group LLC",
+      "status": "passed",
+      "stage_entered_at": "2022-04-11",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_klee",
+        "person_rpatel"
+      ],
+      "sector": "healthcare_services",
+      "subsector": "outsourced_clinical_services",
+      "geography": "northeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 175000000,
+        "ebitda_ltm_usd": 28000000,
+        "ebitda_margin": 0.16,
+        "revenue_cagr_3yr": 0.16,
+        "ev_proposed_usd": 310000000,
+        "ev_ebitda_multiple": 11.1
+      },
+      "thesis_themes": [
+        "roll_up"
+      ],
+      "risk_flags": [
+        "management_quality",
+        "customer_concentration"
+      ],
+      "source_documents": [
+        "doc_4401",
+        "doc_4402",
+        "doc_4410"
+      ],
+      "salesforce_opportunity_id": "0063333CCC",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_acme_2021",
+          "score": 0.72,
+          "drivers": [
+            "subsector",
+            "size"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "passed",
+        "decision_date": "2022-08-14",
+        "primary_reason": "management_quality",
+        "secondary_reasons": [
+          "customer_concentration"
+        ],
+        "post_decision_tracking": "Company sold to strategic acquirer in 2024 at ~$2.0B EV \u2014 approximately 6.5x the price we were considering. We missed this one."
+      }
+    },
+    {
+      "deal_id": "deal_cascade_2024",
+      "codename": "Project Cascade",
+      "aliases": [
+        "Project Cascade",
+        "Cascade Software Holdings",
+        "Cascade"
+      ],
+      "company_canonical": "Cascade Software Holdings Inc.",
+      "status": "dead",
+      "stage_entered_at": "2024-10-07",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_rpatel"
+      ],
+      "sector": "tech_enabled_services",
+      "subsector": "vertical_saas",
+      "geography": "west_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 64000000,
+        "ebitda_ltm_usd": 9000000,
+        "ebitda_margin": 0.141,
+        "revenue_cagr_3yr": 0.31,
+        "ev_proposed_usd": null,
+        "ev_ebitda_multiple": null
+      },
+      "thesis_themes": [
+        "recurring_revenue",
+        "margin_expansion"
+      ],
+      "risk_flags": [
+        "integration_risk",
+        "customer_concentration"
+      ],
+      "source_documents": [
+        "doc_5501",
+        "doc_5502"
+      ],
+      "salesforce_opportunity_id": "0064444DDD",
+      "similar_deals_computed": [],
+      "outcome": {
+        "decision": "dead_no_decision",
+        "decision_date": "2024-11-19",
+        "primary_reason": "integration_risk",
+        "secondary_reasons": [],
+        "post_decision_tracking": "Process stalled in early diligence. Seller withdrew after receiving a competing strategic offer. No IC convened."
+      }
+    },
+    {
+      "deal_id": "deal_healthroll_2020",
+      "codename": "Project HealthRoll",
+      "aliases": [
+        "Project HealthRoll",
+        "HealthRoll Partners LLC",
+        "HealthRoll"
+      ],
+      "company_canonical": "HealthRoll Partners LLC",
+      "status": "closed_held",
+      "stage_entered_at": "2020-06-18",
+      "lead_partner": "person_jsmith",
+      "deal_team": [
+        "person_jsmith",
+        "person_klee"
+      ],
+      "sector": "healthcare_services",
+      "subsector": "outsourced_clinical_services",
+      "geography": "southeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 95000000,
+        "ebitda_ltm_usd": 20000000,
+        "ebitda_margin": 0.211,
+        "revenue_cagr_3yr": 0.18,
+        "ev_proposed_usd": 180000000,
+        "ev_ebitda_multiple": 9.0
+      },
+      "thesis_themes": [
+        "roll_up",
+        "founder_transition"
+      ],
+      "risk_flags": [
+        "regulatory_exposure"
+      ],
+      "source_documents": [
+        "doc_2801",
+        "doc_2802",
+        "doc_2810"
+      ],
+      "salesforce_opportunity_id": "0065555EEE",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_acme_2021",
+          "score": 0.78,
+          "drivers": [
+            "subsector",
+            "thesis"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "closed",
+        "decision_date": "2020-09-30",
+        "primary_reason": null,
+        "secondary_reasons": [],
+        "irr": 0.24,
+        "moic": 2.6,
+        "holding_period_years": 5,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "exit_type": "held",
+        "post_decision_tracking": "Closed at $180M EV. Currently held. Revenue grown from $95M to $168M LTM (5 years). Three add-ons completed. Targeting exit in 2027."
+      },
+      "underwriting_case": {
+        "year_1": {
+          "revenue_usd": 105000000,
+          "ebitda_usd": 22500000,
+          "ebitda_margin": 0.214
+        },
+        "year_3": {
+          "revenue_usd": 135000000,
+          "ebitda_usd": 31000000,
+          "ebitda_margin": 0.23
+        },
+        "year_5_exit": {
+          "revenue_usd": 170000000,
+          "ebitda_usd": 42500000,
+          "ebitda_margin": 0.25,
+          "ev_usd": 425000000,
+          "moic": 2.6,
+          "irr": 0.22
+        }
+      },
+      "portco_actuals": [
+        {
+          "year": 2020,
+          "revenue_usd": 95000000,
+          "ebitda_usd": 20000000,
+          "ebitda_margin": 0.211
+        },
+        {
+          "year": 2021,
+          "revenue_usd": 112000000,
+          "ebitda_usd": 24500000,
+          "ebitda_margin": 0.219
+        },
+        {
+          "year": 2022,
+          "revenue_usd": 128000000,
+          "ebitda_usd": 29000000,
+          "ebitda_margin": 0.227
+        },
+        {
+          "year": 2023,
+          "revenue_usd": 145000000,
+          "ebitda_usd": 33500000,
+          "ebitda_margin": 0.231
+        },
+        {
+          "year": 2024,
+          "revenue_usd": 158000000,
+          "ebitda_usd": 37000000,
+          "ebitda_margin": 0.234
+        },
+        {
+          "year": 2025,
+          "revenue_usd": 168000000,
+          "ebitda_usd": 40000000,
+          "ebitda_margin": 0.238
+        }
+      ]
+    },
+    {
+      "deal_id": "deal_midstates_2022",
+      "codename": "MidStates Acquisition",
+      "aliases": [
+        "MidStates Acquisition",
+        "MidStates Components Co.",
+        "MidStates"
+      ],
+      "company_canonical": "MidStates Components Co.",
+      "status": "closed_held",
+      "stage_entered_at": "2022-02-08",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_rpatel"
+      ],
+      "sector": "industrial_distribution",
+      "subsector": "mro_distribution",
+      "geography": "midwest_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 145000000,
+        "ebitda_ltm_usd": 18000000,
+        "ebitda_margin": 0.124,
+        "revenue_cagr_3yr": 0.07,
+        "ev_proposed_usd": 195000000,
+        "ev_ebitda_multiple": 10.8
+      },
+      "thesis_themes": [
+        "market_consolidation"
+      ],
+      "risk_flags": [
+        "cyclicality"
+      ],
+      "source_documents": [
+        "doc_6601",
+        "doc_6602"
+      ],
+      "salesforce_opportunity_id": "0066666FFF",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_techflow_2019",
+          "score": 0.74,
+          "drivers": [
+            "sector",
+            "geography"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "closed",
+        "decision_date": "2022-05-22",
+        "primary_reason": null,
+        "secondary_reasons": [],
+        "irr": 0.17,
+        "moic": 1.8,
+        "holding_period_years": 4,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "exit_type": "held",
+        "post_decision_tracking": "Closed at $195M EV. Currently held. Two bolt-on acquisitions completed. EBITDA margin expanded from 12.4% to 14.7%."
+      },
+      "underwriting_case": {
+        "year_1": {
+          "revenue_usd": 158000000,
+          "ebitda_usd": 21000000,
+          "ebitda_margin": 0.133
+        },
+        "year_3": {
+          "revenue_usd": 185000000,
+          "ebitda_usd": 28000000,
+          "ebitda_margin": 0.151
+        },
+        "year_5_exit": {
+          "revenue_usd": 215000000,
+          "ebitda_usd": 34500000,
+          "ebitda_margin": 0.16,
+          "ev_usd": 380000000,
+          "moic": 2.3,
+          "irr": 0.2
+        }
+      },
+      "portco_actuals": [
+        {
+          "year": 2022,
+          "revenue_usd": 145000000,
+          "ebitda_usd": 18000000,
+          "ebitda_margin": 0.124
+        },
+        {
+          "year": 2023,
+          "revenue_usd": 155000000,
+          "ebitda_usd": 20500000,
+          "ebitda_margin": 0.132
+        },
+        {
+          "year": 2024,
+          "revenue_usd": 168000000,
+          "ebitda_usd": 23500000,
+          "ebitda_margin": 0.14
+        },
+        {
+          "year": 2025,
+          "revenue_usd": 176000000,
+          "ebitda_usd": 25900000,
+          "ebitda_margin": 0.147
+        }
+      ]
+    },
+    {
+      "deal_id": "deal_kibble_2024",
+      "codename": "Project Kibble",
+      "aliases": [
+        "Project Kibble",
+        "Pawsome Premium Foods Inc.",
+        "Pawsome",
+        "Pawsome Premium"
+      ],
+      "company_canonical": "Pawsome Premium Foods Inc.",
+      "status": "closed_held",
+      "stage_entered_at": "2024-03-12",
+      "lead_partner": "person_jsmith",
+      "deal_team": [
+        "person_jsmith",
+        "person_rpatel"
+      ],
+      "sector": "consumer_products",
+      "subsector": "pet_food",
+      "geography": "southeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 168000000,
+        "ebitda_ltm_usd": 27000000,
+        "ebitda_margin": 0.161,
+        "revenue_cagr_3yr": 0.21,
+        "ev_proposed_usd": 360000000,
+        "ev_ebitda_multiple": 13.3
+      },
+      "thesis_themes": [
+        "premiumization",
+        "recurring_revenue"
+      ],
+      "risk_flags": [
+        "commodity_exposure",
+        "private_label_pressure"
+      ],
+      "source_documents": [
+        "doc_kibble_cim",
+        "doc_kibble_ic",
+        "doc_kibble_expert_1"
+      ],
+      "salesforce_opportunity_id": "0067777GGG",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_whisker_2025",
+          "score": 0.84,
+          "drivers": [
+            "subsector",
+            "thesis"
+          ]
+        },
+        {
+          "deal_id": "deal_paws_2023",
+          "score": 0.77,
+          "drivers": [
+            "subsector",
+            "size"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "closed",
+        "decision_date": "2024-07-08",
+        "primary_reason": null,
+        "secondary_reasons": [],
+        "irr": null,
+        "moic": null,
+        "holding_period_years": 2,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "exit_type": "held",
+        "post_decision_tracking": "Closed at $360M EV. Premium positioning held in 2025 despite private-label pressure; D2C subscription channel up 38%."
+      },
+      "underwriting_case": {
+        "year_1": {
+          "revenue_usd": 190000000,
+          "ebitda_usd": 32000000,
+          "ebitda_margin": 0.168
+        },
+        "year_3": {
+          "revenue_usd": 250000000,
+          "ebitda_usd": 47500000,
+          "ebitda_margin": 0.19
+        },
+        "year_5_exit": {
+          "revenue_usd": 320000000,
+          "ebitda_usd": 67000000,
+          "ebitda_margin": 0.21,
+          "ev_usd": 740000000,
+          "moic": 2.5,
+          "irr": 0.22
+        }
+      },
+      "portco_actuals": [
+        {
+          "year": 2024,
+          "revenue_usd": 168000000,
+          "ebitda_usd": 27000000,
+          "ebitda_margin": 0.161
+        },
+        {
+          "year": 2025,
+          "revenue_usd": 187000000,
+          "ebitda_usd": 31200000,
+          "ebitda_margin": 0.167
+        }
+      ]
+    },
+    {
+      "deal_id": "deal_whisker_2025",
+      "codename": "Project Whisker",
+      "aliases": [
+        "Project Whisker",
+        "Whisker Naturals LLC",
+        "Whisker Naturals"
+      ],
+      "company_canonical": "Whisker Naturals LLC",
+      "status": "active_diligence",
+      "stage_entered_at": "2025-11-04",
+      "lead_partner": "person_jsmith",
+      "deal_team": [
+        "person_jsmith",
+        "person_klee"
+      ],
+      "sector": "consumer_products",
+      "subsector": "pet_food",
+      "geography": "west_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 92000000,
+        "ebitda_ltm_usd": 14500000,
+        "ebitda_margin": 0.158,
+        "revenue_cagr_3yr": 0.28,
+        "ev_proposed_usd": 210000000,
+        "ev_ebitda_multiple": 14.5
+      },
+      "thesis_themes": [
+        "premiumization",
+        "recurring_revenue",
+        "founder_transition"
+      ],
+      "risk_flags": [
+        "commodity_exposure",
+        "customer_concentration"
+      ],
+      "source_documents": [
+        "doc_whisker_cim",
+        "doc_whisker_expert_1",
+        "doc_whisker_expert_2"
+      ],
+      "salesforce_opportunity_id": "0068888HHH",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_kibble_2024",
+          "score": 0.84,
+          "drivers": [
+            "subsector",
+            "thesis"
+          ]
+        },
+        {
+          "deal_id": "deal_paws_2023",
+          "score": 0.69,
+          "drivers": [
+            "subsector"
+          ]
+        }
+      ],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_paws_2023",
+      "codename": "Project Paws",
+      "aliases": [
+        "Project Paws",
+        "BarkBites Inc.",
+        "BarkBites"
+      ],
+      "company_canonical": "BarkBites Inc.",
+      "status": "passed",
+      "stage_entered_at": "2023-06-21",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_rpatel"
+      ],
+      "sector": "consumer_products",
+      "subsector": "pet_food",
+      "geography": "midwest_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 78000000,
+        "ebitda_ltm_usd": 8500000,
+        "ebitda_margin": 0.109,
+        "revenue_cagr_3yr": 0.12,
+        "ev_proposed_usd": 145000000,
+        "ev_ebitda_multiple": 17.1
+      },
+      "thesis_themes": [
+        "premiumization"
+      ],
+      "risk_flags": [
+        "private_label_pressure",
+        "commodity_exposure"
+      ],
+      "source_documents": [
+        "doc_paws_cim",
+        "doc_paws_expert_1"
+      ],
+      "salesforce_opportunity_id": "0069999III",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_kibble_2024",
+          "score": 0.77,
+          "drivers": [
+            "subsector",
+            "size"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "passed",
+        "decision_date": "2023-09-15",
+        "primary_reason": "private_label_pressure",
+        "secondary_reasons": [
+          "commodity_exposure"
+        ],
+        "post_decision_tracking": "Passed at IC. Private-label share in mid-tier dry food grew from 18% to 26% during diligence; margin compression accelerated post-process. Still independent as of 2026."
+      }
+    },
+    {
+      "deal_id": "deal_crunch_2026",
+      "codename": "Project Crunch",
+      "aliases": [
+        "Project Crunch",
+        "Crunch Pet Co.",
+        "Crunch"
+      ],
+      "company_canonical": "Crunch Pet Co.",
+      "status": "active_diligence",
+      "stage_entered_at": "2026-04-22",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_klee",
+        "person_rpatel"
+      ],
+      "sector": "consumer_products",
+      "subsector": "pet_food",
+      "geography": "national",
+      "deal_type": "carve_out",
+      "financials": {
+        "revenue_ltm_usd": 215000000,
+        "ebitda_ltm_usd": 31000000,
+        "ebitda_margin": 0.144,
+        "revenue_cagr_3yr": 0.06,
+        "ev_proposed_usd": 380000000,
+        "ev_ebitda_multiple": 12.3
+      },
+      "thesis_themes": [
+        "margin_expansion",
+        "operational_excellence"
+      ],
+      "risk_flags": [
+        "commodity_exposure",
+        "integration_risk"
+      ],
+      "source_documents": [
+        "doc_crunch_cim",
+        "doc_crunch_expert_1"
+      ],
+      "salesforce_opportunity_id": "006AAAA111",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_kibble_2024",
+          "score": 0.72,
+          "drivers": [
+            "subsector",
+            "size"
+          ]
+        }
+      ],
+      "outcome": null
+    },
+    {
+      "deal_id": "deal_forge_2018",
+      "codename": "Project Forge",
+      "aliases": [
+        "Project Forge",
+        "Forge Precision Components Inc.",
+        "Forge Precision"
+      ],
+      "company_canonical": "Forge Precision Components Inc.",
+      "status": "closed_exited",
+      "stage_entered_at": "2018-04-09",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_klee"
+      ],
+      "sector": "manufacturing",
+      "subsector": "industrial_components",
+      "geography": "midwest_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 140000000,
+        "ebitda_ltm_usd": 22000000,
+        "ebitda_margin": 0.157,
+        "revenue_cagr_3yr": 0.09,
+        "ev_proposed_usd": 215000000,
+        "ev_ebitda_multiple": 9.8
+      },
+      "thesis_themes": [
+        "operational_excellence",
+        "margin_expansion"
+      ],
+      "risk_flags": [
+        "cyclicality"
+      ],
+      "source_documents": [
+        "doc_forge_ic",
+        "doc_forge_expert_1"
+      ],
+      "salesforce_opportunity_id": "006BBBB222",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_polymer_2019",
+          "score": 0.78,
+          "drivers": [
+            "sector",
+            "thesis"
+          ]
+        },
+        {
+          "deal_id": "deal_packtech_2022",
+          "score": 0.66,
+          "drivers": [
+            "sector"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "closed",
+        "decision_date": "2018-07-30",
+        "primary_reason": null,
+        "secondary_reasons": [],
+        "irr": 0.26,
+        "moic": 2.9,
+        "holding_period_years": 5,
+        "exit_year": 2023,
+        "exit_ev_usd": 615000000,
+        "exit_type": "strategic_sale",
+        "post_decision_tracking": "Closed at $215M EV. Exited 2023 to strategic for $615M (2.9x MOIC, 26% IRR). Lean ops program drove margin from 15.7% to 21.4%. Four bolt-ons."
+      },
+      "underwriting_case": {
+        "year_1": {
+          "revenue_usd": 152000000,
+          "ebitda_usd": 25000000,
+          "ebitda_margin": 0.164
+        },
+        "year_3": {
+          "revenue_usd": 185000000,
+          "ebitda_usd": 33000000,
+          "ebitda_margin": 0.178
+        },
+        "year_5_exit": {
+          "revenue_usd": 225000000,
+          "ebitda_usd": 43000000,
+          "ebitda_margin": 0.191,
+          "ev_usd": 470000000,
+          "moic": 2.4,
+          "irr": 0.21
+        }
+      },
+      "portco_actuals": [
+        {
+          "year": 2018,
+          "revenue_usd": 140000000,
+          "ebitda_usd": 22000000,
+          "ebitda_margin": 0.157
+        },
+        {
+          "year": 2019,
+          "revenue_usd": 158000000,
+          "ebitda_usd": 27000000,
+          "ebitda_margin": 0.171
+        },
+        {
+          "year": 2020,
+          "revenue_usd": 149000000,
+          "ebitda_usd": 26500000,
+          "ebitda_margin": 0.178
+        },
+        {
+          "year": 2021,
+          "revenue_usd": 178000000,
+          "ebitda_usd": 33500000,
+          "ebitda_margin": 0.188
+        },
+        {
+          "year": 2022,
+          "revenue_usd": 205000000,
+          "ebitda_usd": 41500000,
+          "ebitda_margin": 0.202
+        },
+        {
+          "year": 2023,
+          "revenue_usd": 232000000,
+          "ebitda_usd": 49700000,
+          "ebitda_margin": 0.214
+        }
+      ]
+    },
+    {
+      "deal_id": "deal_polymer_2019",
+      "codename": "Project Polymer",
+      "aliases": [
+        "Project Polymer",
+        "Polymer Process Industries LLC",
+        "Polymer Process"
+      ],
+      "company_canonical": "Polymer Process Industries LLC",
+      "status": "closed_exited",
+      "stage_entered_at": "2019-01-22",
+      "lead_partner": "person_jsmith",
+      "deal_team": [
+        "person_jsmith",
+        "person_rpatel"
+      ],
+      "sector": "manufacturing",
+      "subsector": "process_manufacturing",
+      "geography": "southeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 195000000,
+        "ebitda_ltm_usd": 29000000,
+        "ebitda_margin": 0.149,
+        "revenue_cagr_3yr": 0.07,
+        "ev_proposed_usd": 280000000,
+        "ev_ebitda_multiple": 9.7
+      },
+      "thesis_themes": [
+        "operational_excellence",
+        "market_consolidation"
+      ],
+      "risk_flags": [
+        "cyclicality",
+        "commodity_exposure"
+      ],
+      "source_documents": [
+        "doc_polymer_ic",
+        "doc_polymer_expert_1"
+      ],
+      "salesforce_opportunity_id": "006CCCC333",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_forge_2018",
+          "score": 0.78,
+          "drivers": [
+            "sector",
+            "thesis"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "closed",
+        "decision_date": "2019-05-10",
+        "primary_reason": null,
+        "secondary_reasons": [],
+        "irr": 0.22,
+        "moic": 2.5,
+        "holding_period_years": 5,
+        "exit_year": 2024,
+        "exit_ev_usd": 700000000,
+        "exit_type": "secondary_buyout",
+        "post_decision_tracking": "Closed at $280M EV. Exited 2024 to PE buyer for $700M (2.5x MOIC, 22% IRR). Three add-ons; pricing discipline drove margin from 14.9% to 19.1%."
+      },
+      "underwriting_case": {
+        "year_1": {
+          "revenue_usd": 210000000,
+          "ebitda_usd": 32000000,
+          "ebitda_margin": 0.152
+        },
+        "year_3": {
+          "revenue_usd": 245000000,
+          "ebitda_usd": 40000000,
+          "ebitda_margin": 0.163
+        },
+        "year_5_exit": {
+          "revenue_usd": 285000000,
+          "ebitda_usd": 51000000,
+          "ebitda_margin": 0.179,
+          "ev_usd": 545000000,
+          "moic": 2.2,
+          "irr": 0.18
+        }
+      },
+      "portco_actuals": [
+        {
+          "year": 2019,
+          "revenue_usd": 195000000,
+          "ebitda_usd": 29000000,
+          "ebitda_margin": 0.149
+        },
+        {
+          "year": 2020,
+          "revenue_usd": 188000000,
+          "ebitda_usd": 28500000,
+          "ebitda_margin": 0.152
+        },
+        {
+          "year": 2021,
+          "revenue_usd": 218000000,
+          "ebitda_usd": 36500000,
+          "ebitda_margin": 0.167
+        },
+        {
+          "year": 2022,
+          "revenue_usd": 248000000,
+          "ebitda_usd": 44000000,
+          "ebitda_margin": 0.177
+        },
+        {
+          "year": 2023,
+          "revenue_usd": 275000000,
+          "ebitda_usd": 50500000,
+          "ebitda_margin": 0.184
+        },
+        {
+          "year": 2024,
+          "revenue_usd": 298000000,
+          "ebitda_usd": 56900000,
+          "ebitda_margin": 0.191
+        }
+      ]
+    },
+    {
+      "deal_id": "deal_packtech_2022",
+      "codename": "Project PackTech",
+      "aliases": [
+        "Project PackTech",
+        "PackTech Solutions Co.",
+        "PackTech"
+      ],
+      "company_canonical": "PackTech Solutions Co.",
+      "status": "closed_held",
+      "stage_entered_at": "2022-09-13",
+      "lead_partner": "person_mchen",
+      "deal_team": [
+        "person_mchen",
+        "person_klee"
+      ],
+      "sector": "manufacturing",
+      "subsector": "packaging",
+      "geography": "northeast_us",
+      "deal_type": "platform",
+      "financials": {
+        "revenue_ltm_usd": 165000000,
+        "ebitda_ltm_usd": 24000000,
+        "ebitda_margin": 0.145,
+        "revenue_cagr_3yr": 0.1,
+        "ev_proposed_usd": 245000000,
+        "ev_ebitda_multiple": 10.2
+      },
+      "thesis_themes": [
+        "operational_excellence",
+        "margin_expansion"
+      ],
+      "risk_flags": [
+        "commodity_exposure",
+        "customer_concentration"
+      ],
+      "source_documents": [
+        "doc_packtech_ic"
+      ],
+      "salesforce_opportunity_id": "006DDDD444",
+      "similar_deals_computed": [
+        {
+          "deal_id": "deal_forge_2018",
+          "score": 0.66,
+          "drivers": [
+            "sector"
+          ]
+        }
+      ],
+      "outcome": {
+        "decision": "closed",
+        "decision_date": "2022-12-19",
+        "primary_reason": null,
+        "secondary_reasons": [],
+        "irr": 0.15,
+        "moic": 1.6,
+        "holding_period_years": 3,
+        "exit_year": null,
+        "exit_ev_usd": null,
+        "exit_type": "held",
+        "post_decision_tracking": "Closed at $245M EV. Currently held. Margin program tracking ~80% of plan due to resin price volatility."
+      },
+      "underwriting_case": {
+        "year_1": {
+          "revenue_usd": 178000000,
+          "ebitda_usd": 27500000,
+          "ebitda_margin": 0.154
+        },
+        "year_3": {
+          "revenue_usd": 210000000,
+          "ebitda_usd": 36000000,
+          "ebitda_margin": 0.171
+        },
+        "year_5_exit": {
+          "revenue_usd": 250000000,
+          "ebitda_usd": 46000000,
+          "ebitda_margin": 0.184,
+          "ev_usd": 460000000,
+          "moic": 2.3,
+          "irr": 0.2
+        }
+      },
+      "portco_actuals": [
+        {
+          "year": 2022,
+          "revenue_usd": 165000000,
+          "ebitda_usd": 24000000,
+          "ebitda_margin": 0.145
+        },
+        {
+          "year": 2023,
+          "revenue_usd": 175000000,
+          "ebitda_usd": 26100000,
+          "ebitda_margin": 0.149
+        },
+        {
+          "year": 2024,
+          "revenue_usd": 188000000,
+          "ebitda_usd": 29000000,
+          "ebitda_margin": 0.154
+        },
+        {
+          "year": 2025,
+          "revenue_usd": 198000000,
+          "ebitda_usd": 31600000,
+          "ebitda_margin": 0.16
+        }
+      ]
+    }
+  ]
+}

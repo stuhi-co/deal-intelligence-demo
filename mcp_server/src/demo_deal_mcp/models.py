@@ -20,6 +20,10 @@ class Sector(StrEnum):
     consumer_products = "consumer_products"
     manufacturing = "manufacturing"
     specialty_chemicals = "specialty_chemicals"
+    consumer_apparel = "consumer_apparel"
+    construction_materials = "construction_materials"
+    consumer_tech = "consumer_tech"
+    transportation_logistics = "transportation_logistics"
 
 
 class DealStatus(StrEnum):
@@ -64,6 +68,9 @@ class DocType(StrEnum):
     funds_flow = "funds_flow"
     ioi_tracker = "ioi_tracker"
     final_bid_comparison = "final_bid_comparison"
+    lp_annual_report = "lp_annual_report"
+    lp_quarterly_report = "lp_quarterly_report"
+    pitch_deck = "pitch_deck"
 
 
 class ExitType(StrEnum):

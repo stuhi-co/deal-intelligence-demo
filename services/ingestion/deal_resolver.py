@@ -517,6 +517,19 @@ def _synthesize_portfolio(
 
     portco_actuals = _aggregate_period_actuals(tagged)
 
+    # Underwriting case: extracted from entry IC memo when one is present in the
+    # folder (some portfolio folders include the original entry IC memo under
+    # Deal Materials/). Mirrors the exited resolver.
+    underwriting_case = None
+    entry_memo = _pick_entry_memo(tagged)
+    if entry_memo is not None:
+        _, em_t = entry_memo
+        if em_t.underwriting_case_extract:
+            underwriting_case = {
+                year_label: yr.model_dump(mode="json", exclude_none=True)
+                for year_label, yr in em_t.underwriting_case_extract.items()
+            }
+
     deal_dict = {
         **deal_partial,
         "status": "closed_held",
@@ -525,6 +538,7 @@ def _synthesize_portfolio(
         "risk_flags": risk_flags,
         "outcome": None,
         "portco_actuals": portco_actuals,
+        "underwriting_case": underwriting_case,
         "_resolver_meta": {
             "kind": "portfolio",
             "qualifying_doc_count": len(qualifying),

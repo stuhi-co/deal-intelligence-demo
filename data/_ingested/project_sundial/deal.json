@@ -1,0 +1,49 @@
+{
+  "deal_id": "deal_project_sundial_2022",
+  "codename": "project_sundial",
+  "aliases": [
+    "project_sundial",
+    "Slumber Smart, Inc."
+  ],
+  "company_canonical": "Slumber Smart, Inc.",
+  "status": "active_diligence",
+  "stage_entered_at": "2022-04-01",
+  "lead_partner": null,
+  "deal_team": [],
+  "sector": "consumer_tech",
+  "subsector": "connected_devices",
+  "geography": "national",
+  "deal_type": "platform",
+  "financials": {
+    "revenue_ltm_usd": 145100000.0,
+    "ebitda_ltm_usd": 18000000.0,
+    "ebitda_margin": 0.124,
+    "revenue_cagr_3yr": 0.26,
+    "ev_proposed_usd": 200000000.0,
+    "ev_ebitda_multiple": 11.1
+  },
+  "thesis_themes": [
+    "recurring_revenue",
+    "premiumization",
+    "margin_expansion",
+    "market_consolidation"
+  ],
+  "risk_flags": [
+    "founder_dependency",
+    "supply_chain_concentration",
+    "customer_concentration"
+  ],
+  "source_documents": [
+    "doc_project_sundial_001",
+    "doc_project_sundial_002"
+  ],
+  "salesforce_opportunity_id": null,
+  "similar_deals_computed": [],
+  "outcome": null,
+  "_resolver_meta": {
+    "kind": "active",
+    "qualifying_doc_count": 2,
+    "confidence_threshold_used": 0.9,
+    "total_tagged_docs": 2
+  }
+}

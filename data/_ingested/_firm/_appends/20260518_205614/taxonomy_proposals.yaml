@@ -1,0 +1,54 @@
+proposals:
+- field: doc_type
+  proposed_value: lp_annual_report
+  closest_existing: lp_annual_report
+  rationale: "Document is explicitly titled 'Annual LP Report' for Fund III \u2014\
+    \ maps directly to lp_annual_report."
+  confidence: 1.0
+- field: sector
+  proposed_value: multi_sector_fund
+  closest_existing: consumer_products
+  rationale: Atlas Crossing Partners Fund III is a diversified lower-MM PE fund spanning
+    specialty food distribution, QSR/beverage, auto parts distribution, specialty
+    food ingredients, and light industrial manufacturing. No single sector encompasses
+    the fund. consumer_products is chosen as the plurality sector by portfolio revenue,
+    but a multi_sector_fund or private_equity_fund type would be more accurate.
+  confidence: 0.6
+- field: sector
+  proposed_value: private_equity_fund
+  closest_existing: business_services
+  rationale: This document is an LP quarterly report for a PE fund-of-companies (Fund
+    III), not a single operating company in any one sector. The fund holds assets
+    across food distribution, QSR/beverage, auto parts distribution, food ingredients,
+    and light industrial manufacturing. No single sector taxonomy value fits; 'business_services'
+    is the closest available but does not accurately describe a PE fund vehicle.
+  confidence: 0.55
+- field: sector
+  proposed_value: diversified_private_equity_fund
+  closest_existing: business_services
+  rationale: This document covers a multi-sector PE fund (Fund III) holding companies
+    across food distribution, QSR/beverage, auto parts distribution, food ingredients,
+    and light industrial manufacturing. No single sector taxonomy value captures the
+    fund-level aggregation. business_services is used as a fallback but does not accurately
+    represent the fund.
+  confidence: 0.45
+- field: sector
+  proposed_value: multi_sector_pe_fund
+  closest_existing: business_services
+  rationale: Atlas Crossing Partners is a PE fund manager, not an operating company
+    in a single sector. The fund itself invests across Business Services, Specialty
+    Distribution, and Industrial/Light Manufacturing. 'business_services' is selected
+    as the closest existing value because it is the first-named and arguably most
+    prominent sector focus, but a 'pe_fund_manager' or 'diversified' sector classification
+    would be more accurate for an LP pitch deck of this nature.
+  confidence: 0.55
+- field: subsector
+  proposed_value: outsourced_business_services
+  closest_existing: outsourced_business_services
+  rationale: The fund's Business Services focus includes 'outsourced B2B' which maps
+    reasonably to outsourced_business_services, but the fund also invests in Specialty
+    Distribution and Industrial/Light Manufacturing, making any single subsector assignment
+    imprecise. Leaving subsector null is preferable given the multi-sector fund nature;
+    however, if sector is pinned to business_services, outsourced_business_services
+    is the closest valid subsector.
+  confidence: 0.45

@@ -1,0 +1,550 @@
+{
+  "documents": [
+    {
+      "doc_id": "doc_8429",
+      "deal_id": "deal_falcon_2025",
+      "doc_type": "cim",
+      "title": "Project Falcon \u2014 Confidential Information Memorandum",
+      "date": "2026-02-20",
+      "expert_id": null,
+      "summary": "Sell-side CIM for MedTech Services, a southeast-US outsourced clinical services platform with $142M revenue and 19.7% EBITDA margin. Roll-up thesis on a fragmented sub-vertical with founder-led targets.",
+      "key_quotes": [],
+      "structured": {
+        "company": "MedTech Services Inc.",
+        "revenue_ltm_usd": 142000000,
+        "ebitda_ltm_usd": 28000000,
+        "ebitda_margin": 0.197,
+        "revenue_cagr_3yr": 0.14,
+        "growth_drivers": [
+          "recurring contract base",
+          "M&A pipeline of 8 targets",
+          "expansion into adjacent payer services"
+        ],
+        "risks": [
+          "top-3 payer represents 31% of revenue",
+          "labor inflation in clinical roles"
+        ]
+      },
+      "full_text_excerpt": "MedTech Services Inc. is a leading provider of outsourced clinical services to regional health systems..."
+    },
+    {
+      "doc_id": "doc_8430",
+      "deal_id": "deal_falcon_2025",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Channel Pricing Dynamics in Outsourced Clinical Services",
+      "date": "2026-04-02",
+      "expert_id": "expert_jdoe",
+      "summary": "30-minute call with Jane Doe, former VP of Network Strategy at a top-5 national payer, on pricing leverage between clinical service vendors and payers.",
+      "key_quotes": [
+        {
+          "quote": "Channel pricing power has declined materially over the past 18 months as payers consolidated negotiating leverage and tied reimbursement to outcome-based contracts. Vendors that don't own the patient relationship are getting squeezed 200-300 bps per renewal cycle.",
+          "topic": "channel_pricing_power"
+        },
+        {
+          "quote": "The winners are the platforms with proprietary outcome data \u2014 they can defend price. Pure-play staffing models cannot.",
+          "topic": "competitive_dynamics"
+        }
+      ],
+      "full_text_excerpt": "Q: How has pricing power shifted in this space over the past two years? A: Channel pricing power has declined materially..."
+    },
+    {
+      "doc_id": "doc_8431",
+      "deal_id": "deal_falcon_2025",
+      "doc_type": "dd_report",
+      "title": "Project Falcon \u2014 Commercial DD (Bain)",
+      "date": "2026-04-18",
+      "expert_id": null,
+      "summary": "Bain commercial DD validates market size and growth but flags payer-concentration risk.",
+      "key_quotes": [],
+      "full_text_excerpt": "Market size estimated at $14.2B with 4-6% organic growth. Top-3 payer dependency is the most material risk to underwriting..."
+    },
+    {
+      "doc_id": "doc_8455",
+      "deal_id": "deal_falcon_2025",
+      "doc_type": "ic_memo",
+      "title": "Project Falcon \u2014 Preliminary IC Memo",
+      "date": "2026-04-30",
+      "expert_id": null,
+      "summary": "Preliminary IC memo recommending continuation to confirmatory DD at $285M EV (10.2x EBITDA).",
+      "key_quotes": [],
+      "full_text_excerpt": "Recommendation: proceed to confirmatory diligence. Entry multiple of 10.2x is in line with precedents (Acme 10.5x, HealthRoll 9.0x)..."
+    },
+    {
+      "doc_id": "doc_9102",
+      "deal_id": "deal_orion_2026",
+      "doc_type": "cim",
+      "title": "Project Orion \u2014 CIM",
+      "date": "2026-03-10",
+      "expert_id": null,
+      "summary": "Specialty industrial distributor, $198M revenue, 11.1% margin.",
+      "key_quotes": [],
+      "full_text_excerpt": "Orion Industrial Supply is a midwest specialty distributor..."
+    },
+    {
+      "doc_id": "doc_9103",
+      "deal_id": "deal_orion_2026",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Specialty Distribution Cycle Risk",
+      "date": "2026-04-15",
+      "expert_id": "expert_mfeld",
+      "summary": "Industrial distribution veteran on the current cycle.",
+      "key_quotes": [
+        {
+          "quote": "We're late-cycle. Inventory builds are slowing across the channel.",
+          "topic": "cyclicality"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_9120",
+      "deal_id": "deal_orion_2026",
+      "doc_type": "ic_memo",
+      "title": "Project Orion \u2014 IC Memo (Pre-LOI)",
+      "date": "2026-04-25",
+      "expert_id": null,
+      "summary": "Recommendation to submit LOI at 10.5x.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_3201",
+      "deal_id": "deal_acme_2021",
+      "doc_type": "cim",
+      "title": "Acme MedSupply \u2014 CIM",
+      "date": "2021-05-15",
+      "expert_id": null,
+      "summary": "Outsourced clinical services platform; $118M revenue.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_3202",
+      "deal_id": "deal_acme_2021",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Outsourced Clinical Services Demand",
+      "date": "2021-06-20",
+      "expert_id": "expert_jdoe",
+      "summary": "Jane Doe on post-COVID demand normalization in clinical services.",
+      "key_quotes": [
+        {
+          "quote": "Outsourced clinical services demand normalized in Q1 2021 but contract pricing held firm \u2014 vendors with multi-year MSAs are insulated.",
+          "topic": "pricing_power"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_3210",
+      "deal_id": "deal_acme_2021",
+      "doc_type": "ic_memo",
+      "title": "Acme MedSupply \u2014 Final IC Memo",
+      "date": "2021-08-10",
+      "expert_id": null,
+      "summary": "Approved at $220M EV.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_2101",
+      "deal_id": "deal_techflow_2019",
+      "doc_type": "cim",
+      "title": "TechFlow Distribution \u2014 CIM",
+      "date": "2019-09-05",
+      "expert_id": null,
+      "summary": "Specialty distributor, $165M revenue.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_2102",
+      "deal_id": "deal_techflow_2019",
+      "doc_type": "ic_memo",
+      "title": "TechFlow Distribution \u2014 IC Memo",
+      "date": "2019-12-01",
+      "expert_id": null,
+      "summary": "Approved at $175M EV (9.2x).",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_4401",
+      "deal_id": "deal_atlas_2022",
+      "doc_type": "cim",
+      "title": "Atlas Health Group \u2014 CIM",
+      "date": "2022-04-15",
+      "expert_id": null,
+      "summary": "Outsourced clinical platform, northeast.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_4402",
+      "deal_id": "deal_atlas_2022",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Management Reference (Atlas CEO)",
+      "date": "2022-06-30",
+      "expert_id": "expert_bstone",
+      "summary": "Reference call flagged concerns on Atlas management depth.",
+      "key_quotes": [
+        {
+          "quote": "Strong founder but limited second-line bench. Two senior departures in the last 12 months.",
+          "topic": "management_quality"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_4410",
+      "deal_id": "deal_atlas_2022",
+      "doc_type": "ic_memo",
+      "title": "Atlas \u2014 Pass Memo",
+      "date": "2022-08-14",
+      "expert_id": null,
+      "summary": "Recommend pass: management quality + customer concentration.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_5501",
+      "deal_id": "deal_cascade_2024",
+      "doc_type": "cim",
+      "title": "Cascade Software Holdings \u2014 CIM",
+      "date": "2024-10-10",
+      "expert_id": null,
+      "summary": "Vertical SaaS roll-up candidate.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_5502",
+      "deal_id": "deal_cascade_2024",
+      "doc_type": "dd_report",
+      "title": "Cascade \u2014 Tech DD (early)",
+      "date": "2024-11-05",
+      "expert_id": null,
+      "summary": "Stack heterogeneity raised integration risk.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_2801",
+      "deal_id": "deal_healthroll_2020",
+      "doc_type": "cim",
+      "title": "HealthRoll Partners \u2014 CIM",
+      "date": "2020-06-22",
+      "expert_id": null,
+      "summary": "Founder-led clinical platform.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_2802",
+      "deal_id": "deal_healthroll_2020",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Regulatory Landscape",
+      "date": "2020-08-12",
+      "expert_id": "expert_lwong",
+      "summary": "Regulatory exposure assessment.",
+      "key_quotes": [
+        {
+          "quote": "State-level reimbursement rules will tighten but the federal floor protects core revenue.",
+          "topic": "regulatory_exposure"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_2810",
+      "deal_id": "deal_healthroll_2020",
+      "doc_type": "ic_memo",
+      "title": "HealthRoll \u2014 IC Memo",
+      "date": "2020-09-22",
+      "expert_id": null,
+      "summary": "Approved at $180M EV (9.0x).",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_6601",
+      "deal_id": "deal_midstates_2022",
+      "doc_type": "cim",
+      "title": "MidStates Components \u2014 CIM",
+      "date": "2022-02-10",
+      "expert_id": null,
+      "summary": "MRO distribution platform.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_6602",
+      "deal_id": "deal_midstates_2022",
+      "doc_type": "ic_memo",
+      "title": "MidStates \u2014 IC Memo",
+      "date": "2022-05-15",
+      "expert_id": null,
+      "summary": "Approved at $195M EV.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_kibble_cim",
+      "deal_id": "deal_kibble_2024",
+      "doc_type": "cim",
+      "title": "Project Kibble \u2014 CIM",
+      "date": "2024-03-15",
+      "expert_id": null,
+      "summary": "Premium dry/wet pet food brand with strong D2C subscription channel.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Pawsome Premium Foods Inc.",
+        "revenue_ltm_usd": 168000000,
+        "ebitda_ltm_usd": 27000000,
+        "ebitda_margin": 0.161,
+        "revenue_cagr_3yr": 0.21,
+        "growth_drivers": [
+          "D2C subscription (42% of revenue)",
+          "specialty retail expansion",
+          "fresh/freeze-dried adjacency launch"
+        ],
+        "risks": [
+          "protein cost volatility",
+          "private-label encroachment in mid-tier"
+        ]
+      },
+      "full_text_excerpt": "Pawsome Premium Foods has built a $168M revenue premium pet food brand with industry-leading subscription retention..."
+    },
+    {
+      "doc_id": "doc_kibble_ic",
+      "deal_id": "deal_kibble_2024",
+      "doc_type": "ic_memo",
+      "title": "Project Kibble \u2014 IC Memo",
+      "date": "2024-07-01",
+      "expert_id": null,
+      "summary": "Recommend close at $360M EV (13.3x).",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_kibble_expert_1",
+      "deal_id": "deal_kibble_2024",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Premium Pet Food Channel Pricing",
+      "date": "2024-05-20",
+      "expert_id": "expert_rgarza",
+      "summary": "Pet specialty retail veteran on premium pricing durability.",
+      "key_quotes": [
+        {
+          "quote": "Premium pet food retains pricing power as long as brand owns the subscription relationship. Channel pricing power has declined for brands sold primarily through mass and grocery.",
+          "topic": "channel_pricing_power"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_whisker_cim",
+      "deal_id": "deal_whisker_2025",
+      "doc_type": "cim",
+      "title": "Project Whisker \u2014 CIM",
+      "date": "2025-10-25",
+      "expert_id": null,
+      "summary": "Natural/limited-ingredient pet food, $92M revenue, founder-led.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Whisker Naturals LLC",
+        "revenue_ltm_usd": 92000000,
+        "ebitda_ltm_usd": 14500000,
+        "ebitda_margin": 0.158,
+        "revenue_cagr_3yr": 0.28,
+        "growth_drivers": [
+          "natural ingredient trend",
+          "Amazon FBA channel",
+          "veterinary endorsements"
+        ],
+        "risks": [
+          "one customer (Chewy) = 34% of revenue",
+          "single-source protein supplier"
+        ]
+      },
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_whisker_expert_1",
+      "deal_id": "deal_whisker_2025",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Natural Pet Food Trends",
+      "date": "2025-11-30",
+      "expert_id": "expert_rgarza",
+      "summary": "Natural/limited-ingredient is the fastest-growing segment.",
+      "key_quotes": [
+        {
+          "quote": "Natural and limited-ingredient is growing 15-20% annually while mass-market is flat.",
+          "topic": "segment_growth"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_whisker_expert_2",
+      "deal_id": "deal_whisker_2025",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Chewy Vendor Dynamics",
+      "date": "2026-01-10",
+      "expert_id": "expert_tpark",
+      "summary": "Former Chewy category buyer on vendor concentration risk.",
+      "key_quotes": [
+        {
+          "quote": "Chewy can de-list a vendor with 90 days notice. Single-channel exposure above 30% should be a yellow flag.",
+          "topic": "customer_concentration"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_paws_cim",
+      "deal_id": "deal_paws_2023",
+      "doc_type": "cim",
+      "title": "Project Paws \u2014 CIM",
+      "date": "2023-06-25",
+      "expert_id": null,
+      "summary": "Mid-tier dry pet food, $78M revenue.",
+      "key_quotes": [],
+      "structured": {
+        "company": "BarkBites Inc.",
+        "revenue_ltm_usd": 78000000,
+        "ebitda_ltm_usd": 8500000,
+        "ebitda_margin": 0.109,
+        "growth_drivers": [
+          "grocery distribution expansion"
+        ],
+        "risks": [
+          "private-label encroachment",
+          "thin margins"
+        ]
+      },
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_paws_expert_1",
+      "deal_id": "deal_paws_2023",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Private Label in Pet Food",
+      "date": "2023-08-08",
+      "expert_id": "expert_rgarza",
+      "summary": "Private-label share is gaining fast in mid-tier dry pet food.",
+      "key_quotes": [
+        {
+          "quote": "Private-label share in mid-tier dry food moved from 18% to 26% in 18 months. Brands without premiumization or differentiated channel access are getting squeezed.",
+          "topic": "private_label_pressure"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_crunch_cim",
+      "deal_id": "deal_crunch_2026",
+      "doc_type": "cim",
+      "title": "Project Crunch \u2014 CIM (Corporate Divestiture)",
+      "date": "2026-04-15",
+      "expert_id": null,
+      "summary": "Carve-out of a $215M pet food division from a CPG parent.",
+      "key_quotes": [],
+      "structured": {
+        "company": "Crunch Pet Co.",
+        "revenue_ltm_usd": 215000000,
+        "ebitda_ltm_usd": 31000000,
+        "ebitda_margin": 0.144,
+        "growth_drivers": [
+          "margin uplift from standalone cost base",
+          "SKU rationalization"
+        ],
+        "risks": [
+          "TSA dependency on parent",
+          "shared manufacturing assets"
+        ]
+      },
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_crunch_expert_1",
+      "deal_id": "deal_crunch_2026",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 CPG Carve-out Operational Risk",
+      "date": "2026-05-01",
+      "expert_id": "expert_mfeld",
+      "summary": "Operational risks in CPG carve-outs.",
+      "key_quotes": [
+        {
+          "quote": "Shared manufacturing on carve-outs typically costs 18-24 months of management attention and 100-200 bps of margin during transition.",
+          "topic": "carve_out_risk"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_forge_ic",
+      "deal_id": "deal_forge_2018",
+      "doc_type": "ic_memo",
+      "title": "Forge Precision \u2014 IC Memo",
+      "date": "2018-07-20",
+      "expert_id": null,
+      "summary": "Approved at $215M EV (9.8x).",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_forge_expert_1",
+      "deal_id": "deal_forge_2018",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Lean Ops in Precision Manufacturing",
+      "date": "2018-06-12",
+      "expert_id": "expert_sokafor",
+      "summary": "Margin expansion playbook for precision components.",
+      "key_quotes": [
+        {
+          "quote": "300-500 bps of margin is recoverable in precision components through SKU rationalization and OEE programs within 24 months.",
+          "topic": "margin_expansion"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_polymer_ic",
+      "deal_id": "deal_polymer_2019",
+      "doc_type": "ic_memo",
+      "title": "Polymer Process \u2014 IC Memo",
+      "date": "2019-05-02",
+      "expert_id": null,
+      "summary": "Approved at $280M EV.",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_polymer_expert_1",
+      "deal_id": "deal_polymer_2019",
+      "doc_type": "expert_call",
+      "title": "Expert Call \u2014 Specialty Chemicals Pricing",
+      "date": "2019-03-18",
+      "expert_id": "expert_sokafor",
+      "summary": "Pricing discipline opportunity in fragmented process manufacturing.",
+      "key_quotes": [
+        {
+          "quote": "Most process manufacturers underprice by 200-400 bps relative to value delivered.",
+          "topic": "pricing_discipline"
+        }
+      ],
+      "full_text_excerpt": "..."
+    },
+    {
+      "doc_id": "doc_packtech_ic",
+      "deal_id": "deal_packtech_2022",
+      "doc_type": "ic_memo",
+      "title": "PackTech \u2014 IC Memo",
+      "date": "2022-12-10",
+      "expert_id": null,
+      "summary": "Approved at $245M EV (10.2x).",
+      "key_quotes": [],
+      "full_text_excerpt": "..."
+    }
+  ]
+}
