@@ -3,6 +3,7 @@
 import "server-only";
 
 import { IdentityPoolClient, Impersonated } from "google-auth-library";
+import { getVercelOidcToken } from "@vercel/functions/oidc";
 
 const TOOL_SERVER = process.env.TOOL_SERVER_URL || "http://localhost:8000";
 
@@ -29,11 +30,7 @@ function impersonator(): Impersonated {
     subject_token_type: "urn:ietf:params:oauth:token-type:jwt",
     token_url: "https://sts.googleapis.com/v1/token",
     subject_token_supplier: {
-      getSubjectToken: async () => {
-        const tok = process.env.VERCEL_OIDC_TOKEN;
-        if (!tok) throw new Error("VERCEL_OIDC_TOKEN missing");
-        return tok;
-      },
+      getSubjectToken: async () => getVercelOidcToken(),
     },
   });
   cached = new Impersonated({
@@ -47,7 +44,6 @@ function impersonator(): Impersonated {
 }
 
 async function authHeaders(): Promise<Record<string, string>> {
-  if (!process.env.VERCEL_OIDC_TOKEN) return {};
   const idToken = await impersonator().fetchIdToken(TOOL_SERVER);
   return { Authorization: `Bearer ${idToken}` };
 }
