@@ -5,7 +5,9 @@ import "server-only";
 import Anthropic from "@anthropic-ai/sdk";
 import { invokeTool, listTools } from "./tool-client";
 import { buildCitation } from "./citations";
-import type { Citation, Provenance, ScopeContext } from "./types";
+import type { ChatMessage, Citation, Provenance, ScopeContext } from "./types";
+
+const MAX_HISTORY_PAIRS = 5;
 
 const MODEL = "claude-sonnet-4-6";
 const MAX_ITERATIONS = 8;
@@ -54,6 +56,43 @@ export type StreamEvent =
       iterations: number;
     }
   | { type: "error"; message: string };
+
+/**
+ * Build Anthropic-shaped history from prior UI messages.
+ *
+ * Hybrid policy: keep the last N completed (user, assistant) pairs as
+ * plain-text turns. Intermediate tool_use / tool_result blocks from prior
+ * turns are dropped — if the model needs the evidence again it will re-call
+ * the tool. Stale <sup data-cite="N"> markers from prior assistant text are
+ * stripped so the model doesn't copy meaningless citation numbers.
+ */
+export function buildHistory(messages: ChatMessage[]): Msg[] {
+  const pairs: Array<{ user: string; assistant: string }> = [];
+  let i = messages.length - 1;
+  while (i >= 0 && pairs.length < MAX_HISTORY_PAIRS) {
+    const m = messages[i];
+    if (m.role !== "assistant" || m.status !== "done" || !m.text.trim()) {
+      i--;
+      continue;
+    }
+    const prev = messages[i - 1];
+    if (!prev || prev.role !== "user") {
+      i--;
+      continue;
+    }
+    pairs.unshift({
+      user: prev.content,
+      assistant: m.text.replace(/<sup\s+data-cite=["']\d+["']\s*><\/sup>/g, ""),
+    });
+    i -= 2;
+  }
+  const out: Msg[] = [];
+  for (const p of pairs) {
+    out.push({ role: "user", content: p.user });
+    out.push({ role: "assistant", content: p.assistant });
+  }
+  return out;
+}
 
 function scopeNote(scope: ScopeContext | null): string {
   if (!scope) return "Scope: none (firm-wide).";

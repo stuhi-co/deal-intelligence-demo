@@ -1,5 +1,5 @@
-import { orchestrateStream } from "@/lib/orchestrator";
-import type { ScopeContext } from "@/lib/types";
+import { buildHistory, orchestrateStream } from "@/lib/orchestrator";
+import type { ChatMessage, ScopeContext } from "@/lib/types";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -8,6 +8,7 @@ export const maxDuration = 120;
 type Body = {
   message: string;
   scope: ScopeContext | null;
+  history?: ChatMessage[];
 };
 
 export async function POST(request: Request) {
@@ -34,6 +35,7 @@ export async function POST(request: Request) {
         for await (const ev of orchestrateStream({
           message: body.message,
           scope: body.scope ?? null,
+          history: Array.isArray(body.history) ? buildHistory(body.history) : [],
         })) {
           controller.enqueue(encoder.encode(JSON.stringify(ev) + "\n"));
         }

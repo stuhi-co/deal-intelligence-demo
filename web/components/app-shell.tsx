@@ -123,11 +123,15 @@ export function AppShell() {
         setCurrentId(sessionId);
       }
 
+      // Snapshot prior history before appending the new turn — orchestrator
+      // expects the conversation *up to but not including* this user message.
+      const priorHistory = messagesRef.current;
+
       // Local accumulator updated SYNCHRONOUSLY on every patch — React's
       // setMessages updater is async, so reading messagesRef in the finally
       // block could otherwise see a state from before the final "done" patch
       // has flushed (chat would persist with status="streaming").
-      let buf: ChatMessage[] = [...messagesRef.current, userMsg, seedAsst];
+      let buf: ChatMessage[] = [...priorHistory, userMsg, seedAsst];
       messagesRef.current = buf;
       setMessages(buf);
       setIsLoading(true);
@@ -147,7 +151,11 @@ export function AppShell() {
         const r = await fetch("/api/chat", {
           method: "POST",
           headers: { "content-type": "application/json" },
-          body: JSON.stringify({ message: text, scope: useScope }),
+          body: JSON.stringify({
+            message: text,
+            scope: useScope,
+            history: priorHistory,
+          }),
         });
         if (!r.ok || !r.body) {
           const err = await r.json().catch(() => ({ error: r.statusText }));
