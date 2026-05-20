@@ -6,6 +6,8 @@ chat orchestrator can call them as Anthropic tool-use endpoints.
 
 from __future__ import annotations
 
+import os
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -13,9 +15,12 @@ from .routers import tools
 
 app = FastAPI(title="Atlas Crossing tool server")
 
+_default_origins = "http://localhost:3000,http://127.0.0.1:3000"
+_origins = [o.strip() for o in os.environ.get("CORS_ORIGINS", _default_origins).split(",") if o.strip()]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_origins=_origins,
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
