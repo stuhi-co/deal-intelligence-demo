@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Demo PE deal intelligence platform: MCP server + ingestion pipeline."
 requires-python = ">=3.11"
 dependencies = [
-    "mcp>=1.2.0",
+    "mcp>=1.28.1",
     "pydantic>=2.6",
     "pyyaml>=6.0",
     "rapidfuzz>=3.6",
